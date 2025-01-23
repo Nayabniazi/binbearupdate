@@ -115,7 +115,7 @@ export default function Services1() {
                         style={{ marginBottom: '0px', marginTop: '0px', fontSize: '13px', color: 'red', textAlign: '' }}
                     >
                     
-                        Disclaimer: If your a input the first differs greatly from new information you have provided, your price of service may
+                        Disclaimer: If you a input the first differs greatly from new information you have provided, your price of service may
                         increase 10%-20%
                     </p>
                 </div>
