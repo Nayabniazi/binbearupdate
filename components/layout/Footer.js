@@ -77,24 +77,7 @@ export default function Footer1({ }) {
                                             Our Location
                                         </button>
                                     </a>
-                                    <a href="/register" style={{ textDecoration: 'none', width: '100%' }}>
-                                        <button
-                                            style={{
-                                                backgroundColor: 'orange',
-                                                color: 'black',
-                                                border: 'none',
-                                                padding: '10px 20px',
-                                                cursor: 'pointer',
-                                                display: 'flex',
-                                                justifyContent: 'center',
-                                                alignItems: 'center',
-                                                width: '100%',
-                                                maxWidth: '200px',
-                                            }}
-                                        >
-                                            Franchise
-                                        </button>
-                                    </a>
+                                   
                                 </div>
                             </div>
 
@@ -110,9 +93,7 @@ export default function Footer1({ }) {
                                     <li>
                                         <Link href="/Dumpster-Rental">Dumpster Rental</Link>
                                     </li>
-                                    <li>
-                                        <Link href="/JK-bags">Jk Dumpster Bag</Link>
-                                    </li>
+                                    
                                     <li>
                                         <Link href="/Estimate">National Accounts</Link>
                                     </li>
@@ -130,9 +111,7 @@ export default function Footer1({ }) {
                                     <li>
                                         <Link href="#">Apply Locally</Link>
                                     </li>
-                                    <li>
-                                        <Link href="#">Neighbory</Link>
-                                    </li>
+                                   
                                     <li>
                                         <Link href="/register">Contact us</Link>
                                     </li>
@@ -151,14 +130,9 @@ export default function Footer1({ }) {
                                         <Link href="#">Privacy Policy</Link>
                                     </li>
                                     <li>
-                                        <Link href="#">California Privacy Policy</Link>
+                                        <Link href="/Recycle">We Recycle</Link>
                                     </li>
-                                    <li>
-                                        <Link href="#">Notice</Link>
-                                    </li>
-                                    <li>
-                                        <Link href="#">Disclaimer</Link>
-                                    </li>
+
                                 </ul>
                             </div>
                             <div className="col-lg-3 width-20 mb-30" style={{ backgroundColor: 'black' }}>
@@ -234,7 +208,7 @@ export default function Footer1({ }) {
                         paddingBottom: '50px',
                     }}
                 >
-                    <div className="footer-bottom">
+                    <div className="footer-bottom"style={{marginLeft:'60px',marginRight:'60px'}}>
                         <div className="row align-items-center">
                             <div className="col-sm-5 text-center text-sm-start">
                                 <span className="color-grey-300 font-xs">

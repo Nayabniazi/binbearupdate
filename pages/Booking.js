@@ -17,7 +17,7 @@ export default function Login() {
         e.preventDefault();
 
         // Validate the zip code
-        if (zipCode === "90001") {
+        if (zipCode === "") {
             setMessage("Good news! We've got you covered.");
             setTimeout(() => {
                 router.push("/choose-service"); // Redirect after 3 seconds
@@ -99,9 +99,7 @@ export default function Login() {
                                     >
                                         <input
                                             type="text"
-                                            id="zip-code"
-                                            value={zipCode}
-                                            onChange={handleZipCodeChange}
+                                           
                                             placeholder="ZIP Code"
                                             className="zip-code-input"
                                             style={{
