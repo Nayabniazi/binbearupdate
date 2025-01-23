@@ -264,12 +264,9 @@ landfills.With trusted relationship with local landfills,we work hard to recycle
                                     <div className="card-image"><img src="/assets/imgs/page/homepage1/deliveryy.png" alt="transp"style={{width:'120px'}} />
                                     </div>
                                     <div className="card-info">
-<<<<<<< HEAD
-                                        <h5 className="color- mb-15"style={{color:'black',}}>UnBearable junk problems solved at an unBEARlievable Value!</h5>
-=======
-                                        <h5 className="color- mb-15"style={{color:'black',}}>UnBearable
-                                         junk problems solved at an un<span style={{color:'orange',fontSize:'27px'}}>BEAR</span>lievable Value!</h5>
->>>>>>> 3636c8c (Updated changes)
+                                    
+                                    <h5 className="color- "style={{color:'black'}}>Unbearable junk problems solved at an Un<span style={{color:'orange',fontSize:'25px'}}>BEAR</span>lievable Value!</h5>
+                                      
                                         <p className="font-sm color-grey-900 mb-35"></p>
                                         <div className="box-button-offer mb-30"style={{marginTop:'50px'}}><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
                                             <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
