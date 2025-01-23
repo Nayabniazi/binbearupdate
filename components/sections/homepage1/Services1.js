@@ -114,13 +114,9 @@ export default function Services1() {
                         className=""
                         style={{ marginBottom: '0px', marginTop: '0px', fontSize: '13px', color: 'red', textAlign: '' }}
                     >
-<<<<<<< HEAD
-                        Disclaimer: If your load differs greatly from the information you provided, your price of service may
-                        increase by 10%-20%
-=======
+                    
                         Disclaimer: If your a input the first differs greatly from new information you have provided, your price of service may
                         increase 10%-20%
->>>>>>> 3636c8c (Updated changes)
                     </p>
                 </div>
                 
