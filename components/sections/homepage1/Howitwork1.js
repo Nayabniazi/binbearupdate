@@ -31,8 +31,37 @@ export default function Howitwork1() {
                                         height={60} alt="transp" />
                 
                  
-                        <h3 className="color- mb-20 wow animate__animated animate__fadeIn"style={{color:'orange',fontSize:'38px'}}>You just book, and we take care of rest!</h3>
-                        <h3 className="color- mb-20 wow animate__animated animate__fadeIn"style={{color:'black'}}> We make Junk Removal Easy</h3>
+                        
+                        
+                        <h2 className="color- mb-20 wow animate__animated animate__fadeIn"style={{color:'orange',fontSize:'34px'}}>You just book, and we take care of rest!</h2>
+                        <style jsx>{
+                          `h2 {
+  color: orange;
+  font-size: 34px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  h2 {
+    font-size: 28px;  /* Adjust font size for mobile */
+    text-align: center;  /* Center the text on mobile */
+  }
+}
+
+@media (max-width: 480px) {
+  h2 {
+    font-size: 24px;  /* Further reduce font size on very small screens */
+    text-align: center;  /* Keep the text centered on small screens */
+  }
+}
+
+                          
+                          `}
+
+                        </style>
+                        
+                        
+                        <h4 className="color- mb-20 wow animate__animated animate__fadeIn"style={{color:'black'}}> We make Junk Removal Easy</h4>
                         <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">At BinBear, we make junk removal effortless. Whether it’s a single item or a full property cleanout, our team is here to handle every step. With BinBear, you get:
                            .</p>
                            <p className="font-md color-grey-700 wow animate__animated animate__fadeIn" ></p>

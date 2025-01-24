@@ -212,12 +212,12 @@ export default function Footer1({ }) {
                         <div className="row align-items-center">
                             <div className="col-sm-5 text-center text-sm-start">
                                 <span className="color-grey-300 font-xs">
-                                    ©Transp Official {new Date().getFullYear()}. All rights reserved.
+                                    @binbear Official {new Date().getFullYear()}. All rights reserved.
                                 </span>
                             </div>
                             <div className="col-sm-7 text-center text-sm-end">
                                 <ul className="menu-bottom">
-                                    <li><Link className="font-xs color-grey-300" href="/term-conditions">Privacy policy</Link></li>
+                                    <li><Link className="font-xs color-grey-300" href="/term-conditions"></Link></li>
                                     <li><Link className="font-xs color-grey-300" href="/term-conditions">Cookies</Link></li>
                                     <li><Link className="font-xs color-grey-300" href="/term-conditions">Terms of service</Link></li>
                                 </ul>

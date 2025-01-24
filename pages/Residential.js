@@ -877,29 +877,7 @@ padding: '10px', }}>
                                        <div className="box-map-2 wow animate__animated animate__fadeIn">
                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3179.960389549842!2d-83.76408938441998!3d37.15364135542302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884352a00e70879f%3A0x1ad06ed33b7003c!2sIangar!5e0!3m2!1svi!2s!4v1678013229780!5m2!1svi!2s" height={242} style={{ border: 0 }} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
                                        </div>
-                                       <ul className="list-info-footer">
-                                           <li className="wow animate__animated animate__fadeIn">
-                                               <div className="cardImage"><span className="icon-brand-1"><img src="/assets/imgs/page/homepage2/address.svg" alt="transp" /></span></div>
-                                               <div className="cardInfo">
-                                                   <h6 className="font-sm-bold color-white">Address</h6>
-                                                   <p className="font-sm color-white">Headquarters in Frisco,Texas</p>
-                                               </div>
-                                           </li>
-                                           <li className="wow animate__animated animate__fadeIn">
-                                               <div className="cardImage"><span className="icon-brand-1"><img src="/assets/imgs/page/homepage2/email.svg" alt="transp" /></span></div>
-                                               <div className="cardInfo">
-                                                   <h6 className="font-sm-bold color-white">Email</h6>
-                                                   <p className="font-sm color-white">contact@binbears.com</p>
-                                               </div>
-                                           </li>
-                                           <li className="wow animate__animated animate__fadeIn">
-                                               <div className="cardImage"><span className="icon-brand-1"><img src="/assets/imgs/page/homepage2/phone.svg" alt="transp" /></span></div>
-                                               <div className="cardInfo">
-                                                   <h6 className="font-sm-bold color-white">Telephone</h6>
-                                                   <p className="font-sm color-white">214 901 4769</p>
-                                               </div>
-                                           </li>
-                                       </ul>
+                                       
                                
                                    </div>
                                </div>

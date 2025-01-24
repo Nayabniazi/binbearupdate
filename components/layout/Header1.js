@@ -95,7 +95,7 @@ export default function Header({ topBarStyle, handleMobileMenuOpen }) {
                 <div className="container">
                     <div className="main-header">
                         <div className="header-left">
-                            <div className="header-logo"><Link className="d-flex" href=""><img alt="Ecom" src="/img/bear.png.png" /></Link></div>
+                            <div className="header-logo"><Link className="d-flex" href="/"><img alt="Ecom" src="/img/bear.png.png" /></Link></div>
                             <div className="header-nav">
                                 <nav className="nav-main-menu d-none d-xl-block">
                                     <Menu />

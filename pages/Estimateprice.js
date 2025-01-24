@@ -137,41 +137,206 @@ export default function Home2() {
 
                                 <div className="row">
                                         <div className="col-lg-6 mb-30">
-                                           <h6 className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}>1:Click the green "Launch Pricing Estimator" above.</h6>
+                                           
+                                          
+                                           <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        
+    }}>
+        1
+    </span>
+    Click the green "Launch Pricing Estimator" above.
+</h6>
+                        
+                                          
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
                                         </div>
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}>2:Enter your zip code and click the green arrow.
-                                            </h6>
+                                            
+
+                                        <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        
+    }}>
+        2
+    </span>
+    Enter your zip code and click the green arrow.
+</h6>
+                        
+
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"> </p>
                                         </div>
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className="font-md color-grey-700 wow animate__animated animate__fadeIn">3:On the next page you will see this message - "Good news! We've got you covered."
-                                            </h6>
+                                           
+                                          
+
+
+                                            <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        
+    }}>
+        3
+    </span>
+    You'll be taken to the next page titled "By Items or Pickup Truck Loads?
+</h6>
+                        
+
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
                                         </div>
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className="font-md color-grey-700 wow animate__animated animate__fadeIn">4:You'll be taken to the next page titled "By Items or Pickup Truck Loads?"
-                                            </h6>
+                                           
+
+
+                                            <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        
+    }}>
+        4
+    </span>
+    On the next page you will see this message - "Good news! We've got you covered.
+</h6>
+                        
+
+
+
+
+
+
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
                                         </div>
 
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className="font-md color-grey-700 wow animate__animated animate__fadeIn">5:Choose your preferred method of either "Add My Items" or "By Pickup Truck Loads".</h6>
+                                            
+
+                                        <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        
+    }}>
+        5
+    </span>
+    Choose your preferred method of either "Add My Items" or "By Pickup Truck Loads
+</h6>
+                                            
+                                            
+                                            
+                                              <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
+                                        </div>
+                                        <div className="col-lg-6 mb-30">
+                                            
+                                            
+                                        <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        
+    }}>
+        6
+    </span>
+    Enter your name and email address and click the green "Let’s Get Started Button
+</h6>
+                       
+                                            
+                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"> </p>
+                                        </div>
+                                        <div className="col-lg-6 mb-30">
+                                                                     
+                                            
+                                        <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        
+    }}>
+        7
+    </span>
+    Depending on the estimating method you choose, either add up your junk items or enter how many pickup truck loads of junk you have.
+</h6>
+                                           
+                                           
+                                            
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
                                         </div>
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className="font-md color-grey-700 wow animate__animated animate__fadeIn">5:Enter your name and email address and click the green "Let’s Get Started Button".</h6>
-                                            <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"> </p>
-                                        </div>
-                                        <div className="col-lg-6 mb-30">
-                                            <h6 className="font-md color-grey-700 wow animate__animated animate__fadeIn"> 6:Depending on the estimating method you choose, either add up your junk items or enter how many pickup truck loads of junk you have.
-                                            </h6>
-                                            <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
-                                        </div>
-                                        <div className="col-lg-6 mb-30">
-                                            <h6 className="font-md color-grey-700 wow animate__animated animate__fadeIn">7:On the next page, simply click the green "Book It" button.
-                                            </h6>
+                                          
+                                                               
+                                        <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        
+    }}>
+        8
+    </span>
+    On the next page, simply click the green "Book It" button.
+</h6>
+                                          
+                                            
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
                                         </div>
 
@@ -301,21 +466,81 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                         <div className="row mt-50">
                             <div className="col-lg-6">
                                 <div className="item-faqs-2 mb-30">
-                                    <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">1:ON SITE PRICING</h6>
-                                    <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"> The best and most accurate way for us to assess the job and offer you the lowest price is with our free, no-obligation, on site estimate. Once we are on site, we can see how much space your junk removal job will require.
+                                                                             
+                                <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        
+    }}>
+        1
+    </span>
+    ON SITE PRICING
+</h6>
+                   
+                                  
+                                     <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"> The best and most accurate way for us to assess the job and offer you the lowest price is with our free, no-obligation, on site estimate. Once we are on site, we can see how much space your junk removal job will require.
                                     .</p>
                                 </div>
                                
                                 <div className="item-faqs-2 mb-30">
-                                    <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">3:CALL OUR TRAINED STAFF</h6>
-                                    <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">You can also call or live chat with our knowledgeable and courteous customer service team. If you have 4 items or less, we can likely offer you a firm price. If you have 4 items or more, we can give you an accurate estimate. </p>
+                                   
+                                                                                    
+                                <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        
+    }}>
+        3
+    </span>
+    CALL OUR TRAINED STAFF
+</h6>
+                                   
+                                      <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">You can also call or live chat with our knowledgeable and courteous customer service team. If you have 4 items or less, we can likely offer you a firm price. If you have 4 items or more, we can give you an accurate estimate. </p>
                                 </div>
                                 <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">Regardless of which method you use to get your free estimate, the final, no-obligation price will be provided to you by our trained technicians.</p>
                             </div>
                             <div className="col-lg-6">
                             <div className="item-faqs-2 mb-30">
-                                    <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">2:TEXT US A PHOTO</h6>
-                                    <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">You can take a photo of your junk items and text it to us at 737-888-5865 and we will text you back an estimate. And, if your items are in different places on your property, just send us multiple photos and we will be able to provide you with an estimate.</p>
+                                        
+                                                                                    
+                                <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        
+    }}>
+        2
+    </span>
+    TEXT US A PHOTO
+</h6>
+                                    
+                                    
+                                    
+                                    
+                                     <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">You can take a photo of your junk items and text it to us at 737-888-5865 and we will text you back an estimate. And, if your items are in different places on your property, just send us multiple photos and we will be able to provide you with an estimate.</p>
                                 </div>
                                
                               

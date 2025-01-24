@@ -9,23 +9,64 @@ export default function Services1() {
 
 
 <section className="section mt-100">
-                <div className="container">
-                    <h3 className=" mb-20 wow animate__animated animate__fadeIn">3 Quick Steps to Get Started:</h3>
+                <div className="container" >
+                    <h3 className=" mb-20 wow animate__animated animate__fadeIn"style={{marginLeft:'12px'}}>3 Quick Steps to Get Started:</h3>
                     
                     <div className="row align-items-end">
                    
                         <div className="col-lg-8 col-md-8 mb-30">
-                            <p className="font-md color-gray-700 wow animate__animated animate__fadeIn">That's It! You'll receive a text on service day to confirm.</p>
+                            <p className="font-md color-gray-700 wow animate__animated animate__fadeIn"style={{marginLeft:'12px'}}>That's It! You'll receive a text on service day to confirm.</p>
                            
+
+
+
+
+
+
                         </div>
                         
-                        
-                        <div className="col-lg-4 col-md-4 mb-30 text-md-end text-start"><Link className="btn btn-brand-1 hover-up wow animate__animated animate__fadeIn" href="Booking"style={{backgroundColor:'orange'}}>
-                       
-                            <svg fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-                                <path strokeLinecap="round" strokeLinejoin="round" d="M9 12h3.75M9 15h3.75M9 18h3.75m3 .75H18a2.25 2.25 0 002.25-2.25V6.108c0-1.135-.845-2.098-1.976-2.192a48.424 48.424 0 00-1.123-.08m-5.801 0c-.065.21-.1.433-.1.664 0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75 2.25 2.25 0 00-.1-.664m-5.8 0A2.251 2.251 0 0113.5 2.25H15c1.012 0 1.867.668 2.15 1.586m-5.8 0c-.376.023-.75.05-1.124.08C9.095 4.01 8.25 4.973 8.25 6.108V8.25m0 0H4.875c-.621 0-1.125.504-1.125 1.125v11.25c0 .621.504 1.125 1.125 1.125h9.75c.621 0 1.125-.504 1.125-1.125V9.375c0-.621-.504-1.125-1.125-1.125H8.25zM6.75 12h.008v.008H6.75V12zm0 3h.008v.008H6.75V15zm0 3h.008v.008H6.75V18z">
-                                </path>
-                            </svg>Get a quote</Link></div>
+
+
+
+
+
+
+
+
+
+
+
+
+                        <div className="col-lg-4 col-md-4 mb-30 text-md-end text-start">
+  <Link
+    className="btn btn-brand-1 hover-up wow animate__animated animate__fadeIn responsive-btn"
+    href="Booking"
+    style={{ backgroundColor: 'orange' }}
+  >
+    <svg
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.5"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+      aria-hidden="true"
+    >
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        d="M9 12h3.75M9 15h3.75M9 18h3.75m3 .75H18a2.25 2.25 0 002.25-2.25V6.108c0-1.135-.845-2.098-1.976-2.192a48.424 48.424 0 00-1.123-.08m-5.801 0c-.065.21-.1.433-.1.664 0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75 2.25 2.25 0 00-.1-.664m-5.8 0A2.251 2.251 0 0113.5 2.25H15c1.012 0 1.867.668 2.15 1.586m-5.8 0c-.376.023-.75.05-1.124.08C9.095 4.01 8.25 4.973 8.25 6.108V8.25m0 0H4.875c-.621 0-1.125.504-1.125 1.125v11.25c0 .621.504 1.125 1.125 1.125h9.75c.621 0 1.125-.504 1.125-1.125V9.375c0-.621-.504-1.125-1.125-1.125H8.25zM6.75 12h.008v.008H6.75V12zm0 3h.008v.008H6.75V15zm0 3h.008v.008H6.75V18z"
+      ></path>
+    </svg>
+    Get a Quote
+  </Link>
+</div>
+
+
+
+
+
+
+
                     </div>
               
 
@@ -67,7 +108,7 @@ export default function Services1() {
                             spaceBetween: 30,
                         },
                     }}
-                    className="swiper-wrapper"
+                    className="swiper-wrapper"  style={{marginLeft:'0px'}}
                 >
                     <SwiperSlide className="wow animate__animated animate__fadeIn">
                         <div className="cardGrid">
@@ -135,7 +176,6 @@ export default function Services1() {
 
 
 
-
                   </div>  
              
          
@@ -149,9 +189,41 @@ export default function Services1() {
 </section>
 
 
+<style  jsx>{
+    `
+    
+    /* Common style for heading, paragraph, and buttons */
+.responsive-margin {
+  margin-left: 12px; /* Default margin for larger screens */
+}
 
+@media (max-width: 576px) {
+  /* Adjust margins for smaller screens */
+  .responsive-margin {
+    margin-left: 5px; /* Reduced margin for small screens */
+  }
+}
 
+/* Additional button-specific styles */
+.responsive-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  background-color: orange;
+}
 
+@media (max-width: 576px) {
+  .responsive-btn {
+    width: 100%; /* Full width for small screens */
+  }
+}
+
+    `}
+
+</style>
 
         <div className="row align-items-center">
           
@@ -195,9 +267,9 @@ style={{marginTop:'10px'}}
   style={{marginTop:'30px'}}
 >
  At BinBear, we take pride in offering top-tier customer service while ensuring consistent, high-quality results. Our missions is not just to remove Junk,
-but to make a positive impact on our environment. We do this by prioritizing recycle and donations ,we strive to divert as much waste as possible from
+but to make a positive impact on our environment. We do this by prioritizing recycle and donations, we strive to divert as much waste as possible from
 landfills. With trusted relationship with local landfills, we work hard to recycle a significant portion of every job, aiming for 50% of all recycle eligible
-   trash. At BinBear,We belive in making the junk removal process simple eficient and eco-conscious, all while delivering a service that make you feel valued every steps of the way</p><p
+   trash. At BinBear, we belive in making the junk removal process simple eficient and eco-conscious, all while delivering a service that make you feel valued every steps of the way</p><p
  style={{marginTop:'10px'}} 
 >
   
@@ -261,7 +333,7 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
                                 <div className="card-offer hover-up">
                                     
-                                    <div className="card-image"><img src="/assets/imgs/page/homepage1/deliveryy.png" alt="transp"style={{width:'120px'}} />
+                                    <div className="card-image"><img src="/assets/imgs/page/homepage1/deliveryy.png" alt="transp"style={{width:'110px'}} />
                                     </div>
                                     <div className="card-info">
                                     
@@ -306,7 +378,7 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>Free quotes & you'll never have to someone, we Booking Online</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"style={{marginTop:'80px'}}><a className="btn btn-link font-sm color-brand-2">View Details<span>
+                                        <div className="box-button-offer mb-35"style={{marginTop:'105px'}}><a className="btn btn-link font-sm color-brand-2">View Details<span>
                                             <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                             </svg></span></a></div>
@@ -325,8 +397,7 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                             </svg></span></a></div>
 
-                                           
-
+  
 
                                     </div>
                                 </div>
