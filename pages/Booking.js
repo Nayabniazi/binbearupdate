@@ -56,7 +56,7 @@ export default function Login() {
                         <div className="box-login-left">
                             <h2
                                 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn"
-                                style={{ marginLeft: isMobile ? "10px" : "70px" }}
+                                style={{ marginLeft: isMobile ? "0px" : "70px" }}
                             >
                                 Booking Now
                             </h2>
@@ -161,10 +161,15 @@ export default function Login() {
                     }
 
                     .zip-code-input,
-                    button {
+                {
                         width: 100%; /* Make input and button full width */
                         max-width: 400px; /* Adjust max width for small screens */
-                       margin :0px auto; /* Center the input and button */
+                       margin :0px ; /* Center the input and button */
+                    }
+button {
+                        width: 100%; /* Make input and button full width */
+                        max-width: 400px; /* Adjust max width for small screens */
+                       margin-left :100px ; /* Center the input and button */
                     }
 
                     .box-form-login {

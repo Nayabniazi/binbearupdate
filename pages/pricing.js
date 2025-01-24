@@ -158,6 +158,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
+        marginRight: '5px', 
         
     }}>
         1
@@ -181,6 +182,8 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
+         marginRight: '5px', 
+
         
     }}>
         2
@@ -206,6 +209,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
+        marginRight: '5px', 
         
     }}>
         3
@@ -230,7 +234,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
-        
+        marginRight: '5px', 
     }}>
         4
     </span>
@@ -256,6 +260,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
+        marginRight: '5px', 
         
     }}>
         5
@@ -281,6 +286,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
+        marginRight: '5px', 
         
     }}>
         6
@@ -489,6 +495,8 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
+        marginRight: '5px', 
+
     }}>
         1
     </span>
@@ -512,6 +520,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
+        marginRight: '5px', 
     }}>
         2
     </span>
@@ -536,6 +545,8 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
+        marginRight: '5px', 
+
     }}>
         3
     </span>
@@ -556,6 +567,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
+        marginRight: '5px', 
         
     }}>
         4

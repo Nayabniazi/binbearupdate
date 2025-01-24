@@ -33,24 +33,24 @@ export default function Howitwork1() {
                  
                         
                         
-                        <h2 className="color- mb-20 wow animate__animated animate__fadeIn"style={{color:'orange',fontSize:'34px'}}>You just book, and we take care of rest!</h2>
+                        <h2 className="color- mb-20 wow animate__animated animate__fadeIn"style={{color:'orange',fontSize:'30px'}}>You just book, and we take care of rest!</h2>
                         <style jsx>{
                           `h2 {
   color: orange;
-  font-size: 34px;
+  font-size: 30px;
   margin-bottom: 20px;
 }
 
 @media (max-width: 768px) {
   h2 {
-    font-size: 28px;  /* Adjust font size for mobile */
+    font-size: 20px;  /* Adjust font size for mobile */
     text-align: center;  /* Center the text on mobile */
   }
 }
 
 @media (max-width: 480px) {
   h2 {
-    font-size: 24px;  /* Further reduce font size on very small screens */
+    font-size: 10px;  /* Further reduce font size on very small screens */
     text-align: center;  /* Keep the text centered on small screens */
   }
 }

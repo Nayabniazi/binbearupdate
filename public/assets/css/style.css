@@ -311,7 +311,7 @@ h6 {
 }
 
 .bg-brand-1 {
-  background-color: #FEC201;
+  background-color: #fe9901;
 }
 
 .bg-brand-2 {
@@ -339,7 +339,7 @@ h6 {
 }
 
 .color-brand-1 {
-  color: #FEC201 !important;
+  color: #9f6018 !important;
 }
 
 .color-brand-2 {
@@ -707,7 +707,7 @@ a:hover {
 
 .pagination li a:hover, .pagination li a.active {
   background-color: #FEC201;
-  border-color: #FEC201;
+  border-color: #ff9900;
   color: #034460;
 }
 
@@ -1782,7 +1782,7 @@ body {
   background-color: #ffffff;
 }
 .card-testimonial-grid:hover {
-  border: 1px solid #FEC201;
+  border: 1px solid #fe9001;
 }
 .card-testimonial-grid a {
   text-decoration: none;
@@ -5663,7 +5663,7 @@ footer a {
   height: 84px;
   border-radius: 50%;
   background-color: #FFE799;
-  border: 1px solid #FEC201;
+  border: 1px solid #fe9001;
   display: inline-block;
 }
 .list-how-works li .image-how .img img {

@@ -385,23 +385,112 @@ Contrary to popular belief, the U.S. isn’t the world’s top producer of waste
 
                         <div className="row"style={{marginTop:'20px'}}>
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">1:Bulk Junk Hauling for oversized items.</h6>
+                                              <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        marginRight: '5px', 
+        
+    }}>
+        1
+    </span>
+    Bulk Junk Hauling for oversized items.
+</h6>
+                                          
+                                           
+                                           
+                                           
+                                           
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
                                         </div>
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">2:Home Cleanouts for moving, seasonal cleaning, and downsizing</h6>
-                                            <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"> </p>
+
+                                        <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        marginRight: '5px', 
+        
+    }}>
+        2
+    </span>
+    Home Cleanouts for moving, seasonal cleaning, and downsizing
+</h6>
+                                          
+                                           
+                                      
+
+                                     <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"> </p>
                                         </div>
                                        
 
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">3:Trash Removal for yard waste, construction debris, and more.</h6>
+
+
+                                        <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        marginRight: '5px', 
+    }}>
+        3
+    </span>
+    Trash Removal for yard waste, construction debris, and more.
+</h6>
+
+
+
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
                                         </div>
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">4:Property Cleanouts for landlords, real estate agents, and more.
-                                            </h6>
-                                            <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"> </p>
+
+
+
+
+                                        <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        marginRight: '5px', 
+        
+    }}>
+        4
+    </span>
+    Property Cleanouts for landlords, real estate agents, and more.
+</h6>
+
+
+
+
+                        <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"> </p>
                                         </div>
                                        
                                        
@@ -899,69 +988,6 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
 
 
 
-
-
-
-                <div className="mt-90" />
-                <div className="section bg- d-block">
-                    <div className="container">
-                        <div className="box-newsletter"style={{backgroundColor:'black',marginBottom:'70px'}}>
-                            <h3 className="color-white mb-20 wow animate__animated animate__fadeIn">Get in Touch</h3>
-                            <div className="row">
-                                <div className="col-lg-5 mb-30">
-                                    <div className="form-newsletter wow animate__animated animate__fadeIn">
-                                        <form action="#">
-                                            <div className="row">
-                                                <div className="col-md-6">
-                                                    <div className="form-group">
-                                                        <input className="form-control" type="text" placeholder="Your name *" />
-                                                    </div>
-                                                </div>
-                                                <div className="col-md-6">
-                                                    <div className="form-group">
-                                                        <input className="form-control" type="text" placeholder="Your email *" />
-                                                    </div>
-                                                </div>
-                                                <div className="col-md-6">
-                                                    <div className="form-group">
-                                                        <input className="form-control" type="text" placeholder="Weight" />
-                                                    </div>
-                                                </div>
-                                                <div className="col-md-6">
-                                                    <div className="form-group">
-                                                        <input className="form-control" type="text" placeholder="Height" />
-                                                    </div>
-                                                </div>
-                                                <div className="col-md-12">
-                                                    <div className="form-group">
-                                                        <textarea className="form-control" placeholder="Message / Note" rows={5} defaultValue={""} />
-                                                    </div>
-                                                </div>
-                                                <div className="col-md-12">
-  <a
-    href="/Booking"
-    className="btn btn-brand-1-big"
-    style={{ backgroundColor: 'orange', color: 'black', textDecoration: 'none', padding: '18px 20px', display: 'inline-block', textAlign: 'center',width:'100px',height:'50px' }}
-  >
-    Submit
-  </a>
-</div>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
-                                <div className="col-lg-7 mb-30">
-                                    <div className="d-flex box-newsletter-right">
-                                        <div className="box-map-2 wow animate__animated animate__fadeIn">
-                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3179.960389549842!2d-83.76408938441998!3d37.15364135542302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884352a00e70879f%3A0x1ad06ed33b7003c!2sIangar!5e0!3m2!1svi!2s!4v1678013229780!5m2!1svi!2s" height={242} style={{ border: 0 }} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
-                                        </div>
-                                       
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </Layout>
         </>
     )

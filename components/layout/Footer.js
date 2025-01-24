@@ -82,7 +82,7 @@ export default function Footer1({ }) {
                             </div>
 
                             <div className="col-lg-3 width-16 mb-30" style={{ backgroundColor: 'black' }}>
-                                <h5 className="mb-10 color-brand-1">Services</h5>
+                                <h5 className="mb-10 color-brand-"style={{color:'orange'}}>Services</h5>
                                 <ul className="menu-footer">
                                     <li>
                                         <Link href="/Item-we-take">Item we take</Link>
@@ -100,7 +100,7 @@ export default function Footer1({ }) {
                                 </ul>
                             </div>
                             <div className="col-lg-3 width-16 mb-30" style={{ backgroundColor: 'black' }}>
-                                <h5 className="mb-10 color-brand-1">Company</h5>
+                                <h5 className="mb-10 color-brand-"style={{color:'orange'}}>Company</h5>
                                 <ul className="menu-footer">
                                     <li>
                                         <Link href="/about"> About us</Link>
@@ -118,7 +118,7 @@ export default function Footer1({ }) {
                                 </ul>
                             </div>
                             <div className="col-lg-3 width-16 mb-30" style={{ backgroundColor: 'black' }}>
-                                <h5 className="mb-10 color-brand-1">Other Links</h5>
+                                <h5 className="mb-10 color-brand-"style={{color:'orange'}}>Other Links</h5>
                                 <ul className="menu-footer">
                                     <li>
                                         <Link href="#">Terms of use</Link>
@@ -136,7 +136,7 @@ export default function Footer1({ }) {
                                 </ul>
                             </div>
                             <div className="col-lg-3 width-20 mb-30" style={{ backgroundColor: 'black' }}>
-                                <h5 className="mb-10 color-brand-1">Gallery</h5>
+                                <h5 className="mb-10 color-brand-"style={{color:'orange'}}>Gallery</h5>
                                 <div className="galleries-footer">
                                     <ul className="list-imgs">
                                         <li>
