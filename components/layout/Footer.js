@@ -177,19 +177,19 @@ export default function Footer1({ }) {
                                         </li>
                                         <li>
                                             <img
-                                                src="/assets/imgs/page/homepage1/gal7.png"
+                                                src="/assets/imgs/page/homepage1/gal2.png"
                                                 alt="transp"
                                             />
                                         </li>
                                         <li>
                                             <img
-                                                src="/assets/imgs/page/homepage1/gal8.png"
+                                                src="/assets/imgs/page/homepage1/gal3.png"
                                                 alt="transp"
                                             />
                                         </li>
                                         <li>
                                             <img
-                                                src="/assets/imgs/page/homepage1/gal9.png"
+                                                src="/assets/imgs/page/homepage1/gal2.png"
                                                 alt="transp"
                                             />
                                         </li>
