@@ -332,10 +332,7 @@ background-color:black;}
                               
                            
                          <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}> </p>      
-                                <div className="mt-20 wow animate__animated animate__fadeIn"><Link className="btn btn-link font-sm color-black" href="#">View Details<span>
-                                    <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                    </svg></span></Link></div>
+                               
                             </div>
                         </div>
 
@@ -424,20 +421,8 @@ background-color:black;}
                     <div className="mt-20 box-background-black" >
                         <div className="bg-under"/>
                         <div className="row">
-                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
-                                   
-                                    
-                                    <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Television Disposal & Recycling</h5>
-                                        <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
-                                    </div>
-                                </div>
-                            </div>
+                           
+                            
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
                                 <div className="card-offer hover-up">
                                     
@@ -445,10 +430,9 @@ background-color:black;}
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>Furniture Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>
+                                        <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button>
+                                            </a></div>
                                     </div>
                                 </div>
                             </div>
@@ -458,10 +442,7 @@ background-color:black;}
                                     <div className="card-info" >
                                         <h5 className="color- mb-15"style={{color:'black'}}>Yard Waste Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -472,10 +453,7 @@ background-color:black;}
                                     <div className="card-info" >
                                         <h5 className="color- mb-15"style={{color:'black'}}>Hot Tub Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -487,10 +465,7 @@ background-color:black;}
                                     <div className="card-info" >
                                         <h5 className="color- mb-15"style={{color:'black'}}>Trash Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -501,10 +476,7 @@ background-color:black;}
                                     <div className="card-info" >
                                         <h5 className="color- mb-15"style={{color:'black'}}>Mattress Disposal</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -515,10 +487,7 @@ background-color:black;}
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>Refrigerator Disposal & Recycling</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-0"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-0"><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -528,10 +497,7 @@ background-color:black;}
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>E-Waste Disposal</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -542,10 +508,7 @@ background-color:black;}
                                         <h5 className="color- mb-15"style={{color:'black'}}>General Garbage Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
-                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>

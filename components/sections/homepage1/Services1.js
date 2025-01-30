@@ -191,7 +191,24 @@ export default function Services1() {
 
 <style  jsx>{
     `
-    
+      .gradient-button {
+            font-size: 18px;
+            font-weight: bold;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 50px;
+            background: linear-gradient(45deg, black, orange);
+            cursor: pointer;
+            transition: 0.3s;
+            box-shadow: 0 4px 10px rgba(255, 165, 0, 0.5);
+            text-transform: uppercase;
+        }
+
+        .gradient-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 6px 15px rgba(255, 165, 0, 0.7);
+        }
     /* Common style for heading, paragraph, and buttons */
 .responsive-margin {
   margin-left: 12px; /* Default margin for larger screens */
@@ -304,10 +321,9 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>#1 Junk removal company in Texas </h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30 "style={{marginTop:'80px'}}><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                       
+                                        <div className="box-button-offer mb-30 "style={{marginTop:'65px'}}><a className="btn btn-link font-sm color-"style={{color:'black'}}href="/Booking"> <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button>
+                                       </a></div>
                                     </div>
                                 </div>
                             </div>
@@ -321,10 +337,8 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                                         <h5 className="color- "style={{color:'black'}}> 100% Price Matching</h5>
                                      
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"style={{marginTop:'65px'}}><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"style={{marginTop:'50px'}}><a className="btn btn-link font-sm color-"style={{color:'black'}}><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button>
+                                            </a></div>
                                     </div>
                                 </div>
                             </div>
@@ -340,10 +354,7 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                                     <h5 className="color- "style={{color:'black'}}>Unbearable junk problems solved at an Un<span style={{color:'orange',fontSize:'25px'}}>BEAR</span>lievable Value!</h5>
                                       
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"style={{marginTop:'50px'}}><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"style={{marginTop:'0px'}}><a className="btn btn-link font-sm color-"style={{color:'black'}}><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -364,10 +375,7 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
 
                                        
                                          <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-40"style={{marginTop:'100px'}}><a className="btn btn-link font-sm color-brand-2">view Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-40"style={{marginTop:'53px'}}><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -378,10 +386,7 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>Free quotes & you'll never have to someone, we Booking Online</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-35"style={{marginTop:'105px'}}><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-35"style={{marginTop:'58px'}}><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -392,10 +397,7 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                                         <h5 className="color- mb-15"style={{color:'black'}}>Choose BinBear and do your part by saving the planet 1 load at a time!</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
-                                        <div className="box-button-offer mb-30" style={{marginTop:'80px'}}><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30" style={{marginTop:'0px'}}><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
 
   
 

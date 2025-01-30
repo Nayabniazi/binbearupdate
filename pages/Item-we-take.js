@@ -16,22 +16,22 @@ export default function ServiceDetail() {
                            
                             <div className="d-flex flex-wrap align-items-center justify-content-center">
   <div className="col-lg-6 col-md-6 col-sm-12 mb-3">
-    <div className="wow animate__animated animate__fadeIn">
-      <img
-        src="/assets/imgs/page/service-detail/img4.png"
-        alt="transp"
-        style={{ marginTop: '20px', maxWidth: '400px' ,}}
-      />
-    </div>
+  <div className="wow animate__animated animate__fadeIn card-container">
+  <img
+    src="/assets/imgs/page/service-detail/img4.png"
+    alt="transp"
+    className="responsive-img"
+  />
+</div>
   </div>
   <div className="col-lg-6 col-md-6 col-sm-12 mb-3">
-    <div className="wow animate__animated animate__fadeIn">
-      <img
-        src="/assets/imgs/page/service-detail/wetake.png"
-        alt="transp2"
-        style={{ marginTop: '20px', maxWidth: '380px',marginRight:'30px', }}
-      />
-    </div>
+  <div className="wow animate__animated animate__fadeIn card-container">
+  <img
+    src="/assets/imgs/page/service-detail/img4.png"
+    alt="transp"
+    className="responsive-img"
+  />
+</div>
   </div>
 </div>
 
@@ -98,29 +98,14 @@ export default function ServiceDetail() {
                         >
                             {service.title}
                         </h5>
-                        <p className="font-sm color-grey-900 mb-35"></p>
-                        <div className="box-button-offer mb-30">
+                        <p className="font-sm color-grey-900 mb-50"></p>
+                        <div className="box-button-offer mb-10">
                             <a
                                 className="btn btn-link font-sm color-"
                                 style={{ color: "black" }}
                             >
-                                View Details
-                                <span>
-                                    <svg
-                                        className="w-6 h-6 icon-16"
-                                        fill="none"
-                                        stroke="currentColor"
-                                        viewBox="0 0 24 24"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                    >
-                                        <path
-                                            strokeLinecap="round"
-                                            strokeLinejoin="round"
-                                            strokeWidth={2}
-                                            d="M14 5l7 7m0 0l-7 7m7-7H3"
-                                        />
-                                    </svg>
-                                </span>
+                               <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button>
+                                
                             </a>
                         </div>
                     </div>
@@ -129,8 +114,43 @@ export default function ServiceDetail() {
         ))}
     </div>
 </div>
-<style jsx>{
-    `
+
+
+
+
+<style>
+  {`
+  .card-container {
+      width: 100%; /* Ensures the card takes full width */
+      max-width: 500px; /* Adjust as needed */
+      margin: auto; /* Centers the card */
+      padding: 10px;
+  }
+
+  .responsive-img {
+      width: 100%; /* Makes the image adjust within the card */
+      max-width: 100%; /* Ensures it does not exceed the card width */
+      height: auto; /* Maintains aspect ratio */
+      display: block; /* Removes extra spacing */
+     /* Optional: Adds smooth rounded corners */
+  }
+
+  /* Adjust image width on different screen sizes */
+  @media (max-width: 768px) {
+      .card-container {
+         margin-left:40px;
+      max-width: 83%; /* Allows the card to shrink on smaller screens */
+      }
+  }
+  `}
+</style>
+
+
+
+
+
+<style jsx>{`
+   
     .card-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* 3 cards per row */
@@ -309,39 +329,39 @@ Whether you need a one-time trash removal or ongoing cleanup, BinBear provides f
                                 
                                 <div className="row">
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">1:Paints and solvents</h6>
+                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">Paints and solvents</h6>
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
                                         </div>
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">2:Pesticides and fertilizers</h6>
+                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">Pesticides and fertilizers</h6>
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"> </p>
                                         </div>
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn"> 3:Chemical cleaners
+                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn"> Chemical cleaners
                                             </h6>
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
                                         </div>
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">4:Lead-acid and lithium-ion batteries
+                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">Lead-acid and lithium-ion batteries
                                             </h6>
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
                                         </div>
 
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">5:Flammable liquids</h6>
+                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">Flammable liquids</h6>
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
                                         </div>
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">6:Ammunition and explosives</h6>
+                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">Ammunition and explosives</h6>
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"> </p>
                                         </div>
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn"> 7:Medical waste
+                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn"> Medical waste
                                             </h6>
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
                                         </div>
                                         <div className="col-lg-6 mb-30">
-                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">8:Materials containing asbestos or mercury
+                                            <h6 className=" font-md-bold color-grey-700 wow animate__animated animate__fadeIn">Materials containing asbestos or mercury
                                             </h6>
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
                                         </div>

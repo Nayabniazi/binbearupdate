@@ -126,10 +126,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
                               <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}></p> 
                               <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}></p> 
                                
-                                <div className="mt-20"><div className="btn btn-link font-sm color-black wow animate__animated animate__fadeIn" href="#">View Details<span>
-                                    <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                    </svg></span></div></div>
+                               
                             </div>
                             <div className="col-lg-6 mb-60"><div className="wow animate__animated animate__fadeIn" href="#"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/blog-single/bagi.png" alt="transp" /></div></div>
                         </div>
@@ -327,10 +324,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
                                 
                                
                          <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}></p>      
-                                <div className="mt-20 wow animate__animated animate__fadeIn"><div className="btn btn-link font-sm color-black" href="#">View Details<span>
-                                    <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                    </svg></span></div></div>
+                                
                             </div>
                         </div>
                     
@@ -346,8 +340,40 @@ Our pricing estimator even allows you to estimate based on the space your junk w
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
-                                <h3 className="color-black mb-15 wow animate__animated animate__fadeIn"style={{marginBottom:'30px'}}>BinBear Believes in Fair and Transparent Pricing
-                                </h3>
+                                
+
+
+
+                                <h2 className="color- mb-20 wow animate__animated animate__fadeIn"style={{color:'orange',fontSize:'30px'}}>BinBear Believes in Fair and Transparent Pricing
+                                </h2>
+                        <style jsx>{
+                          `h2 {
+  color: orange;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  h2 {
+    font-size: 20px;  /* Adjust font size for mobile */
+    text-align: center;  /* Center the text on mobile */
+  }
+}
+
+@media (max-width: 480px) {
+  h2 {
+    font-size: 10px;  /* Further reduce font size on very small screens */
+    text-align: center;  /* Keep the text centered on small screens */
+  }
+}
+
+                          
+                          `}
+
+                        </style>
+
+
+
                                 <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}>At BinBear, we promise to beat any written estimate from a comparable junk removal service. With free estimates and no hidden fees, we’re committed to offering the best value in the industry. When you choose us, you get: </p>
                                 <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}>
                                     

@@ -111,10 +111,7 @@ export default function WorkProcess() {
                                 <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}>Junk removal is an on-demand service for disposing of nearly any type of waste from your home or business. BinBear hauls away large items like furniture and appliances, handles full home cleanouts, provides light demolition in many areas, and clears construction debris from real estate cleanouts. Whether it’s an old couch or piles of post-renovation debris, BinBear can take it (just no hazardous waste)..</p>
                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}>Simply make an appointment, and our team will show up on time in our recognizable trucks, ready to clear your space!</p>
                                
-                                <div className="mt-20"><Link className="btn btn-link font-sm color-black wow animate__animated animate__fadeIn" href="#">View Details<span>
-                                    <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                    </svg></span></Link></div>
+                                
                             </div>
                             <div className="col-lg-6 mb-60"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img1.png" alt="transp" /></Link></div>
                         </div>
@@ -127,10 +124,7 @@ export default function WorkProcess() {
                                 <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">At BinBear, we emphasize friendly service and a commitment to eco-friendly practices. Our goal is to recycle or donate as much as possible, reducing waste and helping our community. We operate with local sorting facilities, aiming to recycle 60% or more of every job!</p>
                                
                          <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}>Expect a smooth, straightforward process with the lowest rates and the highest level of service. BinBear is the #1 junk removal service in the United States and Canada.</p>      
-                                <div className="mt-20 wow animate__animated animate__fadeIn"><Link className="btn btn-link font-sm color-black" href="#">View Details<span>
-                                    <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                    </svg></span></Link></div>
+                                
                             </div>
                         </div>
                     
@@ -302,10 +296,7 @@ export default function WorkProcess() {
                                 <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">From the moment you contact us, BinBear makes junk removal easy. We offer fair, upfront pricing—no hidden fees, no surprises. About 15-30 minutes before your appointment, we call to confirm our arrival. Once we’re on-site, just show us what needs to go, and our insured team will handle it all, respecting your property every step of the way.</p>
                                
                          <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}></p>      
-                                <div className="mt-20 wow animate__animated animate__fadeIn"><Link className="btn btn-link font-sm color-black" href="#">View Details<span>
-                                    <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                    </svg></span></Link></div>
+                                
                             </div>
                         </div>
 
@@ -376,10 +367,7 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                    <div className="card-info">
                                        <h5 className="color- mb-15"style={{color:'black'}}>Large Item Hauling</h5>
                                        <p className="font-sm color-grey-900 mb-35">Need help with big, bulky junk? BinBear has you covered.</p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                       
                                    </div>
                                </div>
                            </div>
@@ -392,10 +380,7 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                        <p className="font-sm color-grey-900 mb-35">Moving, spring cleaning, or clearing out a space? We’re here to help.
 
                                        </p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                      
                                    </div>
                                </div>
                            </div>
@@ -405,10 +390,7 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                    <div className="card-info" >
                                        <h5 className="color- mb-15"style={{color:'black'}}>Property Cleanouts</h5>
                                        <p className="font-sm color-grey-900 mb-35">Ideal for landlords, real estate agents, or inherited properties. </p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                      
                                    </div>
                                </div>
                            </div>
@@ -419,10 +401,7 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                        <h5 className="color- mb-15"style={{color:'black'}}>Yard and Construction Debris Removal</h5>
                                        <p className="font-sm color-grey-900 mb-35">From yard waste to project cleanup, we take care of it all.
                                        </p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                      
                                    </div>
                                </div>
                            </div>
@@ -453,10 +432,7 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                    <div className="card-info">
                                        <h5 className="color- mb-15"style={{color:'black'}}>Air Conditioner Disposal</h5>
                                        <p className="font-sm color-grey-900 mb-35">Old and heavy air conditioners? We handle removal and eco-friendly disposal.</p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                      
                                    </div>
                                </div>
                            </div>
@@ -469,10 +445,7 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                        <p className="font-sm color-grey-900 mb-35">From dishwashers to trash compactors, BinBear recycles large appliances.
 
                                        </p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                      
                                    </div>
                                </div>
                            </div>
@@ -482,10 +455,7 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                    <div className="card-info" >
                                        <h5 className="color- mb-15"style={{color:'black'}}>DIY Construction Debris</h5>
                                        <p className="font-sm color-grey-900 mb-35">Don’t let leftover debris from your home projects clutter up your space. We’ll recycle it for you.</p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                      
                                    </div>
                                </div>
                            </div>
@@ -496,10 +466,7 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                    <div className="card-info" >
                                        <h5 className="color- mb-15"style={{color:'black'}}>Yard Waste Removal</h5>
                                        <p className="font-sm color-grey-900 mb-35"> Let us handle branches, clippings, and other yard waste from landscaping projects.</p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                       
                                    </div>
                                </div>
                            </div>
@@ -512,10 +479,7 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                    <div className="card-info" >
                                        <h5 className="color- mb-15"style={{color:'black'}}>E-Waste Recycling</h5>
                                        <p className="font-sm color-grey-900 mb-35">We ensure your electronics, like computers and TVs, are responsibly recycled or donated.</p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                      
                                    </div>
                                </div>
                            </div>
@@ -526,10 +490,7 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                    <div className="card-info" >
                                        <h5 className="color- mb-15"style={{color:'black'}}>Estate Cleanouts</h5>
                                        <p className="font-sm color-grey-900 mb-35"> Our team respectfully clears estates, making a difficult process easier..</p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                       
                                    </div>
                                </div>
                            </div>
@@ -540,10 +501,7 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                    <div className="card-info" >
                                        <h5 className="color- mb-15"style={{color:'black'}}>Refrigerator and Freezer Disposal</h5>
                                        <p className="font-sm color-grey-900 mb-35">Save space and recycle responsibly with our appliance disposal service..</p>
-                                       <div className="box-button-offer mb-0"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                      
                                    </div>
                                </div>
                            </div>
@@ -552,11 +510,8 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
       
                                    <div className="card-info" >
                                        <h5 className="color- mb-15"style={{color:'black'}}>Foreclosure Cleanouts</h5>
-                                       <p className="font-sm color-grey-900 mb-35">Property professionals rely on BinBear for fast, efficient cleanouts of foreclosed homes.</p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                       <p className="font-sm color-grey-900 mb-60">Property professionals rely on BinBear for fast, efficient cleanouts of foreclosed homes.</p>
+                                      
                                    </div>
                                </div>
                            </div>
@@ -565,11 +520,8 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
       
                                    <div className="card-info" >
                                        <h5 className="color- mb-15"style={{color:'black'}}>Furniture Removal</h5>
-                                       <p className="font-sm color-grey-900 mb-35"> Whether broken or unwanted, we handle the removal of all types of furniture..</p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                       <p className="font-sm color-grey-900 mb-60"> Whether broken or unwanted, we handle the removal of all types of furniture..</p>
+                                       
                                    </div>
                                </div>
                            </div>
@@ -579,11 +531,8 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
       
                                    <div className="card-info" >
                                        <h5 className="color- mb-15"style={{color:'black'}}>Hot Tub Removal</h5>
-                                       <p className="font-sm color-grey-900 mb-35">Dismantling and removing old hot tubs is no problem for our trained team.</p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                       <p className="font-sm color-grey-900 mb-60">Dismantling and removing old hot tubs is no problem for our trained team.</p>
+                                      
                                    </div>
                                </div>
                            </div>
@@ -593,12 +542,9 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                   
                                    <div className="card-info">
                                        <h5 className="color- mb-15"style={{color:'black'}}>Scrap Metal Recycling</h5>
-                                       <p className="font-sm color-grey-900 mb-35">Don’t send metal to the landfill. BinBear ensures scrap metals are recycled properly.
+                                       <p className="font-sm color-grey-900 mb-60">Don’t send metal to the landfill. BinBear ensures scrap metals are recycled properly.
                                        </p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                       
                                    </div>
                                </div>
                            </div>
@@ -610,10 +556,7 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                        <h5 className="color- mb-15"style={{color:'black'}}>Stove, Oven, and Microwave Disposal</h5>
                                        <p className="font-sm color-grey-900 mb-35">We handle all your old kitchen appliances, recycling them responsibly.
                                        </p>
-                                       <div className="box-button-offer mb-0"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                       
                                    </div>
                                </div>
                            </div>
@@ -624,12 +567,9 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                   
                                    <div className="card-info">
                                        <h5 className="color- mb-15"style={{color:'black'}}>TV Disposal</h5>
-                                       <p className="font-sm color-grey-900 mb-35"> Televisions contain harmful materials, but we ensure safe disposal.
+                                       <p className="font-sm color-grey-900 mb-60"> Televisions contain harmful materials, but we ensure safe disposal.
                                        </p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                      
                                    </div>
                                </div>
                            </div>
@@ -640,10 +580,7 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                        <h5 className="color- mb-15"style={{color:'black'}}>Washing Machine and Dryer Disposal</h5>
                                        <p className="font-sm color-grey-900 mb-35"> Out with the old, and in with the new! Let us handle your appliance disposal.
                                        </p>
-                                       <div className="box-button-offer mb-0"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                       
                                    </div>
                                </div>
                            </div>
@@ -652,12 +589,9 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                   
                                    <div className="card-info">
                                        <h5 className="color- mb-15"style={{color:'black'}}>Water Heater Disposal</h5>
-                                       <p className="font-sm color-grey-900 mb-30"> Got an old water heater? BinBear handles removal and recycling.
+                                       <p className="font-sm color-grey-900 mb-60"> Got an old water heater? BinBear handles removal and recycling.
                                        </p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                      
                                    </div>
                                </div>
                            </div>
@@ -666,12 +600,9 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                   
                                    <div className="card-info">
                                        <h5 className="color- mb-15"style={{color:'black'}}>Yard Waste Disposal</h5>
-                                       <p className="font-sm color-grey-900 mb-35">Created a pile of yard debris? We’ll haul it away so you don’t have to.
+                                       <p className="font-sm color-grey-900 mb-60">Created a pile of yard debris? We’ll haul it away so you don’t have to.
                                        </p>
-                                       <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                           <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                           </svg></span></a></div>
+                                       
                                    </div>
                                </div>
                            </div>

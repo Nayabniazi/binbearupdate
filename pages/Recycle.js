@@ -86,10 +86,7 @@ export default function OurTeam() {
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>What is Recycling?</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>           <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",marginTop:'30px'}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -100,10 +97,7 @@ export default function OurTeam() {
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>The State of Recycling</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>           <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",marginTop:'30px'}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -113,10 +107,7 @@ export default function OurTeam() {
                                     <div className="card-info" >
                                         <h5 className="color- mb-15"style={{color:'black'}}>How to Dispose of Your Junk Responsibly</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">           <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -126,10 +117,7 @@ export default function OurTeam() {
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>Recycling E-Waste</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">           <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",marginTop:'30px'}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -139,10 +127,7 @@ export default function OurTeam() {
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>Recycling Appliances</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">           <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",marginTop:'30px'}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -153,10 +138,7 @@ export default function OurTeam() {
                                         <h5 className="color- mb-15"style={{color:'black'}}>Recycling Furniture and Mattresses</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
-                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2">           <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -169,10 +151,7 @@ export default function OurTeam() {
                                         <h5 className="color- mb-15"style={{color:'black'}}>Junk Removal Costs for Recycling</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
-                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2">           <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -185,10 +164,7 @@ export default function OurTeam() {
                                         <h5 className="color- mb-15"style={{color:'black'}}>Recycling FAQs</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
-                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2">           <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",marginTop:'30px'}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -200,10 +176,7 @@ export default function OurTeam() {
                                         <h5 className="color- mb-15"style={{color:'black'}}>Choosing a Junk Recycling Company</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
-                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2">           <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -688,7 +661,7 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
 
             <section className="section mt-100">
                     <div className="container position-relative">
-                        <h2 className="title-favicon mb-20 wow animate__animated animate__fadeIn">Choosing a Junk Recycling Company</h2>
+                        <h2 className=" mb-20 wow animate__animated animate__fadeIn">Choosing a Junk Recycling Company</h2>
                         
                           
                         <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"> When selecting a junk recycling company, consider the following factors:</p>
@@ -830,10 +803,7 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>Appliance Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",marginTop:'30px'}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -844,10 +814,7 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>Furniture Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",marginTop:'30px'}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -857,10 +824,7 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                     <div className="card-info" >
                                         <h5 className="color- mb-15"style={{color:'black'}}>Yard Waste Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",marginTop:'30px'}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -870,10 +834,7 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>Hot Tub Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",marginTop:'30px'}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -883,10 +844,7 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>Trash Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",marginTop:'30px'}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -897,10 +855,7 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                         <h5 className="color- mb-15"style={{color:'black'}}>Mattress Disposal</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
-                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",marginTop:'30px'}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -913,10 +868,7 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                         <h5 className="color- mb-15"style={{color:'black'}}>E-Waste Recycling</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
-                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",marginTop:'30px'}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -929,10 +881,7 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                         <h5 className="color- mb-15"style={{color:'black'}}>Construction Waste Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
-                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",marginTop:'30px'}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -944,10 +893,7 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                         <h5 className="color- mb-15"style={{color:'black'}}>Property Cleanouts</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
-                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",marginTop:'30px'}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -959,10 +905,7 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                         <h5 className="color- mb-15"style={{color:'black'}}>And more!</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
-                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)",marginTop:'30px'}}>view details</button></a></div>
                                     </div>
                                 </div>
                             </div>

@@ -116,10 +116,7 @@ export default function Home2() {
                               <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}>Optionally, our pricing estimator also allows you to obtain an accurate pricing estimate based on how much room** you think your junk will take up in our large, junk removal truck.</p> 
                               <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}>Either way, you can have an accurate and affordable estimate in just minutes.</p> 
                                
-                                <div className="mt-20"><div className="btn btn-link font-sm color-black wow animate__animated animate__fadeIn" href="#">View Details<span>
-                                    <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                    </svg></span></div></div>
+                                
                             </div>
                             <div className="col-lg-6 mb-60"><div className="wow animate__animated animate__fadeIn" href="#"><img className="mb-15 wow animate__animated animate__fadeIn"style={{width:'1000px'}} src="/assets/imgs/page/blog-single/rental.png" alt="transp" /></div></div>
                         </div>
@@ -150,6 +147,7 @@ export default function Home2() {
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
+        marginRight:'10px'
         
     }}>
         1
@@ -174,7 +172,7 @@ export default function Home2() {
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
-        
+         marginRight:'10px'
     }}>
         2
     </span>
@@ -200,7 +198,7 @@ export default function Home2() {
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
-        
+         marginRight:'10px'
     }}>
         3
     </span>
@@ -225,7 +223,9 @@ export default function Home2() {
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
-        
+         marginRight:'10px',
+          marginRight:'10px'
+
     }}>
         4
     </span>
@@ -255,7 +255,7 @@ export default function Home2() {
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
-        
+         marginRight:'10px'
     }}>
         5
     </span>
@@ -280,7 +280,7 @@ export default function Home2() {
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
-        
+         marginRight:'10px'
     }}>
         6
     </span>
@@ -304,7 +304,7 @@ export default function Home2() {
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
-        
+         marginRight:'10px'
     }}>
         7
     </span>
@@ -329,7 +329,7 @@ export default function Home2() {
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
-        
+         marginRight:'10px'
     }}>
         8
     </span>
@@ -357,10 +357,7 @@ export default function Home2() {
                                 
                                
                          <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}></p>      
-                                <div className="mt-20 wow animate__animated animate__fadeIn"><div className="btn btn-link font-sm color-black" href="#">View Details<span>
-                                    <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                    </svg></span></div></div>
+                               
                             </div>
                         </div>
                     
@@ -478,7 +475,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
-        
+         marginRight:'10px'
     }}>
         1
     </span>
@@ -504,7 +501,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
-        
+         marginRight:'10px'
     }}>
         3
     </span>
@@ -530,7 +527,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
-        
+         marginRight:'10px'
     }}>
         2
     </span>
@@ -586,10 +583,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}></h5>
                                         <p className="font-sm color-grey-900 mb-35">At Junk King, we guarantee that we will dispose of your junk items properly. In fact, we recycle up to 60 percent of every junk removal job and we are the only national junk removal company with sorting facilities in our locally owned locations.</p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                       
                                     </div>
                                 </div>
                             </div>
@@ -601,10 +595,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                                         <p className="font-sm color-grey-900 mb-50">
                                         We sort, reuse, recycle, and donate as much as we possibly can to be a responsible waste removal partner for a better tomorrow
  </p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                       
                                     </div>
                                 </div>
                             </div>

@@ -166,10 +166,11 @@ export default function Login() {
                         max-width: 400px; /* Adjust max width for small screens */
                        margin :0px ; /* Center the input and button */
                     }
-button {
+button {  justify-content: center;
+            align-items: center;
                         width: 100%; /* Make input and button full width */
                         max-width: 400px; /* Adjust max width for small screens */
-                       margin-left :100px ; /* Center the input and button */
+                       margin-left :25% ; /* Center the input and button */
                     }
 
                     .box-form-login {
