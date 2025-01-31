@@ -170,7 +170,7 @@ button {  justify-content: center;
             align-items: center;
                         width: 100%; /* Make input and button full width */
                         max-width: 400px; /* Adjust max width for small screens */
-                       margin-left :25% ; /* Center the input and button */
+                       margin-left :30% ; /* Center the input and button */
                     }
 
                     .box-form-login {

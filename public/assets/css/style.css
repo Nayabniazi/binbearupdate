@@ -1853,7 +1853,7 @@ body {
   text-align: center;
   vertical-align: middle;
   background: #E8E9ED;
-  border: 1px solid #FEC201;
+  border: 1px solid #fe7b01;
   border-radius: 50%;
 }
 .cardLeadingCompany .cardImage .img img {
@@ -1999,7 +1999,7 @@ body {
 }
 
 .card-offer {
-  border-bottom: 8px solid #FEC201;
+  border-bottom: 8px solid orange;
   padding: 40px 40px 40px 40px;
   border-radius: 0px;
   margin-bottom: 30px;
@@ -6649,7 +6649,7 @@ input:checked + .slider:before {
 }
 .box-testimonial-4-item .card-testimonial-grid {
   box-shadow: 0px 5px 30px rgba(19, 27, 34, 0.12);
-  border-color: #FEC201;
+  border-color: #fe9501;
 }
 
 .bg-how-it-work-2 {
@@ -6862,7 +6862,7 @@ input:checked + .slider:before {
   top: 40%;
 }
 .box-slider-service-4 .swiper-button-prev-style-2:hover {
-  background-color: #FEC201;
+  background-color: #fe9901;
 }
 .box-slider-service-4 .swiper-button-next-style-2 {
   background-color: #E8E9ED;
