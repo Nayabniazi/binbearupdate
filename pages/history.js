@@ -578,10 +578,10 @@ satisfaction by providing fast, professional services is competitive rates. Our 
        with the 
        </p>
        <p style={{marginTop:'10px'}}>
-       focus on recycling  and donation when possible.We're commited to supporting our community and environment,making us the go-to choice for   
+       focus on recycling  and donation when possible. We're commited to supporting our community and environment, making us the go-to choice for   
       
       </p>
-      <p style={{marginTop:'10px',marginLeft:'290px'}} >responsible, Hassle-free, junk removal in the DFW  metroplex.
+      <p style={{marginTop:'10px',marginLeft:'290px'}} >responsible, hassle-free, junk removal in the DFW  metroplex.
       </p>
       </p>
       <p style={{ marginTop: '10px', marginLeft: '50px', color: 'white' }}>

@@ -5681,7 +5681,7 @@ footer a {
 }
 .list-how-works li .info-how {
   width: 100%;
-  margin-top:50px;
+ 
 }
 .list-how-works li:last-child .image-how::before {
   display: none;
@@ -7650,6 +7650,7 @@ a.color-brand-2:hover {
     margin-bottom: 120px;
   }
   .box-list-how-it-work .list-how-works li {
+    
     width: 100%;
   }
   .box-list-how-it-work .list-how-works li::before {
@@ -7856,6 +7857,10 @@ a.color-brand-2:hover {
   }
   .box-comingsoon-cover {
     padding-top: 55px;
+  }
+  .list-how-works li .info-how {
+    width: 90%; /* Reduces width for better spacing */
+    margin-top: 50px; /* Adjusts padding */
   }
   .box-info-trackyourparcel {
     padding-left: 15px;

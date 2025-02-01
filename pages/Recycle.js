@@ -351,7 +351,7 @@ Contrary to popular belief, the U.S. isn’t the world’s top producer of waste
                 <section className="section mt-100">
                     <div className="container position-relative">
                         <h2 className=" mb-20 wow animate__animated animate__fadeIn">How to Get Rid of Your Recyclable Junk</h2>
-                        <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">Not all junk needs to go to waste. Usable items can be repurposed, sold, or donated. Once you’ve handled what you can, BinBear is here to help with the rest, offering: </p>
+                        <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">Not all junk needs to go to waste. Usable items can be repurposed, sold, or donated. Once you’ve handled what you can, binbear is here to help with the rest, offering: </p>
                        
 
 

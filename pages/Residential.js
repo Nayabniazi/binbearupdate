@@ -59,7 +59,7 @@ export default function WorkProcess() {
                                     <li className="wow animate__animated animate__fadeIn">
                                         <div className="image-how"><span className="img"><img src="/assets/imgs/page/homepage1/payment.png" alt="transp"style={{height:'40px'}} /></span></div>
                                         <div className="info-how">
-                                            <h5 className="color-black">Free, Upfront Estimates</h5>
+                                            <h5 className="color-black">Free, upfront Estimates</h5>
                                             <p className="font-md color-grey-700"></p>
                                         </div>
                                     </li>
@@ -187,7 +187,7 @@ export default function WorkProcess() {
                                     <li className="wow animate__animated animate__fadeIn">
                                         <div className="image-how"><span className="img"><img src="/assets/imgs/page/homepage1/cargo-ship.png" alt="transp"style={{height:'40px'}} /></span></div>
                                         <div className="info-how">
-                                            <h5 className="color-black">If You Agree to Our Price, We Take Your Junk</h5>
+                                            <h5 className="color-black">If You Agree to Our Price, we Take Your Junk</h5>
                                             <p className="font-md color-grey-700"></p>
                                         </div>
                                     </li>
@@ -349,7 +349,7 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                               </p>
                        </div>
 
-                       <h5>Being Green, Being Kind</h5>
+                       <h5>Being Green, being Kind</h5>
                        <p style={{marginTop:'30px'}}>
                        Junk doesn’t have to end up in a landfill. BinBear believes in recycling every possible material, and we donate usable items to local charities. Your unwanted furniture or electronics could make 
                        </p>
@@ -672,7 +672,7 @@ color:orange;}
                                            <div className="card-offer cardServiceStyle3 hover-up">
                                                <div className="card-image"><img src="/assets/imgs/page/homepage4/stopwatch.png" alt="transp" /></div>
                                                <div className="card-info">
-                                                   <h5 className="color-black mb-15">Professional, Insured Team</h5>
+                                                   <h5 className="color-black mb-15">Professional, insured Team</h5>
                                                    <p className="font-sm color-grey-900">Our experienced crew is licensed, insured, and equipped to handle any job safely and efficiently..</p>
                                                </div>
                                            </div>

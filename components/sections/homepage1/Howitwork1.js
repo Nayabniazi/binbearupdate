@@ -74,7 +74,7 @@ export default function Howitwork1() {
                                     <div className="info-play">
                                         <h4 className="color-white mb-15 wow animate__animated animate__fadeIn">We have 8 years
                                             passion and reputation</h4>
-                                        <p className="font-sm color-white wow animate__animated animate__fadeIn">What Started as small,locally owned junk hauling business has quickly grown into a trusted name in our community
+                                        <p className="font-sm color-white wow animate__animated animate__fadeIn">What Started as small, locally owned junk hauling business has quickly grown into a trusted name in our community
                                             </p>
                                     </div>
                                 </div>
