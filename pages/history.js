@@ -200,11 +200,11 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
 
 
 
-                               <div className="font-md color-grey-900 mb-40 wow animate__animated animate__fadeIn"style={{marginRight:'70px'}} >
+                               <div className="font-md color-grey-900 mb-40 wow animate__animated animate__fadeIn"style={{marginRight:'0px'}} >
 
                                 <ul className="list-how-works">
                                     <li >
-                                        <div className="image-how"><span className="img"><img src="/assets/imgs/page/homepage1/payment.png" alt="transp"style={{height:'40px'}} /></span></div>
+                                        <div className="image-how"style={{marginTop:'0px'}}><span className="img"><img src="/assets/imgs/page/homepage1/payment.png" alt="transp"style={{height:'40px'}} /></span></div>
                                         <div className="info-how"style={{marginRight:'30px',}}>
                                             <h5 className="color-black">Schedule Your Appointment</h5>
                                            
@@ -241,7 +241,7 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
 
                                    
                                     <li >
-                                        <div className="image-how"><span className="img"><img src="/assets/imgs/page/homepage1/delivery.png" alt="transp" style={{height:'30px'}}/></span></div>
+                                        <div className="image-how"style={{marginBottom:'40px'}}><span className="img"><img src="/assets/imgs/page/homepage1/delivery.png" alt="transp" style={{height:'30px'}}/></span></div>
                                         <div className="info-how">
                                             <h5 className="color-black">Enjoy a Clutter-Free Space</h5>
                                             <p className="font-md color-grey-700">Relax in your newly cleared space, knowing that your junk was handled responsibly.
@@ -459,9 +459,64 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
                                     You can give us a call ,send  us a text or email us to request a quote to schedule a junk pickup! please use this options if you  are:
                                    
 </p>
-<p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn">1.Commercial customer</p>
-<p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn" >2.Post construction</p>
-<p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn" >3.Tenant cleanout(Vacant/Residential)</p>
+<h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        marginRight: '5px', 
+
+    }}>
+        1
+    </span>
+    Commercial customer
+</h6>
+
+<h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        marginRight: '5px', 
+
+    }}>
+        2
+    </span>
+    Post construction
+   </h6>
+
+<h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+    <span style={{
+        display: 'inline-block',
+        width: '30px',
+        height: '30px',
+        lineHeight: '30px',
+        borderRadius: '50%',
+        backgroundColor: 'orange',
+        color: 'white',
+        textAlign: 'center',
+        fontWeight: 'bold',
+        marginRight: '5px', 
+        marginBottom:'50px',
+
+    }}>
+        3
+    </span>
+    Tenant cleanout(Vacant/Residential)
+</h6>
+
 <h6>*only customer that choose options 2 please  read*</h6>
 <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn"style={{marginTop:"20px"}} >
 
@@ -552,7 +607,6 @@ satisfaction by providing fast, professional services is competitive rates. Our 
     </div>
   </div>
 </section>
-
 
 
 

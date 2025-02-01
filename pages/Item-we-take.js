@@ -104,7 +104,7 @@ export default function ServiceDetail() {
                                 className="btn btn-link font-sm color-"
                                 style={{ color: "black" }}
                             >
-                               <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button>
+                               <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',}}>view details</button>
                                 
                             </a>
                         </div>

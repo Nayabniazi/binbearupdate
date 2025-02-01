@@ -5681,6 +5681,7 @@ footer a {
 }
 .list-how-works li .info-how {
   width: 100%;
+  margin-top:50px;
 }
 .list-how-works li:last-child .image-how::before {
   display: none;
