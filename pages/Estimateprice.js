@@ -566,33 +566,36 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                         <div className="bg-under"/>
                         <div className="row">
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{
+      background: "linear-gradient(to right, orange, black)",color:'white'}}>
                                    
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}></h5>
-                                        <p className="font-sm color-grey-900 "style={{marginBottom:'50px'}}>In fact, we are rated #1 for our customer service nationally. In addition, we also pay our highly-trained workers a fair market rate and our operators are insured.
+                                        <h5 className="color- mb-15"></h5>
+                                        <p className="font-sm color-900 "style={{marginBottom:'50px'}}>In fact, we are rated #1 for our customer service nationally. In addition, we also pay our highly-trained workers a fair market rate and our operators are insured.
                                         </p>
                                        </div>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{
+      background: "linear-gradient(to right, orange, black)",color:'white'}}>
                                     
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}></h5>
-                                        <p className="font-sm color-grey-900 mb-35">At Junk King, we guarantee that we will dispose of your junk items properly. In fact, we recycle up to 60 percent of every junk removal job and we are the only national junk removal company with sorting facilities in our locally owned locations.</p>
+                                        <h5 className="color- mb-15"></h5>
+                                        <p className="font-sm color-900 mb-35">At Junk King, we guarantee that we will dispose of your junk items properly. In fact, we recycle up to 60 percent of every junk removal job and we are the only national junk removal company with sorting facilities in our locally owned locations.</p>
                                        
                                     </div>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{
+      background: "linear-gradient(to right, orange, black)",color:'white'}}>
        
                                     <div className="card-info" >
-                                        <h5 className="color- mb-15"style={{color:'black'}}></h5>
-                                        <p className="font-sm color-grey-900 mb-50">
+                                        <h5 className="color- mb-15"></h5>
+                                        <p className="font-sm color-900 mb-50">
                                         We sort, reuse, recycle, and donate as much as we possibly can to be a responsible waste removal partner for a better tomorrow
  </p>
                                        
@@ -600,11 +603,12 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{
+      background: "linear-gradient(to right, orange, black)",color:'white'}}>
                                    
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}></h5>
-                                        <p className="font-sm color-grey-900 mb-70">This pricing estimator provides an online estimate. The final price will be determined onsite by our staff.
+                                        <p className="font-sm color--900 mb-70">This pricing estimator provides an online estimate. The final price will be determined onsite by our staff.
                                         </p>
                                         <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
                                             <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -614,11 +618,12 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{
+      background: "linear-gradient(to right, orange, black)",color:'white'}}>
                                   
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}></h5>
-                                        <p className="font-sm color-grey-900 mb-50">The price for heavy material, such as dirt, gravel, roofing material, and concrete, cannot be estimated with this tool as this material is charged by the bed load. </p>
+                                        <h5 className="color- mb-15"></h5>
+                                        <p className="font-sm color-900 mb-50">The price for heavy material, such as dirt, gravel, roofing material, and concrete, cannot be estimated with this tool as this material is charged by the bed load. </p>
                                         <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
                                             <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />

@@ -322,7 +322,7 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                                         <h5 className="color- mb-15"style={{color:'black'}}>#1 Junk removal company in Texas </h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
                                        
-                                        <div className="box-button-offer mb-30 "style={{marginTop:'65px'}}><a className="btn btn-link font-sm color-"style={{color:'black'}}href="/Booking"> <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button>
+                                        <div className="box-button-offer mb-30 "style={{marginTop:'60px'}}><a className="btn btn-link font-sm color-"style={{color:'black'}}href="/Booking"> <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button>
                                        </a></div>
                                     </div>
                                 </div>
@@ -330,14 +330,14 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
                                 <div className="card-offer hover-up">
                                     
-                                    <div className="card-image"><img src="/assets/imgs/page/homepage1/cargo-shipy.png" alt="transp"style={{borderRadius:"50px",}} />
+                                    <div className="card-image"><img src="/assets/imgs/page/homepage1/cargo-shipy.png" alt="transp"style={{borderRadius:"20px",}} />
                                     </div>
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>Lowest  Price  Guaranteed! </h5>
                                         <h5 className="color- "style={{color:'black'}}> 100% Price Matching</h5>
                                      
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"style={{marginTop:'50px'}}><a className="btn btn-link font-sm color-"style={{color:'black'}}><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button>
+                                        <div className="box-button-offer mb-30"style={{marginTop:'45px'}}><a className="btn btn-link font-sm color-"style={{color:'black'}}><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button>
                                             </a></div>
                                     </div>
                                 </div>

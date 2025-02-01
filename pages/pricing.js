@@ -628,25 +628,27 @@ Our pricing estimator even allows you to estimate based on the space your junk w
                                 <div className="mt-20 box-background-black" >
                         <div className="bg-under"/>
                         <div className="row">
-                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
+                                <div className="card-offer hover-up"style={{
+      background: "linear-gradient(to right, orange, black)",color:'white'}} >
                                    
                                     
                                     <div className="card-info"style={{marginBottom:'70px'}}>
-                                        <h5 className="color- mb-30"style={{color:'black'}}>Customer Care</h5>
-                                        <p className="font-sm color-grey-900 "style={{marginBottom:'50px'}}>We call 15-30 minutes before arrival to respect your time.
+                                        <h5 className="color-white mb-30">Customer Care</h5>
+                                        <p className="font-sm color-900 "style={{marginBottom:'50px'}}>We call 15-30 minutes before arrival to respect your time.
                                         </p>
                                        </div>
                                 </div>
                             </div>
 
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{
+      background: "linear-gradient(to right, orange, black)",color:'white'}}>
                                    
                                     
                                     <div className="card-info"style={{marginBottom:'70px'}}>
-                                        <h5 className="color- mb-30"style={{color:'black'}}>Experienced Staff</h5>
-                                        <p className="font-sm color-grey-900 "style={{marginBottom:'50px'}}>Our team is highly trained, insured, and paid fair rates.
+                                        <h5 className="color- mb-30"style={{color:'white'}}>Experienced Staff</h5>
+                                        <p className="font-sm color-900 "style={{marginBottom:'50px'}}>Our team is highly trained, insured, and paid fair rates.
                                         </p>
                                        </div>
                                 </div>
@@ -655,11 +657,12 @@ Our pricing estimator even allows you to estimate based on the space your junk w
 
                             
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{
+      background: "linear-gradient(to right, orange, black)",color:'white'}}>
        
                                     <div className="card-info" >
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Green Initiatives</h5>
-                                        <p className="font-sm color-grey-900 mb-50">
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Green Initiatives</h5>
+                                        <p className="font-sm color-900 mb-50">
                                         BinBear recycles up to 60% of the items we collect, sorting and donating wherever possible for a cleaner, greener tomorrow.
 
  </p>
