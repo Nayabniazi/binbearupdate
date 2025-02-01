@@ -159,7 +159,7 @@ export default function Quote() {
                                     <div className="box-info-bottom-img"style={{backgroundColor:'black'}}>
                                           <div className="info-play wow animate__animated animate__fadeIn"style={{backgroundColor:"black"}}>
                                             <h4 className="color-white mb-15">We have 8 years passion and reputation</h4>
-                                            <p className="font-sm color-white">What started as small,locally owned junk hauling business has quickly grown into a trusted name in our community </p>
+                                            <p className="font-sm color-white">What started as small, locally owned junk hauling business has quickly grown into a trusted name in our community </p>
                                         </div>
                                     </div>
                                 </div>
