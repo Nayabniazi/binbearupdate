@@ -29,7 +29,7 @@ export default function OurTeam() {
             <Layout> <section className="section mt-70">
                     <div className="container">
                         <div className="row align-items-center">
-                            <div className="col-lg-6 mb-30"><span className="btn btn-tag wow animate__animated animate__fadeIn">Meet Our Team</span>
+                            <div className="col-lg-6 mb-30">
                                 <h3 className="color-grey-900 mb-25 mt-15 wow animate__animated animate__fadeIn">BinBear’s Junk Recycling Service</h3>
                              
                     <p className="font-md color-grey-900 wow animate__animated animate__fadeIn" >With our planet facing increasing waste challenges, responsible junk recycling has never been more important. Every day, people are upgrading to new items, leaving behind outdated furniture, appliances, and electronics. For many, the easiest option is to throw these items away, but at BinBear, we believe there’s a better way.</p>
@@ -587,7 +587,7 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                             .</div>
                     </div>
                 </div>
-                <div className="accordion-item wow animate__animated animate__fadeIn"style={{marginTop:'150px'}}>
+                <div className="accordion-item wow animate__animated animate__fadeIn"style={{marginTop:'50px'}}>
                     <h5 className="accordion-header" onClick={() => handleToggle(2)}>
                         <button className={isActive.key == 2 ? "accordion-button text-heading-5 " : "accordion-button text-heading-5 collapsed"}style={{backgroundColor:'black',color:'white'}}>What Items Aren’t Recyclable?
                             </button>

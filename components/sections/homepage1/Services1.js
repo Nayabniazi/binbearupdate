@@ -264,7 +264,7 @@ export default function Services1() {
 
             <section className="section mt-100">
                 <div className="container">
-                <h3 className="color-black wow animate__animated animate__fadeIn">We don't Say We are Different<br className="d-none d-lg-block" />We Show You!</h3>
+                <h3 className="color-black wow animate__animated animate__fadeIn">We don't Say We are Different<br className="d-none d-lg-block" /> We Show You!</h3>
                            
                     <div className="row align-items-end">
                         <div className="">

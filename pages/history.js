@@ -124,7 +124,7 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
                         <div className="row align-items-center item-about-2">
                             <div className="col-lg-6"style={{marginTop:'100px'}}><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-2-3.png" alt="transp" /></div>
                             <div className="col-lg-6">
-                                <div className="box-info-about-2"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'orange'}}>Our Partners</span>
+                                <div className="box-info-about-2"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'orange',marginTop:'40px'}}>Our Partners</span>
                                     <h2 className="color-black mt-15 mb-25 wow animate__animated animate__fadeIn">Landfill Stress in the United States</h2>
                                     <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn">Landfill stress in the U.S. has grown as urban populations and waste generation increased. Over Time, landfills have become overwhelmed, leading to concerns about environmental impacts, such as soil and water contamination.
                                     
@@ -409,50 +409,9 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
 
 
 
-
-
-
-
-                    
-                </div>
-            </section>
-
-
-
-
-           
-  
-
-
-
-                <section className="section mt-0">
-    <div className="container">
-        <div className="row align-items-center">
-
-
-
-
-
-
-
-</div>
-           
-          
-        
-    </div>
-
-
-    </section>
-
-
-
-
-
-
-
 <div className="row align-items-center item-about-2 item-about-2-revert">
                             <div className="col-lg-6">
-                            <div className="box-info-aabout-2"style={{marginLeft:'60px'}}>
+                            <div className="box-info-aabout-2" >
                               
                                      <h3 className="color-black mt-15 mb-25 wow animate__animated animate__fadeIn">Option2</h3>
                                     <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn">
@@ -546,6 +505,59 @@ Once we arrive at  your location.if the items chosen do not correctly describe y
 
 
 
+
+
+
+                    
+                </div>
+            </section>
+
+
+
+
+           
+  
+
+
+
+                <section className="section mt-0">
+    <div className="container">
+        <div className="row align-items-center">
+
+
+
+
+
+
+
+</div>
+           
+          
+        
+    </div>
+
+
+    </section>
+
+
+
+
+
+
+
+
+   
+
+
+                              
+
+
+
+
+
+
+
+
 <div>
 
 
@@ -566,24 +578,27 @@ Once we arrive at  your location.if the items chosen do not correctly describe y
       >
         Our Features
       </span>
-      <h2 className="color-mb-20 mt-10 wow animate__animated animate__fadeIn" style={{ color: 'white',marginRight:'40px' }}>
+      <h2 className="color-mb-20 mt-10 wow animate__animated animate__fadeIn" style={{ color: 'white',marginRight:'0px' }}>
         Why Choose BinBear?
       </h2>
     </div>
-    <div className="row mt-60          "     >
-      <p style={{ color: 'white', marginLeft: '120px', }}>
-Customer should choose BinBear for junk removal Services because we offers reliable efficient and eco-friendly solutions. We prioritize customers
- <p style={{marginTop:'10px'}}>    
+    <div className="row mt-60 "     >
+    <p className="font-md color-white-900 mb-20 wow animate__animated animate__fadeIn">
+    Customer should choose BinBear for junk removal Services because we offers reliable efficient and eco-friendly solutions. We prioritize customers
+      
 satisfaction by providing fast, professional services is competitive rates. Our team  handles all types of junks,from residential to commercial,
-       with the 
-       </p>
-       <p style={{marginTop:'10px'}}>
-       focus on recycling  and donation when possible. We're commited to supporting our community and environment, making us the go-to choice for   
+       with the   focus on recycling  and donation when possible. We're commited to supporting our community and environment, making us the go-to choice for   
+         responsible, hassle-free, junk removal in DFW metroplex.
+                                                      
+</p>
+
+
+     
+      
+      <p style={{marginTop:'10px',marginLeft:'290px'}} >   
       
       </p>
-      <p style={{marginTop:'10px',marginLeft:'290px'}} >responsible, hassle-free, junk removal in the DFW  metroplex.
-      </p>
-      </p>
+      
       <p style={{ marginTop: '10px', marginLeft: '50px', color: 'white' }}>
        
        </p>
@@ -608,7 +623,85 @@ satisfaction by providing fast, professional services is competitive rates. Our 
   </div>
 </section>
 
+<style jsx>{
+    `
+    /* General Section Styling */
+.section {
+  padding-top: 100px;
+  background-color: black;
+  margin-top: 10px;
+  margin-bottom: 100px;
+}
 
+/* Centering and Adjusting Heading */
+.section .text-center {
+  text-align: center;
+}
+
+.section h2 {
+  color: white;
+  margin-top: 10px;
+  margin-right: 40px;
+}
+
+/* Paragraph Styling */
+.section p {
+  color: white;
+  font-size: 16px;
+  line-height: 1.6;
+  max-width: 800px; /* Restrict width for readability */
+  margin: 10px auto; /* Center paragraphs */
+  text-align: center; /* Center text */
+}
+
+/* Responsive Design */
+
+/* Large Screens (Desktops & Laptops) */
+@media (max-width: 1200px) {
+  .section p {
+    font-size: 15px;
+    max-width: 700px;
+  }
+}
+
+/* Medium Screens (Tablets) */
+@media (max-width: 992px) {
+  .section {
+    padding-top: 80px;
+  }
+  .section h2 {
+    margin-right: 0; /* Remove right margin */
+  }
+  .section p {
+    font-size: 14px;
+    max-width: 90%;
+    margin: 10px auto;
+  }
+}
+
+/* Small Screens (Mobile) */
+@media (max-width: 768px) {
+  .section {
+    padding-top: 60px;
+    margin-bottom: 50px;
+  }
+  .section h2 {
+    font-size: 22px;
+    text-align: center;
+    margin-right: 0;
+  }
+  .section p {
+    font-size: 14px;
+    max-width: 95%;
+    text-align: center;
+    margin: 10px auto;
+  }
+}
+
+    
+    `}
+
+</style>
 
 
 
@@ -621,34 +714,24 @@ satisfaction by providing fast, professional services is competitive rates. Our 
 
 <style jsx>{
     `
-    /* Default styles for smaller screens */
-.box-info-about-2 {
-    margin-left: 500px;
-    margin-right: 50px;
-    padding: 20px;
+ /* Default (Desktop) */
+.box-info-aabout-2 {
+  margin-left: 100px; /* Default margin for larger screens */
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
 }
 
-/* For larger screens (e.g., 1920px) */
-@media (min-width: 1920px) {
-    .box-info-about-2 {
-        padding-left: 700px; /* Increase left padding for 1920px */
-        margin-right: 50px; /* Right margin stays consistent */
-        max-width: 100px; /* Keep text box width in control */
-    }
-
-    img.img-fluid {
-        max-width: 800px; /* Adjust image size */
-        margin-left: 0; /* Reset image alignment */
-    }
+/* Mobile Screens (Max width: 768px) */
+@media (max-width: 768px) {
+  .box-info-aabout-2 {
+    margin-left: 100px;  /* Remove left margin */
+    /* Ensure no extra spacing */
+    padding: 15px;     /* Adjust padding for better fit */
+    text-align: center; /* Center the content */
+  }
 }
 
-/* Responsive image scaling */
-.img-fluid {
-    max-width: 100%;
-    height: auto;
-}
-
-    
     
     `}
 

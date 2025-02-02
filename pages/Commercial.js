@@ -15,9 +15,8 @@ export default function Quote() {
       setClickedCardIndex(clickedCardIndex === index ? null : index);
     };
   
-
-
-
+   
+      
     const cards = [
         {
           title: "Office Junk Removal",
@@ -25,28 +24,28 @@ export default function Quote() {
           description:
             "When office furniture becomes obsolete, removing it can be more than most people want to handle alone. BinBear offers efficient, eco-friendly office furniture removal to keep your workspace clear and organized. We’ll even ensure that usable items are donated, and the rest is recycled responsibly.",
           image: "/assets/imgs/page/contact/branch1.png",
-          icon: "/assets/imgs/page/homepage1/truck.png",
+     
         },
         {
           title: "Commercial Equipment Removal",
           description:
             "Old equipment can be difficult to dispose of, especially when dealing with large, heavy, or unwieldy items. Outsourcing equipment removal to BinBear is often the most cost-effective choice, freeing up your team to focus on their work while we handle the disposal..",
           image: "/assets/imgs/page/contact/branch2.png",
-          icon: "/assets/imgs/page/homepage1/truck.png",
+          
         },
         {
           title: "Commercial Scrap Pick-Up",
           description:
             "Disposing of scrap metal like iron, copper, aluminum, or construction metal can be challenging. BinBear will safely pick up and recycle your scrap metal, keeping your workplace clutter-free and environmentally friendly.",
           image: "/assets/imgs/page/contact/branch3.png",
-          icon: "/assets/imgs/page/homepage1/truck.png",
+         
         },
         {
           title: "Property Management Clean-Out",
           description:
             "Rental properties often require cleanouts between tenants. BinBear’s property management junk removal service helps property managers quickly clear out abandoned junk, minimizing downtime and getting your property ready for the next occupant..",
           image: "/assets/imgs/page/contact/branch4.png",
-          icon: "/assets/imgs/page/homepage1/truck.png",
+         
         },
        
         {
@@ -55,7 +54,7 @@ export default function Quote() {
               "Foreclosed properties are often left with junk that needs to be cleared before they can be sold. BinBear’s team can handle all the heavy lifting and disposal, making the property market-ready in no time.",
 
             image: "/assets/imgs/page/contact/branch4.png",
-            icon: "/assets/imgs/page/homepage1/truck.png",
+            
           },
          
           {
@@ -63,7 +62,7 @@ export default function Quote() {
             description:
               "When storage units are abandoned or left filled with junk, BinBear helps facility managers clear out these units quickly and efficiently, ensuring they’re ready for new tenants.",
             image: "/assets/imgs/page/contact/branch4.png",
-            icon: "/assets/imgs/page/homepage1/truck.png",
+           
           },
           {
             title: "Construction Debris Removal",
@@ -71,12 +70,13 @@ export default function Quote() {
               "Managing construction debris can be a time-consuming task. BinBear offers hassle-free construction debris removal, giving contractors and project managers peace of mind that their waste is being handled responsibly.",
 
             image: "/assets/imgs/page/contact/branch4.png",
-            icon: "/assets/imgs/page/homepage1/truck.png",
+            
           },
          
 
        
-      ];
+      ]
+      
     
      
 
@@ -197,7 +197,7 @@ export default function Quote() {
                   <img src={card.image} alt={card.title} />
                 </div>
                 <div className="cardInfo wow animate__animated animate__fadeIn">
-                  <img src={card.icon} alt={card.title} />
+                  
                   <h6 className="color-black mb-15 ">{card.title}</h6>
                   <p className="font-xs color-grey-900">{card.description}</p>
                 </div>
@@ -258,7 +258,7 @@ background-color:black;}
                         </div>
                         <div className="row mt-50">
                             <div className="col-lg-6 mb-30">
-                                <div className="box-image-how"><img className="w-100 wow animate__animated animate__fadeIn" src="/assets/imgs/page/homepage1/how-it-work.png" alt="transp" />
+                                <div className="box-image-how"><img src="/assets/imgs/page/workprocess/img2.png" alt="transp" />
                                     <div className="box-info-bottom-img"style={{backgroundColor:'black'}}>
                                         <div className="image-play wow animate__animated animate__fadeIn"></div>
                                         <div className="info-play">

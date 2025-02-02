@@ -483,7 +483,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
 </h6>
                    
                                   
-                                     <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"> The best and most accurate way for us to assess the job and offer you the lowest price is with our free, no-obligation, on site estimate. Once we are on site, we can see how much space your junk removal job will require.
+                                     <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"> The best and most accurate way for us to assess the job and offer you the lowest price is free, no obligation on site estimate. When we are on-site, we can see most exactly what the job will require. This helps us give you an immediate, accurate, and fair price for your junk removal job. When you're happy with the price, in most cases we will complete the job right then and there.
                                     .</p>
                                 </div>
                                
@@ -505,10 +505,10 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
     }}>
         3
     </span>
-    CALL OUR TRAINED STAFF
+    CALL & TALK TO TRAINED STAFF
 </h6>
                                    
-                                      <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">You can also call or live chat with our knowledgeable and courteous customer service team. If you have 4 items or less, we can likely offer you a firm price. If you have 4 items or more, we can give you an accurate estimate. </p>
+                                      <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">Finally, you can call and/or live chat our customer service representatives. We are open from 4:45a - 8p PST, 7:45a - 11p EST, 6 days a week, and for 8 hours on Sunday. If you have 4 items or less, in many cases we will be able to offer you a firm price. If you have 4 items or more, we can offer you an estimate range at the call center. The final price, with no obligation, will be completed by our trained technicians. </p>
                                 </div>
                                 <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">Regardless of which method you use to get your free estimate, the final, no-obligation price will be provided to you by our trained technicians.</p>
                             </div>
@@ -540,6 +540,55 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                                      <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">You can take a photo of your junk items and text it to us at 737-888-5865 and we will text you back an estimate. And, if your items are in different places on your property, just send us multiple photos and we will be able to provide you with an estimate.</p>
                                 </div>
                                
+
+
+
+
+
+
+
+                                <div className="item-faqs-2 mb-30">
+                                        
+                                                                                    
+                                        <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+            <span style={{
+                display: 'inline-block',
+                width: '30px',
+                height: '30px',
+                lineHeight: '30px',
+                borderRadius: '50%',
+                backgroundColor: 'orange',
+                color: 'white',
+                textAlign: 'center',
+                fontWeight: 'bold',
+                 marginRight:'10px'
+            }}>
+                4
+            </span>
+            ONLINE PRICING ESTIMATE
+        </h6>
+                                            
+                                            
+                                            
+                                            
+                                             <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">For an online pricing estimate, simply click Pricing in the navigation above, scroll to pricing estimator, enter a zip code, and choose estimate by items or volume. The online price estimator is based on the average size of a typical item and the price in your local market. The size of a couch or a TV or any item may vary, which will affect your price. The online estimator provides an estimate only. Our goal with the estimator is to give you a solid idea of what the job is likely to cost.</p>
+                                        </div>
+                                       
+        
+        
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
                               
                                 <div className="item-faqs-2 mb-30">
                             
