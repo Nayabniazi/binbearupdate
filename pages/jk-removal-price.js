@@ -309,7 +309,7 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
                                     <h2 className="mb-20 wow animate__animated animate__fadeIn">FAQs</h2>
                                     <p className="font-md color-grey-700 mb-50 wow animate__animated animate__fadeIn">Feeling inquisitive? Have a read through some of our FAQs or contact our supporters for help</p>
                                     <div className="box-gallery-faqs">
-                                        <div className="image-top wow animate__animated animate__fadeIn"><img src="/assets/imgs/page/blog-single/bagi.png" alt="transp"style={{width:'565px'}} /></div>
+                                        <div className="image-top wow animate__animated animate__fadeIn"><img src="/assets/imgs/page/blog-single/bagi.png" alt="transp"style={{width:'567px'}} /></div>
                                         <div className="image-bottom wow animate__animated animate__fadeIn">
                                            
                                             <div className="image-faq-2" style={{width:'1500px'}}><img src="/assets/imgs/page/service-detail/img4.png" alt="transp"  /></div>

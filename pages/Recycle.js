@@ -562,15 +562,26 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                 <h2 className=" mb-20 wow animate__animated animate__fadeIn">Recycling FAQs</h2>
                                 <p className="font-md color-grey-700 mb-50 wow animate__animated animate__fadeIn">
                                     </p>
+                               
+
+
+
                                 <div className="box-gallery-faqs">
-                                    <div className="image-top"><img src="/assets/imgs/page/homepage3/dump.png" alt="transp" />
+                                        <div className="image-top wow animate__animated animate__fadeIn"><img src="/assets/imgs/page/blog-single/bagi.png" alt="transp"style={{width:'567px'}} /></div>
+                                        <div className="image-bottom wow animate__animated animate__fadeIn">
+                                           
+                                            <div className="image-faq-2" style={{width:'1500px'}}><img src="/assets/imgs/page/service-detail/img4.png" alt="transp"  /></div>
+                                        </div>
+                                       
+  
+
                                     </div>
-                                    <div className="image-bottom">
-                                    <div className="image-faq-1"><img src="/assets/imgs/page/homepage1/img-faq2.png" alt="transp" /></div>
-                                        <div className="image-faq-2"><img src="/assets/imgs/page/homepage3/dump.png" alt="transp" /></div>
-                                 
-                                          </div>
-                                </div>
+
+
+
+
+
+
                             </div>
                         </div>
                         
