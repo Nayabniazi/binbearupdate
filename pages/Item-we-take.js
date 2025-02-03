@@ -62,7 +62,7 @@ export default function ServiceDetail() {
     <div className="bg-under" />
     <div 
         className="card-grid" 
-        style={{ marginLeft: "60px", marginRight: "60px" }}
+        
     >
         {[
             { title: "1. Furniture Removal" },
@@ -121,9 +121,10 @@ export default function ServiceDetail() {
 <style>
   {`
   .card-container {
+margin: auto;
       width: 100%; /* Ensures the card takes full width */
       max-width: 500px; /* Adjust as needed */
-      margin: auto; /* Centers the card */
+       /* Centers the card */
       padding: 10px;
   }
 
@@ -138,8 +139,8 @@ export default function ServiceDetail() {
   /* Adjust image width on different screen sizes */
   @media (max-width: 768px) {
       .card-container {
-         margin-left:40px;
-      max-width: 83%; /* Allows the card to shrink on smaller screens */
+         margin-left:0px;
+      max-width: 100%; /* Allows the card to shrink on smaller screens */
       }
   }
   `}
@@ -152,6 +153,8 @@ export default function ServiceDetail() {
 <style jsx>{`
    
     .card-grid {
+    margin-right:60px;
+  margin-left:60px;
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* 3 cards per row */
     gap: 20px; /* Space between cards */
@@ -180,19 +183,21 @@ export default function ServiceDetail() {
 /* Responsiveness */
 @media (max-width: 1024px) {
     .card-grid {
+   
         grid-template-columns: repeat(2, 1fr); /* 2 cards per row on smaller screens */
     }
 }
 @media (min-width: 1920px){
 .card-grid {
-padding-left: 200px;
+padding-left: 100px;
 padding-right:205px;
 }
 
 }
 @media (max-width: 768px) {
     .card-grid {
-   
+    width:315px;
+ margin-left:20px;
         grid-template-columns: repeat(1, 1fr); /* 1 card per row on mobile screens */
     }
 

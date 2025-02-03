@@ -135,10 +135,10 @@ Our pricing estimator even allows you to estimate based on the space your junk w
                         <div className="row align-items-center">
                             <div className="col-lg-6 mb-60"><div className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img2.png" alt="transp" /></div></div>
                             <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/pallet.png" alt="transp" />
-                                <h3 className="color-black mb-15 wow animate__animated animate__fadeIn">How to Use BinBear’s Pricing Estimator:
+                                <h3 className="color-black mb-1 wow animate__animated animate__fadeIn">How to Use BinBear’s Pricing Estimator:
                                 </h3>
                                
-                                <p className=" font-md-bold color-grey-900 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}></p>
+                                <p className=" font-md-bold color-grey-900 wow animate__animated animate__fadeIn"style={{marginBottom:'0px'}}></p>
                                         
 
 
@@ -296,16 +296,8 @@ Our pricing estimator even allows you to estimate based on the space your junk w
                                             
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"> </p>
                                         </div>
-                                        <div className="col-lg-6 mb-30">
-                                            <h6 className=" font-md-bold color-grey-900 wow animate__animated animate__fadeIn"> 
-                                            </h6>
-                                            <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
-                                        </div>
-                                        <div className="col-lg-6 mb-30">
-                                            <h6 className=" font-md-bold color-grey-900 wow animate__animated animate__fadeIn">
-                                            </h6>
-                                            <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
-                                        </div>
+                                       
+                                        
 
 
 
@@ -323,7 +315,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
 
                                 
                                
-                         <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}></p>      
+                         <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'0px'}}></p>      
                                 
                             </div>
                         </div>
@@ -336,10 +328,10 @@ Our pricing estimator even allows you to estimate based on the space your junk w
 
 
                              
-                     <section className="section mt-70">
+                     <section className="section mt-0">
                     <div className="container">
                         <div className="row align-items-center">
-                            <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
+                            <div className="col-lg-6 mb-0"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
                                 
 
 

@@ -106,7 +106,7 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
                             </div>
                             <div className="col-lg-6 position-relative mb-30">
                                 <div className="row align-items-end">
-                                    <div className="col-lg-5 col-md-5 col-sm-5"><img className="mb-20 wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-1-1.png" alt="transp" /><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/blog-single/bagi.png" alt="transp" /></div>
+                                    <div className="col-lg-5 col-md-5 col-sm-5"><img className="mb-0 wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-1-1.png" alt="transp" /><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/blog-single/bagi.png" alt="transp" /></div>
                                     <div className="col-lg-7 col-md-7 col-sm-7"><img className="wow animate__animated animate__fadeIn"style={{height:'500px',width:'1000px'}} src="/assets/imgs/page/service-detail/img4.png"/></div>
                                 </div>
                                 <div className="quote-center shape-2" />
@@ -126,7 +126,7 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
 
 
 
-                <section className="section mt-100">
+                <section className="section mt-10">
                     <div className="container position-relative">
                         <h2 className=" mb-20 wow animate__animated animate__fadeIn"> 4 Different Ways to Get an Estimate</h2>
                         <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"> For our full service junk hauling, we offer 4 different ways to get an estimate or firm price.</p>
@@ -256,7 +256,7 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
                         </div>
                     </div>
                 </section>
-                <section className="section pt-80 mb-70 bg-faqs">
+                <section className="section pt-80 mb-0 bg-faqs">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-6">

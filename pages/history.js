@@ -92,14 +92,14 @@ const HistoryPage = () => {
                             <div className="col-lg-6 position-relative mb-30">
                                 <div className="row align-items-end">
                                     <div className="col-lg-5 col-md-5 col-sm-5"><img className="mb-20 wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-1-1.png" alt="transp" /><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/blog-single/bagi.png" alt="transp" /></div>
-                                    <div className="col-lg-7 col-md-7 col-sm-7"><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/service-detail/img4.png"style={{height:"400px"}} alt="transp" /></div>
+                                    <div className="col-lg-7 col-md-7 col-sm-7"><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-1-1.png"style={{height:"370px"}} alt="transp" /></div>
                                 </div>
                                 <div className="quote-center shape-2" />
                             </div>
                         </div>
                     </div>
                 </section>
-                <section className="section mt-50 mb-50">
+                <section className="section mt-0 mb-50">
                     <div className="container">
                       
                         <div className="row align-items-center item-about-2 item-about-2-revert">
@@ -262,7 +262,7 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
                                
                             </div>
                             
-                            <div  style={{marginTop:'90px'}} className="col-lg-6 mb-60"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img1.png" alt="transp" /></Link></div>
+                            <div  style={{marginTop:'0px'}} className="col-lg-6 mb-0"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img1.png" alt="transp" /></Link></div>
                         
                         
                           </div>

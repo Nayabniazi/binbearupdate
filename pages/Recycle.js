@@ -566,9 +566,10 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                     <div className="image-top"><img src="/assets/imgs/page/homepage3/dump.png" alt="transp" />
                                     </div>
                                     <div className="image-bottom">
-                                        <div className="image-faq-1"><img src="/assets/imgs/page/homepage1/img-faq2.png" alt="transp" /></div>
-                                        <div className="image-faq-2"><img src="/assets/imgs/page/homepage1/img-faq3.png" alt="transp" /></div>
-                                    </div>
+                                    <div className="image-faq-1"><img src="/assets/imgs/page/homepage1/img-faq2.png" alt="transp" /></div>
+                                        <div className="image-faq-2"><img src="/assets/imgs/page/homepage3/dump.png" alt="transp" /></div>
+                                 
+                                          </div>
                                 </div>
                             </div>
                         </div>

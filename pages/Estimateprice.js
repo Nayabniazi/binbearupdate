@@ -503,7 +503,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
         fontWeight: 'bold',
          marginRight:'10px'
     }}>
-        3
+        2
     </span>
     CALL & TALK TO TRAINED STAFF
 </h6>
@@ -529,7 +529,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
         fontWeight: 'bold',
          marginRight:'10px'
     }}>
-        2
+        3
     </span>
     TEXT US A PHOTO
 </h6>
