@@ -47,18 +47,18 @@ export default function WorkProcess() {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-lg-6 mb-30">
-                                <ul className="list-how-works">
+                            <div className="col-lg-6 mb-20">
+                                <ul className="list-how-works" >
                                     <li className="wow animate__animated animate__fadeIn">
                                         <div className="image-how"><span className="img"><img src="/assets/imgs/page/homepage1/plane.png" alt="transp" style={{height:'40px'}}/></span></div>
-                                        <div className="info-how">
+                                        <div className="info-how"style={{marginTop:'0px'}}>
                                             <h5 className="color-black">Fast Friendly Service</h5>
                                             <p className="font-md color-grey-700"></p>
                                         </div>
                                     </li>
                                     <li className="wow animate__animated animate__fadeIn">
                                         <div className="image-how"><span className="img"><img src="/assets/imgs/page/homepage1/payment.png" alt="transp"style={{height:'40px'}} /></span></div>
-                                        <div className="info-how">
+                                        <div className="info-how"style={{marginTop:'0px'}}>
                                             <h5 className="color-black">Free, upfront Estimates</h5>
                                             <p className="font-md color-grey-700"></p>
                                         </div>
@@ -66,7 +66,7 @@ export default function WorkProcess() {
 
                                     <li className="wow animate__animated animate__fadeIn">
                                         <div className="image-how"><span className="img"><img src="/assets/imgs/page/homepage1/warehouse.png" alt="transp"style={{height:'35px'}} /></span></div>
-                                        <div className="info-how">
+                                        <div className="info-how"style={{marginTop:'0px'}}>
                                             <h5 className="color-black">Pay Only for the Space You Use</h5>
                                             <p className="font-md color-grey-700"></p>
                                         </div>
@@ -75,7 +75,7 @@ export default function WorkProcess() {
 
                                     <li className="wow animate__animated animate__fadeIn">
                                         <div className="image-how"><span className="img"><img src="/assets/imgs/page/homepage1/cargo-ship.png" alt="transp"style={{height:'45px'}} /></span></div>
-                                        <div className="info-how">
+                                        <div className="info-how"style={{marginTop:'0px'}}>
                                             <h5 className="color-black">Low Price Guarantee</h5>
                                             <p className="font-md color-grey-700"></p>
                                         </div>
@@ -85,7 +85,7 @@ export default function WorkProcess() {
 
                                     <li className="wow animate__animated animate__fadeIn">
                                         <div className="image-how"><span className="img"><img src="/assets/imgs/page/homepage1/delivery.png" alt="transp" style={{height:'35px'}}/></span></div>
-                                        <div className="info-how">
+                                        <div className="info-how"style={{marginTop:'0px'}}>
                                             <h5 className="color-black">We Handle All the Heavy Lifting</h5>
                                             <p className="font-md color-grey-700"></p>
                                         </div>
