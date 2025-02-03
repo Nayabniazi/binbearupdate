@@ -196,7 +196,7 @@ padding-right:205px;
 }
 @media (max-width: 768px) {
     .card-grid {
-    width:315px;
+    width:330px;
  margin-left:20px;
         grid-template-columns: repeat(1, 1fr); /* 1 card per row on mobile screens */
     }

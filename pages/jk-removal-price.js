@@ -107,7 +107,7 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
                             <div className="col-lg-6 position-relative mb-30">
                                 <div className="row align-items-end">
                                     <div className="col-lg-5 col-md-5 col-sm-5"><img className="mb-0 wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-1-1.png" alt="transp" /><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/blog-single/bagi.png" alt="transp" /></div>
-                                    <div className="col-lg-7 col-md-7 col-sm-7"><img className="wow animate__animated animate__fadeIn"style={{height:'500px',width:'1000px'}} src="/assets/imgs/page/service-detail/img4.png"/></div>
+                                    <div className="col-lg-7 col-md-7 col-sm-7"><img className="wow animate__animated animate__fadeIn"style={{height:'350px',width:'1000px'}} src="/assets/imgs/page/service-detail/img4.png"/></div>
                                 </div>
                                 <div className="quote-center shape-2" />
                             </div>

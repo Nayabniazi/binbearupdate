@@ -315,10 +315,10 @@ export default function Home2() {
                                             
                                             <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
                                         </div>
-                                        <div className="col-lg-6 mb-30">
+                                        <div className="col-lg-6 mb-0">
                                           
                                                                
-                                        <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">
+                                        <h6 className="color-brand-2 mb-0 wow animate__animated animate__fadeIn">
     <span style={{
         display: 'inline-block',
         width: '30px',
@@ -337,7 +337,6 @@ export default function Home2() {
 </h6>
                                           
                                             
-                                            <p className="font-xs color-grey-900 wow animate__animated animate__fadeIn"></p>
                                         </div>
 
 
@@ -354,11 +353,7 @@ export default function Home2() {
 
 
 
-                                
-                               
-                         <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}></p>      
-                               
-                            </div>
+                      </div>
                         </div>
                     
                         </div>
@@ -369,7 +364,7 @@ export default function Home2() {
 
 
                              
-                     <section className="section mt-70">
+                     <section className="section mt-0">
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
