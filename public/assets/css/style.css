@@ -4891,7 +4891,7 @@ footer a {
 }
 
 .mt-70 {
-  margin-top: 70px !important;
+  margin-top: 10px !important;
 }
 
 .mt-75 {
@@ -6901,7 +6901,7 @@ input:checked + .slider:before {
 .box-info-trackyourparcel {
   position: relative;
   z-index: 2;
-  padding: 81px 0px;
+  padding: 21px 0px;
   text-align: center;
   max-width: 645px;
   margin: auto;
@@ -7607,7 +7607,7 @@ a.color-brand-2:hover {
   }
   .box-accordion {
     padding-left: 0px;
-    margin-top: 30px;
+    margin-top: 0px;
   }
   .box-image-contact {
     padding-left: 0px;

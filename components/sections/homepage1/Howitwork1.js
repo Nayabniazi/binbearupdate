@@ -84,7 +84,7 @@ export default function Howitwork1() {
 
 
 
-                        <div className="col-lg-6 mb-30">
+                        <div className="col-lg-6 mb-0">
   <ul className="list-how-works" style={{ listStyleType: "none", padding: 0, margin: 0 }}>
     <li style={{ display: "flex", alignItems: "center", marginBottom: "30px" }}>
       <div className="image-how">
@@ -131,8 +131,8 @@ export default function Howitwork1() {
         </p>
       </div>
     </li>
-    <li style={{ display: "flex", alignItems: "center", marginBottom: "0px" }}>
-      <div className="image-how"style={{marginBottom:'80px'}}>
+    <li style={{ display: "flex", alignItems: "center", marginBottom: "10px" }}>
+      <div className="image-how"style={{marginBottom:'50px'}}>
         <span className="img">
           <img src="/assets/imgs/page/homepage1/payment.png" alt="transp" style={{ height: "40px" }} />
         </span>

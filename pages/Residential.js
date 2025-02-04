@@ -22,14 +22,14 @@ export default function WorkProcess() {
                 <section className="section d-block position-relative">
                     <div className="   banner-howitwork   ">
                         <div className="container">
-                            <div className="box-info-trackyourparcel"><img className="mb-15 wow animate__animated animate__fadeIn" src="/img/bear.png.png"style={{height:'60px'}} alt="transp" />
-                                <h2 className="color-mb-25 wow animate__animated animate__fadeIn"style={{color:'black'}}>BinBear Full-Service Junk Removal: Texas’ #1 Junk Company</h2>
+                            <div className="box-info-trackyourparcel"><img className="mb-1 wow animate__animated animate__fadeIn" src="/img/bear.png.png"style={{height:'60px'}} alt="transp" />
+                                <h2 className="color-mb-5 wow animate__animated animate__fadeIn"style={{color:'black'}}>BinBear Full-Service Junk Removal: Texas’ #1 Junk Company</h2>
                                 <p className="color-grey-700 font-md wow animate__animated animate__fadeIn">At BinBear Junk Removal, we pride ourselves on being the top-rated junk removal service in in the state. We offer:</p>
                             </div>
                         </div>
                     </div>
                     <div className="container">
-                        <div className="row mt-10">
+                        <div className="row mt-0">
                             <div className="col-lg-6 mb-30">
                                 <div className="box-image-how"><img className="w-100 wow animate__animated animate__fadeIn" src="/assets/imgs/page/homepage1/how-it-work.png" alt="transp" />
                                     <div className="box-info-bottom-img"style={{backgroundColor:'black'}}>
@@ -95,7 +95,7 @@ export default function WorkProcess() {
                         </div>
                     </div>
                 </section>
-                <section className="section mt-30">
+                <section className="section mt-0">
                     <div className="container">
                         <div className="text-center"><img className="mb-15 wow animate__animated animate__fadeIn" src="/img/bear.png.png" alt="transp"style={{height:'60px'}} />
                             <h2 className="color-black mb- wow animate__animated animate__fadeIn">Our Process</h2>
@@ -103,23 +103,23 @@ export default function WorkProcess() {
                         </div>
                     </div>
                 </section>
-                <section className="section mt-30">
+                <section className="section mt-0">
                     <div className="container">
                         <div className="row align-items-center">
-                            <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
+                            <div className="col-lg-6 mb-20"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
                                 <h3 className="color-black mb-15 wow animate__animated animate__fadeIn"style={{marginBottom:'30px'}}>What is Junk Removal?</h3>
                                 <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}>Junk removal is an on-demand service for disposing of nearly any type of waste from your home or business. BinBear hauls away large items like furniture and appliances, handles full home cleanouts, provides light demolition in many areas, and clears construction debris from real estate cleanouts. Whether it’s an old couch or piles of post-renovation debris, BinBear can take it (just no hazardous waste)..</p>
                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}>Simply make an appointment, and our team will show up on time in our recognizable trucks, ready to clear your space!</p>
                                
                                 
                             </div>
-                            <div className="col-lg-6 mb-60"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img1.png" alt="transp" /></Link></div>
+                            <div className="col-lg-6 mb-0"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img1.png" alt="transp" /></Link></div>
                         </div>
                        
 
                         <div className="row align-items-center">
-                            <div className="col-lg-6 mb-10"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img2.png" alt="transp" /></Link></div>
-                            <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/pallet.png" alt="transp" />
+                            <div className="col-lg-6 mb-0"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img2.png" alt="transp" /></Link></div>
+                            <div className="col-lg-6 mb-20"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/pallet.png" alt="transp" />
                                 <h3 className="color-black mb-15 wow animate__animated animate__fadeIn"> BinBear’s Approach to Junk Removal</h3>
                                 <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">At BinBear, we emphasize friendly service and a commitment to eco-friendly practices. Our goal is to recycle or donate as much as possible, reducing waste and helping our community. We operate with local sorting facilities, aiming to recycle 60% or more of every job!</p>
                                
@@ -160,11 +160,11 @@ export default function WorkProcess() {
 
 
 
-                     <section className="section mt-20">
+                     <section className="section mt-0">
                     <div className="container">
                         <div className="row align-items-center">
-                            <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
-                                <h3 className="color-black mb-15 wow animate__animated animate__fadeIn"style={{marginBottom:'30px'}}>How It Works: Just 3 Easy Steps</h3>
+                            <div className="col-lg-6 mb-0"><img className="mb-1 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
+                                <h3 className="color-black mb-15 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}>How It Works: Just 3 Easy Steps</h3>
                                 <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}></p>
                                 <ul className="list-how-works">
                                 <li className="wow animate__animated animate__fadeIn">
@@ -201,7 +201,7 @@ export default function WorkProcess() {
                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'0px',height:'40px'}}></p>
                                
                                </div>
-                            <div className="col-lg-6 mb-60"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img1.png" alt="transp" /></Link></div>
+                            <div className="col-lg-6 mb-0"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img1.png" alt="transp" /></Link></div>
                         </div>
                         
 
@@ -220,9 +220,9 @@ export default function WorkProcess() {
                         <section className="section mt-0">
                     <div className="container">
                         <div className="row align-items-center">
-                            <div className="col-lg-6 mb-10"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
+                            <div className="col-lg-6 mb-0"><img className="mb-wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
                                 <h3 className="color-black mb-15 wow animate__animated animate__fadeIn"style={{marginBottom:'30px'}}>What Makes BinBear Different</h3>
-                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'20px',marginTop:'50px'}}>BinBear has earned its #1 rating by offering exceptional customer service. Our team of friendly professionals is trained, uniformed, licensed, and insured, equipped with vehicles built for efficient junk removal. You’ll notice the BinBear difference as our crew handles everything with care and courtesy</p>
+                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'0px',marginTop:'50px'}}>BinBear has earned its #1 rating by offering exceptional customer service. Our team of friendly professionals is trained, uniformed, licensed, and insured, equipped with vehicles built for efficient junk removal. You’ll notice the BinBear difference as our crew handles everything with care and courtesy</p>
                                
 
 
@@ -230,10 +230,10 @@ export default function WorkProcess() {
 
 
 
-                               <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px',height:'20px'}}></p>
+                               <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'0px',height:'20px'}}></p>
                                
                                </div>
-                            <div className="col-lg-6 mb-60"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/service-detail/img4.png" alt="transp" /></Link></div>
+                            <div className="col-lg-6 mb-0"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/service-detail/img4.png" alt="transp" /></Link></div>
                         </div>
                         
 

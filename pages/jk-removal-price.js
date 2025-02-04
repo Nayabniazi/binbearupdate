@@ -109,7 +109,7 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
 
 
 
-                            <div className="col-lg-6 position-relative mb-30">
+                            <div className="col-lg-6 position-relative mb-0">
                                 <div className="row align-items-end">
                                     <div className="col-lg-5 col-md-5 col-sm-5"><img className="mb-0 wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-1-1.png" alt="transp" /><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/blog-single/bagi.png" alt="transp" /></div>
   
@@ -171,7 +171,7 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
 
 
 
-                <section className="section mt-10">
+                <section className="section mt-0">
                     <div className="container position-relative">
                         <h2 className=" mb-20 wow animate__animated animate__fadeIn"> 4 Different Ways to Get an Estimate</h2>
                         <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"> For our full service junk hauling, we offer 4 different ways to get an estimate or firm price.</p>
@@ -301,7 +301,7 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
                         </div>
                     </div>
                 </section>
-                <section className="section pt-80 mb-0 bg-faqs">
+                <section className="section pt-0 mb-0 bg-faqs">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-6">
@@ -323,9 +323,9 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
                             <div className="col-lg-6">
                                 <div className="box-accordion">
                                     <Accordion />
-                                    <div className="line-border mt-50 mb-50" />
+                                    <div className="line-border mt-50 mb-0" />
                                     <h3 className="color-brand-2 wow animate__animated animate__fadeIn">Nead more help?</h3>
-                                    <div className="mt-20"style={{marginBottom:'90px'}}><Link className="btn btn-brand-1-big mr-20 wow animate__animated animate__fadeIn" href="Booking"style={{backgroundColor:'orange'}}>Free Estimate</Link><Link className="btn btn-link-medium wow animate__animated animate__fadeIn" href="#">Learn More
+                                    <div className="mt-20"style={{marginBottom:'0px'}}><Link className="btn btn-brand-1-big mr-20 wow animate__animated animate__fadeIn" href="Booking"style={{backgroundColor:'orange'}}>Free Estimate</Link><Link className="btn btn-link-medium wow animate__animated animate__fadeIn" href="#">Learn More
                                         <svg className="w-6 h-6 icon-16 ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                         </svg></Link></div>

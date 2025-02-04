@@ -179,7 +179,7 @@ export default function Quote() {
 
 
 
-                <section className="section mt-100">
+                <section className="section mt-10">
       <div className="container">
         <h2 className="color-black mb-20 wow animate__animated animate__fadeIn">
           Types of Commercial Junk Removal Services
@@ -249,7 +249,7 @@ background-color:black;}
 
 
 
-                <section className="section pt-85 bg-worldmap">
+                <section className="section pt-10 bg-worldmap">
                     <div className="container">
                         <div className="text-start">
                             <h2 className="color-black mb-20 wow animate__animated animate__fadeIn">Benefits of Outsourcing Your Commercial </h2>
@@ -325,7 +325,7 @@ background-color:black;}
 
 
                 <div className="row align-items-center">
-                            <div className="col-lg-6 mb-60"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img2.png" alt="transp" /></Link></div>
+                            <div className="col-lg-6 mb-0"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img2.png" alt="transp" /></Link></div>
                             <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/pallet.png" alt="transp" />
                                 <h3 className="color-black mb-15 wow animate__animated animate__fadeIn">BinBear: A Green Approach to Commercial Junk Removal </h3>
                                 <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"> BinBear is committed to eco-friendly practices, leading the way with recycling-based junk removal. We sort each load to separate metals, electronics, paper, and more, aiming to recycle or repurpose as much as possible. Usable items are donated to local charities, helping reduce landfill waste while benefiting the community.</p>
@@ -403,7 +403,7 @@ background-color:black;}
 
 
 
-                <section className="section mt-100">
+                <section className="section mt-10">
                 <div className="container">
                     <h2 className=" mb-20 wow animate__animated animate__fadeIn"style={{color:'black',}} >Our Comprehensive Junk Removal Services</h2>
                     <div className="row align-items-end">

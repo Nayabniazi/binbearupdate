@@ -122,7 +122,7 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
                             <div className="col-lg-6"><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-2-3.png" alt="transp" /></div>
                         </div>
                         <div className="row align-items-center item-about-2">
-                            <div className="col-lg-6"style={{marginTop:'100px'}}><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-2-3.png" alt="transp" /></div>
+                            <div className="col-lg-6"style={{marginTop:'0px'}}><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-2-3.png" alt="transp" /></div>
                             <div className="col-lg-6">
                                 <div className="box-info-about-2"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'orange',marginTop:'40px'}}>Our Partners</span>
                                     <h2 className="color-black mt-15 mb-25 wow animate__animated animate__fadeIn">Landfill Stress in the United States</h2>
@@ -155,14 +155,14 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
                                         </svg></Link></div>
                                 </div>
                             </div>
-                            <div className="col-lg-6"style={{marginTop:'100px'}}><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-2-2.png" alt="transp" /></div>
+                            <div className="col-lg-6"style={{marginTop:'0px'}}><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-2-2.png" alt="transp" /></div>
                         </div>
                         <div className="row align-items-center item-about-2">
-                            <div className="col-lg-6"style={{marginTop:'100px'}}><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-2-3.png" alt="transp" /></div>
+                            <div className="col-lg-6"style={{marginTop:'10px'}}><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-2-3.png" alt="transp" /></div>
                             <div className="col-lg-6">
                                 <div className="box-info-aabout-2"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'orange'}}>Our Partners</span>
-                                    <h2 className="color-black mt-15 mb-25 wow animate__animated animate__fadeIn">Hazardous Waste and Junk Removal</h2>
-                                    <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn"> While BinBear can handle almost any type of junk, we can’t accept hazardous waste. Hazardous items include anything  corrosive, explosive, flammable, or poisonous, like certain chemicals, paints, automotive fluids, and batteries. These materials require special handling and disposal through dedicated facilities to ensure safety and environmental protection.
+                                    <h2 className="color-black mt-15 mb-2 wow animate__animated animate__fadeIn">Hazardous Waste and Junk Removal</h2>
+                                    <p className="font-md color-grey-900 mb-0 wow animate__animated animate__fadeIn"> While BinBear can handle almost any type of junk, we can’t accept hazardous waste. Hazardous items include anything  corrosive, explosive, flammable, or poisonous, like certain chemicals, paints, automotive fluids, and batteries. These materials require special handling and disposal through dedicated facilities to ensure safety and environmental protection.
                                     </p>
                                </div>
                             </div>
@@ -194,13 +194,13 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
                         <div  className="row">
                             <div className="col-lg-6" ><span className="btn btn-tag wow animate__animated animate__fadeIn" style={{backgroundColor:'orange'}}>History</span>
                            
-                                <h3 className="color-grey-900 mb-20 mt-15 wow animate__animated animate__fadeIn">The Junk Removal Process</h3>
-                                <p className="font-md color-grey-900 mb-40 wow animate__animated animate__fadeIn" style={{marginTop:'20px'}}>At BinBear, we simplify the junk removal process for you:</p>
+                                <h3 className="color-grey-900 mb-10 mt-10 wow animate__animated animate__fadeIn">The Junk Removal Process</h3>
+                                <p className="font-md color-grey-900 mb-0 wow animate__animated animate__fadeIn" style={{marginTop:'0px'}}>At BinBear, we simplify the junk removal process for you:</p>
                                 
 
 
 
-                               <div className="font-md color-grey-900 mb-40 wow animate__animated animate__fadeIn"style={{marginRight:'0px'}} >
+                               <div className="font-md color-grey-900 mb-0 wow animate__animated animate__fadeIn"style={{marginRight:'0px'}} >
 
                                 <ul className="list-how-works">
                                     <li >
@@ -282,7 +282,7 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
 
 
 
-              <section className="section mt-100">
+              <section className="section mt-20">
                 <div className="container">
                     <h2 className=" mb-20 wow animate__animated animate__fadeIn">Choose your Junk Pickup Options</h2>
                     

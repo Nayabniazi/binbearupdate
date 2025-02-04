@@ -58,7 +58,7 @@ export default function ServiceDetail() {
 
 
 
-                <div className="mt-20 box-background-black">
+                <div className="mt-0 box-background-black">
     <div className="bg-under" />
     <div 
         className="card-grid" 

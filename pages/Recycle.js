@@ -528,19 +528,17 @@ Contrary to popular belief, the U.S. isn’t the world’s top producer of waste
                                  
                                  </div>
                                  
-                                <div className="item-faqs-2 mb-30">
-                                    <h6 className="color-brand-2 mb-10 wow animate__animated animate__fadeIn">Costs of Junk Removal for Recycling</h6>
+                                <div className="item-faqs-2 mb-0">
+                                    <h6 className="color-brand-2 mb-0 wow animate__animated animate__fadeIn">Costs of Junk Removal for Recycling</h6>
                                     <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">While many recyclables can be disposed of for free, larger items may come with fees. BinBear offers transparent, upfront pricing with free estimates. We show up on time, provide a written estimate, and, if you’re happy, we can often take your items on the spot.
 With insured operators and fair pricing, BinBear delivers great value and eco-friendly services.
 </p>
-                                    <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}>  </p>
+                                    <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'0px'}}>  </p>
                                  
                                  </div>
                                  
                               
-                                <div className="item-faqs-2 mb-30">
-                            
-                                       </div>
+                             
                             </div>
                         </div>
 
@@ -554,13 +552,13 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
 
 
                  
-            <section className="section pt-80 mb-70 bg-faqs">
+            <section className="section pt-20 mb-0 bg-faqs">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6">
                             <div className="box-faqs-left">
                                 <h2 className=" mb-20 wow animate__animated animate__fadeIn">Recycling FAQs</h2>
-                                <p className="font-md color-grey-700 mb-50 wow animate__animated animate__fadeIn">
+                                <p className="font-md color-grey-700 mb-0 wow animate__animated animate__fadeIn">
                                     </p>
                                
 
@@ -599,7 +597,7 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                             .</div>
                     </div>
                 </div>
-                <div className="accordion-item wow animate__animated animate__fadeIn"style={{marginTop:'50px'}}>
+                <div className="accordion-item wow animate__animated animate__fadeIn"style={{marginTop:'0px'}}>
                     <h5 className="accordion-header" onClick={() => handleToggle(2)}>
                         <button className={isActive.key == 2 ? "accordion-button text-heading-5 " : "accordion-button text-heading-5 collapsed"}style={{backgroundColor:'black',color:'white'}}>What Items Aren’t Recyclable?
                             </button>
@@ -655,7 +653,7 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
 
 
 
-                                <div className="line-border mt-50 mb-50" />
+                                <div className="line-border mt-0 mb-50" />
                                 <h3 className="color-brand-2 wow animate__animated animate__fadeIn">Nead more help?</h3>
                                 <div className="mt-20"><Link className="btn btn-brand-1-big mr-20 wow animate__animated animate__fadeIn" href="Booking"style={{backgroundColor:'orange'}}>Free Estimate</Link><Link className="btn btn-link-medium wow animate__animated animate__fadeIn" href="#">Learn
                                     More

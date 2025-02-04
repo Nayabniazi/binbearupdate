@@ -128,13 +128,13 @@ Our pricing estimator even allows you to estimate based on the space your junk w
                                
                                
                             </div>
-                            <div className="col-lg-6 mb-60"><div className="wow animate__animated animate__fadeIn" href="#"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/blog-single/bagi.png" alt="transp" /></div></div>
+                            <div className="col-lg-6 mb-0"><div className="wow animate__animated animate__fadeIn" href="#"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/blog-single/bagi.png" alt="transp" /></div></div>
                         </div>
                        
 
                         <div className="row align-items-center">
-                            <div className="col-lg-6 mb-60"><div className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img2.png" alt="transp" /></div></div>
-                            <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/pallet.png" alt="transp" />
+                            <div className="col-lg-6 mb-20"><div className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img2.png" alt="transp" /></div></div>
+                            <div className="col-lg-6 mb-0"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/pallet.png" alt="transp" />
                                 <h3 className="color-black mb-1 wow animate__animated animate__fadeIn">How to Use BinBear’s Pricing Estimator:
                                 </h3>
                                
@@ -493,7 +493,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
 
 
 
-                        <section className="section mt-100">
+                        <section className="section mt-10">
                     <div className="container position-relative">
                         <h2 className="mb-20 wow animate__animated animate__fadeIn">Four Ways to Get Your Estimate</h2>
                         <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">
@@ -654,7 +654,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
        
                                     <div className="card-info" >
                                         <h5 className="color- mb-15"style={{color:'white'}}>Green Initiatives</h5>
-                                        <p className="font-sm color-900 mb-50">
+                                        <p className="font-sm color-900 mb-0">
                                         BinBear recycles up to 60% of the items we collect, sorting and donating wherever possible for a cleaner, greener tomorrow.
 
  </p>
@@ -665,7 +665,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
                                     </div>
                                 </div>
                             </div>
-                            <p  className="font-sm color-grey-900 mb-50">At BinBear, we’re not just removing junk; we’re building a more sustainable community. Choose us for a reliable, environmentally friendly service you can feel good about.</p>
+                            <p  className="font-sm color-grey-900 mb-0">At BinBear, we’re not just removing junk; we’re building a more sustainable community. Choose us for a reliable, environmentally friendly service you can feel good about.</p>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
                                
                             </div>

@@ -20,7 +20,7 @@ export default function Home2() {
 
 
 
-<div className="box-info-trackyourparcel">
+<div className="box-info-trackyourparcel" >
                             <h2 className="color-black mb-25 wow animate__animated animate__fadeIn">Pricing estimator<br className="d-none d-lg-block" /> </h2>
                             <p className="color-grey-900 font-md wow animate__animated animate__fadeIn"></p>
                             <div className="form-trackparcel mb-0">
@@ -103,7 +103,7 @@ export default function Home2() {
 
 
 
-       <section className="section mt-70">
+       <section className="section mt-80">
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-lg-6 mb-60">
@@ -118,7 +118,7 @@ export default function Home2() {
                                
                                 
                             </div>
-                            <div className="col-lg-6 mb-60"><div className="wow animate__animated animate__fadeIn" href="#"><img className="mb-15 wow animate__animated animate__fadeIn"style={{width:'1000px'}} src="/assets/imgs/page/blog-single/rental.png" alt="transp" /></div></div>
+                            <div className="col-lg-6 mb-0"><div className="wow animate__animated animate__fadeIn" href="#"><img className="mb-15 wow animate__animated animate__fadeIn"style={{width:'1000px'}} src="/assets/imgs/page/blog-single/rental.png" alt="transp" /></div></div>
                         </div>
                        
 
@@ -367,7 +367,7 @@ export default function Home2() {
                      <section className="section mt-0">
                     <div className="container">
                         <div className="row align-items-center">
-                            <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
+                            <div className="col-lg-6 mb-0"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
                                 <h3 className="color-black mb-15 wow animate__animated animate__fadeIn"style={{marginBottom:'30px'}}>Junk King Believes in Fair and Transparent Pricing
                                 </h3>
                                 <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}>At Junk King, we guarantee to beat any written estimate and we are confident that our prices are better than any comparable operator. In other words, a licensed and insured junk removal company that operates a recycling-based operation to help keep our landfills free of junk and unnecessary waste materials - just like we do! </p>
@@ -396,7 +396,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
 
                                 
                                </div>
-                            <div className="col-lg-6 mb-60"><div className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/blog-single/bagi.png" alt="transp" /></div></div>
+                            <div className="col-lg-6 mb-0"><div className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/blog-single/bagi.png" alt="transp" /></div></div>
                         </div>
                         
 
@@ -450,7 +450,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
 
 
 
-                        <section className="section mt-100">
+                        <section className="section mt-20">
                     <div className="container position-relative">
                         <h2 className=" mb-20 wow animate__animated animate__fadeIn">Four Different Ways to Get an Estimate</h2>
                         <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">In addition to our Online Pricing Estimator, we offer you these three additional ways for getting an estimate or even a firm price:
