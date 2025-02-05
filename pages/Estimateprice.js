@@ -43,7 +43,7 @@ export default function Home2() {
             <a
                 href="Booking"
                 style={{
-                    backgroundColor: "orange",
+                    backgroundColor: "#FF7F00",
                     color: "black",
                     border: "none",
                     padding: "15px 20px",
@@ -143,7 +143,7 @@ export default function Home2() {
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -168,7 +168,7 @@ export default function Home2() {
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -194,7 +194,7 @@ export default function Home2() {
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -219,7 +219,7 @@ export default function Home2() {
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -251,7 +251,7 @@ export default function Home2() {
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -276,7 +276,7 @@ export default function Home2() {
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -300,7 +300,7 @@ export default function Home2() {
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -325,7 +325,7 @@ export default function Home2() {
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -466,7 +466,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -492,7 +492,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -518,7 +518,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -552,7 +552,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                 height: '30px',
                 lineHeight: '30px',
                 borderRadius: '50%',
-                backgroundColor: 'orange',
+                backgroundColor: '#FF7F00',
                 color: 'white',
                 textAlign: 'center',
                 fontWeight: 'bold',
@@ -600,7 +600,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                             <h2 className="color-mb-15 wow animate__animated animate__fadeIn"style={{color:'black'}}>Why Choose Junk King?</h2>
                             <p className="font-md color-grey-700 mb-35 wow animate__animated animate__fadeIn"style={{marginTop:'30px'}}>Because we understand that your time is valuable, we call you 15-30 minutes ahead of every job to let you know we are coming. <br className="d-none d-lg-block" /><br className="d-none d-lg-block" /></p>
                         </div>
-                        <div className="box-slider-homepage2 box-slider-homepage-4 box-slider-service-4">
+                        <div className="">
                             <div className="container">
                                 <div className="box-swiper">
 
@@ -611,7 +611,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                         <div className="row">
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
                                 <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, orange, black)",color:'white'}}>
+      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
                                    
                                     
                                     <div className="card-info">
@@ -623,7 +623,7 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
                                 <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, orange, black)",color:'white'}}>
+      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
                                     
                                     
                                     <div className="card-info">
@@ -635,11 +635,11 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
                                 <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, orange, black)",color:'white'}}>
+      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
        
                                     <div className="card-info" >
                                         <h5 className="color- mb-15"></h5>
-                                        <p className="font-sm color-900 mb-50">
+                                        <p className="font-sm color-900 mb-80">
                                         We sort, reuse, recycle, and donate as much as we possibly can to be a responsible waste removal partner for a better tomorrow
  </p>
                                        
@@ -648,30 +648,24 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
                                 <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, orange, black)",color:'white'}}>
+      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
                                    
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}></h5>
                                         <p className="font-sm color--900 mb-70">This pricing estimator provides an online estimate. The final price will be determined onsite by our staff.
                                         </p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                       
                                     </div>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
                                 <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, orange, black)",color:'white'}}>
+      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
                                   
                                     <div className="card-info">
                                         <h5 className="color- mb-15"></h5>
                                         <p className="font-sm color-900 mb-50">The price for heavy material, such as dirt, gravel, roofing material, and concrete, cannot be estimated with this tool as this material is charged by the bed load. </p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                       
                                     </div>
                                 </div>
                             </div>

@@ -44,7 +44,7 @@ export default function Footer1({ }) {
                                     <a href="/Booking" style={{ textDecoration: 'none', width: '100%' }}>
                                         <button
                                             style={{
-                                                backgroundColor: 'orange',
+                                                backgroundColor: '#FF7F00',
                                                 color: 'black',
                                                 border: 'none',
                                                 padding: '10px 20px',
@@ -62,7 +62,7 @@ export default function Footer1({ }) {
                                     <a href="/contact" style={{ textDecoration: 'none', width: '100%' }}>
                                         <button
                                             style={{
-                                                backgroundColor: 'orange',
+                                                backgroundColor: '#FF7F00',
                                                 color: 'black',
                                                 border: 'none',
                                                 padding: '10px 20px',

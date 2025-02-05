@@ -8,7 +8,7 @@ export default function ServiceDetail() {
             <Layout>
                 <section className="section">
                     <div className="container">
-                        <div className="box-pageheader-1 box-pageheader-services text-center"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'orange',color:'black'}}>Our Services</span>
+                        <div className="box-pageheader-1 box-pageheader-services text-center"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'#FF7F00',color:'black'}}>Our Services</span>
                        
                             <h2 className="color- mt-15 mb-10 wow animate__animated animate__fadeIn"style={{color:'black'}}> Items We Take</h2>
                           
@@ -99,15 +99,12 @@ export default function ServiceDetail() {
                             {service.title}
                         </h5>
                         <p className="font-sm color-grey-900 mb-50"></p>
-                        <div className="box-button-offer mb-10">
-                            <a
-                                className="btn btn-link font-sm color-"
-                                style={{ color: "black" }}
-                            >
-                               <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',}}>view details</button>
-                                
-                            </a>
-                        </div>
+                        <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
+  <a className="btn btn-link font-sm color-brand-2">
+    <button className="gradient-button">View Details</button>
+  </a>
+</div>
+                        
                     </div>
                 </div>
             </div>
@@ -226,6 +223,59 @@ padding-right:205px;
 
 
 
+
+<style  jsx>{
+    `
+      .gradient-button {
+            font-size: 13px;
+          
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            
+            background: linear-gradient(45deg, #FF7F00,black);
+            cursor: pointer;
+            transition: 0.3s;
+            box-shadow: 0 4px 10px rgba(255, 165, 0, 0.5);
+           
+        }
+
+        .gradient-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 6px 15px rgba(255, 165, 0, 0.7);
+        }
+    /* Common style for heading, paragraph, and buttons */
+.responsive-margin {
+  margin-left: 12px; /* Default margin for larger screens */
+}
+
+@media (max-width: 576px) {
+  /* Adjust margins for smaller screens */
+  .responsive-margin {
+    margin-left: 5px; /* Reduced margin for small screens */
+  }
+}
+
+/* Additional button-specific styles */
+.responsive-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  background-color: orange;
+}
+
+@media (max-width: 576px) {
+  .responsive-btn {
+    width: 100%; /* Full width for small screens */
+  }
+}
+
+    `}
+
+</style>
 
 
             <section className="section mt-50">
@@ -447,7 +497,7 @@ Whether you need a one-time trash removal or ongoing cleanup, BinBear provides f
                             <h2 className="color-mb-15 wow animate__animated animate__fadeIn"style={{color:'black'}}>How Our Service Works</h2>
                             <p className="font-md color-grey-700 mb-30 wow animate__animated animate__fadeIn"style={{marginTop:'30px'}}>Let me know if there’s anything specific you’d like to add or change! <br className="d-none d-lg-block" /><br className="d-none d-lg-block" /></p>
                         </div>
-                        <div className="box-slider-homepage2 box-slider-homepage-4 box-slider-service-4">
+                        <div className="">
                             <div className="container">
                                 <div className="box-swiper">
 
@@ -458,17 +508,14 @@ Whether you need a one-time trash removal or ongoing cleanup, BinBear provides f
                         <div className="row">
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
                                 <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, orange, black)",color:'white'}}>
+      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
                                    
                                     
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'white'}}>Book Your Appointment</h5>
                                         <p className="font-sm color-900 mb-30">Get a price, use our proprietary junk cost calculator to determine your services Charge.
                                         </p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                       
                                     </div>
                                 </div>
                             </div>
@@ -483,76 +530,61 @@ Whether you need a one-time trash removal or ongoing cleanup, BinBear provides f
 
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
                                 <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, orange, black)",color:'white'}}>
+      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
                                     
                                     
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'white'}}> Pickup your Schedule</h5>
                                         <p className="font-sm color-900 mb-30">Choose a date and time that best suite your availablility and reliability for junk pickup.</p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-"style={{color:'black'}}>View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                       
                                     </div>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
                                 <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, orange, black)",color:'white'}}>
+      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
        
                                     <div className="card-info" >
                                         <h5 className="color- mb-15"style={{color:'white'}}>Leave the Heavy Lifting to Us</h5>
                                         <p className="font-sm color-900 mb-30">
    Just point out what you want gone, and we’ll handle the rest, from lifting to loading.
  </p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                       
                                     </div>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
                                 <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, orange, black)",color:'white'}}>
+      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
                                    
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'white'}}>Eco-Friendly Disposal</h5>
                                         <p className="font-sm color--900 mb-30">BinBear is committed to green practices. We sort through items to recycle or donate wherever possible, ensuring minimal landfill impact.
                                         </p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                      
                                     </div>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
                                 <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, orange, black)",color:'white'}}>
+      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
                                   
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'white'}}>Enjoy Your Clutter-Free Space</h5>
                                         <p className="font-sm color-900 mb-30">With BinBear, reclaim your space without the hassle. You’ll feel good knowing your items were disposed of responsibly</p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        
                                     </div>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
                                 <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, orange, black)",color:'white'}}>
+      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
                                     
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'white'}}>Full-Service Junk Removal</h5>
                                         <p className="font-sm color-900 mb-30">Our team will arrive on time in our big Black trucks. We’ll confirm your estimate and take care of your junk on the spot.
                                           </p>
-                                        <div className="box-button-offer mb-30" ><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                       
                                     </div>
                                 </div>
                             </div>
@@ -590,10 +622,10 @@ Whether you need a one-time trash removal or ongoing cleanup, BinBear provides f
                    <div className="get-quote-left">
                        <p className="font-3xl color-white mb-10 wow animate__animated animate__fadeIn">When you think Junk, think BinBear!
                            </p>
-                       <h3 className="color-brand- wow animate__animated animate__fadeIn"style={{color:'orange'}}> With a few quick clicks, your waste is our commands!
+                       <h3 className="color-brand- wow animate__animated animate__fadeIn"style={{color:'#FF7F00'}}> With a few quick clicks, your waste is our commands!
                        </h3>
                    </div>
-                   <div className="get-quote-right"><Link className="btn btn-get-quote wow animate__animated animate__fadeIn" href="/register" style={{ backgroundColor: '#FFA500', textAlign: 'center',
+                   <div className="get-quote-right"><Link className="btn btn-get-quote wow animate__animated animate__fadeIn" href="/register" style={{ backgroundColor: '#FF7F00', textAlign: 'center',
 display: 'block', // Ensures the element behaves like a block for text alignment
 padding: '10px', }}>
                        <svg className="mr-10" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">

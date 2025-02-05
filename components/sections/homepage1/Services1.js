@@ -1,7 +1,17 @@
 import Link from "next/link";
+import React, { useState } from "react";
 import { Autoplay, Navigation, Pagination } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
+
+
 export default function Services1() {
+   
+
+
+
+
+
+
     return (
         <>
 
@@ -41,7 +51,7 @@ export default function Services1() {
   <Link
     className="btn btn-brand-1 hover-up wow animate__animated animate__fadeIn responsive-btn"
     href="Booking"
-    style={{ backgroundColor: 'orange' }}
+    style={{ backgroundColor: '#FF7F00' }}
   >
     <svg
       fill="none"
@@ -192,17 +202,17 @@ export default function Services1() {
 <style  jsx>{
     `
       .gradient-button {
-            font-size: 18px;
-            font-weight: bold;
+            font-size: 13px;
+          
             color: white;
             padding: 12px 24px;
             border: none;
-            border-radius: 50px;
-            background: linear-gradient(45deg, black, orange);
+            
+            background: linear-gradient(45deg, #FF7F00, black);
             cursor: pointer;
             transition: 0.3s;
             box-shadow: 0 4px 10px rgba(255, 165, 0, 0.5);
-            text-transform: uppercase;
+            
         }
 
         .gradient-button:hover {
@@ -321,9 +331,12 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>#1 Junk removal company in Texas </h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                       
-                                        <div className="box-button-offer mb-30 "style={{marginTop:'60px'}}><a className="btn btn-link font-sm color-"style={{color:'black'}}href="/Booking"> <button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button>
-                                       </a></div>
+                                        <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
+  <a className="btn btn-link font-sm color-brand-2">
+    <button className="gradient-button">View Details</button>
+  </a>
+</div>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -337,12 +350,20 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                                         <h5 className="color- "style={{color:'black'}}> 100% Price Matching</h5>
                                      
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"style={{marginTop:'45px'}}><a className="btn btn-link font-sm color-"style={{color:'black'}}><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button>
-                                            </a></div>
+                     
+                                     
+                                        <div className="box-button-offer mb-25" style={{ marginTop: "53px" }}>
+  <a className="btn btn-link font-sm color-brand-2">
+    <button className="gradient-button">View Details</button>
+  </a>
+</div>
+ 
                                     </div>
-                                </div>
-                            </div>
+                             
+ </div>
+ 
 
+</div>
 
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
                                 <div className="card-offer hover-up">
@@ -351,11 +372,17 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                                     </div>
                                     <div className="card-info">
                                     
-                                    <h5 className="color- "style={{color:'black'}}>Unbearable junk problems solved at an Un<span style={{color:'orange',fontSize:'25px'}}>BEAR</span>lievable Value!</h5>
+                                    <h5 className="color- "style={{color:'black'}}>Unbearable junk problems solved at an Un<span style={{color:'#FF7F00',fontSize:'25px'}}>BEAR</span>lievable Value!</h5>
                                       
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-30"style={{marginTop:'0px'}}><a className="btn btn-link font-sm color-"style={{color:'black'}}><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
-                                    </div>
+                                       
+                                        <div className="box-button-offer mb-10" style={{ marginTop: "53px" }}>
+  <a className="btn btn-link font-sm color-brand-2">
+    <button className="gradient-button">View Details</button>
+  </a>
+</div>
+
+                                        </div>
                                 </div>
                             </div>
 
@@ -375,8 +402,16 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
 
                                        
                                          <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-40"style={{marginTop:'53px'}}><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
-                                    </div>
+
+
+                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
+  <a className="btn btn-link font-sm color-brand-2">
+    <button className="gradient-button">View Details</button>
+  </a>
+</div>
+
+
+                                        </div>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
@@ -386,8 +421,15 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>Free quotes & you'll never have to someone, we Booking Online</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
-                                        <div className="box-button-offer mb-35"style={{marginTop:'58px'}}><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
-                                    </div>
+                                       
+                                        <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
+  <a className="btn btn-link font-sm color-brand-2">
+    <button className="gradient-button">View Details</button>
+  </a>
+</div>
+                                       
+                                       
+                                           </div>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
@@ -397,10 +439,12 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                                         <h5 className="color- mb-15"style={{color:'black'}}>Choose BinBear and do your part by saving the planet 1 load at a time!</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
-                                        <div className="box-button-offer mb-30" style={{marginTop:'0px'}}><a className="btn btn-link font-sm color-brand-2"><button class="gradient-button" style={{ background: "linear-gradient(45deg, black, orange)",width:"150px",height:"40px",color:'white',boxshadow:" 0 4px 10px rgba(251, 193, 86, 0.5)"}}>view details</button></a></div>
-
-  
-
+                                       
+                                          <div className="box-button-offer mb-10" style={{ marginTop: "53px" }}>
+  <a className="btn btn-link font-sm color-brand-2">
+    <button className="gradient-button">View Details</button>
+  </a>
+</div>
                                     </div>
                                 </div>
                             </div>
@@ -409,7 +453,9 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
                         </div>
                     </div>
                 </div>
+              
             </section>
+  
         </>
     )
 }

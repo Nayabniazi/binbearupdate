@@ -23,7 +23,7 @@ export default function Accordion() {
             <div className="accordion" id="accordionFAQ">
                 <div className="accordion-item wow animate__animated animate__fadeIn">
                     <h5 className="accordion-header" onClick={() => handleToggle(1)}>
-                        <button className={isActive.key == 1 ? "accordion-button text-heading-5 " : "accordion-button text-heading-5 collapsed"}style={{backgroundColor:'orange',color:'white'}}>How can Our BinBear Company is
+                        <button className={isActive.key == 1 ? "accordion-button text-heading-5 " : "accordion-button text-heading-5 collapsed"}style={{backgroundColor:'#FF7F00',color:'white'}}>How can Our BinBear Company is
                             preferable?</button>
                     </h5>
                     <div className={isActive.key == 1 ? "accordion-collapse" : "accordion-collapse collapse"}>
@@ -87,6 +87,70 @@ export default function Accordion() {
                     </div>
                 </div>
             </div>
+            
+
+
+            <style jsx>{
+    `
+    
+    /* General button styling */
+.btn {
+    background-color: #FF7F00; /* Orange color */
+    color: black; /* Default text color */
+    transition: all 0.3s ease-in-out;
+}
+
+/* Hover effect */
+.btn:hover {
+    color: white; /* Change text color to white */
+}
+
+/* Accordion button styles */
+.accordion-button {
+    background-color: #FF7F00 !important; /* Orange background */
+    color: black !important; /* Black text */
+    border: none;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Accordion button hover effect */
+.accordion-button:hover {
+    color: white !important; /* Change text to white */
+}
+
+/* Free Estimate Button */
+.btn-brand-1-big {
+    background-color: #FF7F00 !important;
+    color: black !important;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Free Estimate Button Hover */
+.btn-brand-1-big:hover {
+    color: white !important;
+}
+
+/* Learn More Link */
+.btn-link-medium {
+    color: black !important;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Learn More Link Hover */
+.btn-link-medium:hover {
+    color: white !important;
+}
+
+    
+    
+    
+    `}
+
+</style>
+
         </>
     )
 }

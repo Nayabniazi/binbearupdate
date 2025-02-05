@@ -17,14 +17,14 @@ const HistoryPage = () => {
              <section
   className="section"
   style={{
-    background: "linear-gradient(to bottom, black, orange)",
+    background: "linear-gradient(to bottom, black, #FF7F00)",
     color: "white",
   }}
 >
   <div
     className="container"
     style={{
-      background: "linear-gradient(to right, orange, black)",
+      background: "linear-gradient(to right, #FF7F00, black)",
       padding: "20px",
       borderRadius: "10px",
     }}
@@ -57,7 +57,7 @@ const HistoryPage = () => {
             <a
               href="Booking"
               style={{
-                backgroundColor: "orange",
+                backgroundColor: "#FF7F00",
                 color: "black",
                 border: "none",
                 padding: "15px 20px",
@@ -104,7 +104,7 @@ const HistoryPage = () => {
                       
                         <div className="row align-items-center item-about-2 item-about-2-revert">
                             <div className="col-lg-6">
-                                <div className="box-info-aabout-2"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'orange'}}>History</span>
+                                <div className="box-info-aabout-2"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'#FF7F00'}}>History</span>
                                     <h2 className="color-black mt-15 mb-25 wow animate__animated animate__fadeIn">The History of Junk Removal</h2>
                                     <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn">
                                   Junk removal has its roots in early waste management practices, where people disposed of unwanted items by simply burning, burying, or throwing them away.
@@ -113,7 +113,7 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
       Over time, these services expanded to include residential, commercial and construction debris removal,with a focus on sustainability through recycling and donation
                           of usable items.        
                                   </p>
-                                    <div className="box-button mt-40"><Link className="btn btn-brand-2 mr-20 wow animate__animated animate__fadeIn" href="Booking"style={{backgroundColor:'orange',color:'black',}}>Free Estimate</Link><Link className="btn btn-link-medium wow animate__animated animate__fadeIn" href="#">Learn More
+                                    <div className="box-button mt-40"><Link className="btn btn-brand-2 mr-20 wow animate__animated animate__fadeIn" href="Booking"style={{backgroundColor:'#FF7F00',color:'black',}}>Free Estimate</Link><Link className="btn btn-link-medium wow animate__animated animate__fadeIn" href="#">Learn More
                                         <svg className="w-6 h-6 icon-16 ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                         </svg></Link></div>
@@ -124,7 +124,7 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
                         <div className="row align-items-center item-about-2">
                             <div className="col-lg-6"style={{marginTop:'0px'}}><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-2-3.png" alt="transp" /></div>
                             <div className="col-lg-6">
-                                <div className="box-info-about-2"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'orange',marginTop:'40px'}}>Our Partners</span>
+                                <div className="box-info-about-2"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'#FF7F00',marginTop:'40px'}}>Our Partners</span>
                                     <h2 className="color-black mt-15 mb-25 wow animate__animated animate__fadeIn">Landfill Stress in the United States</h2>
                                     <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn">Landfill stress in the U.S. has grown as urban populations and waste generation increased. Over Time, landfills have become overwhelmed, leading to concerns about environmental impacts, such as soil and water contamination.
                                     
@@ -149,7 +149,7 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
 
 
 </p>
-                                    <div className="box-button mt-40"><Link className="btn btn-brand-2 mr-20 wow animate__animated animate__fadeIn" href="Booking"style={{backgroundColor:'orange',color:'black',}}>Free Estimate</Link><Link className="btn btn-link-medium wow animate__animated animate__fadeIn" href="#">Learn More
+                                    <div className="box-button mt-40"><Link className="btn btn-brand-2 mr-20 wow animate__animated animate__fadeIn" href="Booking"style={{backgroundColor:'#FF7F00',color:'black',}}>Free Estimate</Link><Link className="btn btn-link-medium wow animate__animated animate__fadeIn" href="#">Learn More
                                         <svg className="w-6 h-6 icon-16 ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                         </svg></Link></div>
@@ -160,7 +160,7 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
                         <div className="row align-items-center item-about-2">
                             <div className="col-lg-6"style={{marginTop:'10px'}}><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-2-3.png" alt="transp" /></div>
                             <div className="col-lg-6">
-                                <div className="box-info-aabout-2"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'orange'}}>Our Partners</span>
+                                <div className="box-info-aabout-2"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'#FF7F00'}}>Our Partners</span>
                                     <h2 className="color-black mt-15 mb-2 wow animate__animated animate__fadeIn">Hazardous Waste and Junk Removal</h2>
                                     <p className="font-md color-grey-900 mb-0 wow animate__animated animate__fadeIn"> While BinBear can handle almost any type of junk, we can’t accept hazardous waste. Hazardous items include anything  corrosive, explosive, flammable, or poisonous, like certain chemicals, paints, automotive fluids, and batteries. These materials require special handling and disposal through dedicated facilities to ensure safety and environmental protection.
                                     </p>
@@ -192,7 +192,7 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
 
                     <div className="container">
                         <div  className="row">
-                            <div className="col-lg-6" ><span className="btn btn-tag wow animate__animated animate__fadeIn" style={{backgroundColor:'orange'}}>History</span>
+                            <div className="col-lg-6" ><span className="btn btn-tag wow animate__animated animate__fadeIn" style={{backgroundColor:'#FF7F00'}}>History</span>
                            
                                 <h3 className="color-grey-900 mb-10 mt-10 wow animate__animated animate__fadeIn">The Junk Removal Process</h3>
                                 <p className="font-md color-grey-900 mb-0 wow animate__animated animate__fadeIn" style={{marginTop:'0px'}}>At BinBear, we simplify the junk removal process for you:</p>
@@ -305,7 +305,7 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
         <Link 
             className="btn btn-brand-1 hover-up wow animate__animated animate__fadeIn" 
             href="Booking" 
-            style={{ backgroundColor: 'orange', display: 'flex', alignItems: 'center', gap: '8px' ,marginRight:'0'}}
+            style={{ backgroundColor: '#FF7F00', display: 'flex', alignItems: 'center', gap: '8px' ,marginRight:'0'}}
         >
             <svg 
                 fill="none" 
@@ -425,7 +425,7 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -444,7 +444,7 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -463,7 +463,7 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -481,7 +481,7 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
 
 Once we arrive at  your location.if the items chosen do not correctly describe your input then you may incur a 15% suchanrge.Or a new price will be calculated then sent your for confirmation.
 </p>
-                                    <div className="box-button mt-40"><Link className="btn btn-brand-2 mr-20 wow animate__animated animate__fadeIn" href="Booking"style={{backgroundColor:'orange',color:'black',}}>Book Online</Link><Link className="btn btn-link-medium wow animate__animated animate__fadeIn" href="#">Learn More
+                                    <div className="box-button mt-40"><Link className="btn btn-brand-2 mr-20 wow animate__animated animate__fadeIn" href="Booking"style={{backgroundColor:'#FF7F00',color:'black',}}>Book Online</Link><Link className="btn btn-link-medium wow animate__animated animate__fadeIn" href="#">Learn More
                                         <svg className="w-6 h-6 icon-16 ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                         </svg></Link></div>
@@ -574,7 +574,7 @@ Once we arrive at  your location.if the items chosen do not correctly describe y
                                                  <div className="text-center">
                                                        <span
         className="btn btn-tag color-grey-900 wow animate__animated animate__fadeIn"
-        style={{ backgroundColor: 'orange' }}
+        style={{ backgroundColor: '#FF7F00' }}
       >
         Our Features
       </span>
@@ -894,10 +894,10 @@ satisfaction by providing fast, professional services is competitive rates. Our 
                    <div className="get-quote-left">
                        <p className="font-3xl color-white mb-10 wow animate__animated animate__fadeIn">When you think Junk, think BinBear!
                            </p>
-                       <h3 className="color-brand- wow animate__animated animate__fadeIn"style={{color:"orange"}}> With a few quick clicks, your waste is our commands!
+                       <h3 className="color-brand- wow animate__animated animate__fadeIn"style={{color:"#FF7F00"}}> With a few quick clicks, your waste is our commands!
                        </h3>
                    </div>
-                   <div className="get-quote-right"><Link className="btn btn-get-quote wow animate__animated animate__fadeIn" href="/register" style={{ backgroundColor: '#FFA500', textAlign: 'center',
+                   <div className="get-quote-right"><Link className="btn btn-get-quote wow animate__animated animate__fadeIn" href="/register" style={{ backgroundColor: '#FF7F00', textAlign: 'center',
 display: 'block', // Ensures the element behaves like a block for text alignment
 padding: '10px', }}>
                        <svg className="mr-10" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">

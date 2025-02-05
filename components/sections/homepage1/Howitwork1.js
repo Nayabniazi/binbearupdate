@@ -33,7 +33,7 @@ export default function Howitwork1() {
                  
                         
                         
-                        <h2 className="color- mb-20 wow animate__animated animate__fadeIn"style={{color:'orange',fontSize:'30px'}}>You just book, and we take care of rest!</h2>
+                        <h2 className="color- mb-20 wow animate__animated animate__fadeIn"style={{color:'#FF7F00',fontSize:'30px'}}>You just book, and we take care of rest!</h2>
                         <style jsx>{
                           `h2 {
   color: orange;

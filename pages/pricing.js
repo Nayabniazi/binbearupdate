@@ -50,7 +50,7 @@ export default function pricing() {
             <a
                 href="Booking"
                 style={{
-                    backgroundColor: "orange",
+                    backgroundColor: "#FF7F00",
                     color: "black",
                     border: "none",
                     padding: "15px 20px",
@@ -151,7 +151,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -175,7 +175,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -202,7 +202,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -227,7 +227,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -253,7 +253,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -279,7 +279,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -336,7 +336,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
 
 
 
-                                <h2 className="color- mb-20 wow animate__animated animate__fadeIn"style={{color:'orange',fontSize:'30px'}}>BinBear Believes in Fair and Transparent Pricing
+                                <h2 className="color- mb-20 wow animate__animated animate__fadeIn"style={{color:'#FF7F00',fontSize:'30px'}}>BinBear Believes in Fair and Transparent Pricing
                                 </h2>
                         <style jsx>{
                           `h2 {
@@ -509,7 +509,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -534,7 +534,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -559,7 +559,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -581,7 +581,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -611,7 +611,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
                             <h2 className="color-mb-15 wow animate__animated animate__fadeIn"style={{color:'black'}}>Why Choose Junk King?</h2>
                             <p className="font-md color-grey-700 mb-35 wow animate__animated animate__fadeIn"style={{marginTop:'30px'}}>When you book with BinBear, you’re choosing convenience, professionalism, and eco-conscious service. Here’s why we’re the #1 choice for junk removal: <br className="d-none d-lg-block" /><br className="d-none d-lg-block" /></p>
                         </div>
-                        <div className="box-slider-homepage2 box-slider-homepage-4 box-slider-service-4">
+                        <div className="">
                             <div className="container">
                                 <div className="box-swiper">
 
@@ -622,7 +622,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
                         <div className="row">
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
                                 <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, orange, black)",color:'white'}} >
+      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}} >
                                    
                                     
                                     <div className="card-info"style={{marginBottom:'70px'}}>
@@ -635,7 +635,7 @@ Our pricing estimator even allows you to estimate based on the space your junk w
 
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
                                 <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, orange, black)",color:'white'}}>
+      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
                                    
                                     
                                     <div className="card-info"style={{marginBottom:'70px'}}>
@@ -650,18 +650,15 @@ Our pricing estimator even allows you to estimate based on the space your junk w
                             
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
                                 <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, orange, black)",color:'white'}}>
+      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
        
                                     <div className="card-info" >
                                         <h5 className="color- mb-15"style={{color:'white'}}>Green Initiatives</h5>
-                                        <p className="font-sm color-900 mb-0">
+                                        <p className="font-sm color-900 mb-60">
                                         BinBear recycles up to 60% of the items we collect, sorting and donating wherever possible for a cleaner, greener tomorrow.
 
  </p>
-                                        <div className="box-button-offer mb-30"><a className="btn btn-link font-sm color-brand-2">View Details<span>
-                                            <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                                            </svg></span></a></div>
+                                        
                                     </div>
                                 </div>
                             </div>

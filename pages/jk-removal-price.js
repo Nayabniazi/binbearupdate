@@ -33,7 +33,7 @@ export default function Faq() {
             <a
                 href="Booking"
                 style={{
-                    backgroundColor: "orange",
+                    backgroundColor: "#FF7F00",
                     color: "black",
                     border: "none",
                     padding: "15px 20px",
@@ -186,7 +186,7 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -216,7 +216,7 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -250,7 +250,7 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
       height: '30px',
       lineHeight: '30px',
       borderRadius: '50%',
-      backgroundColor: 'orange',
+      backgroundColor: '#FF7F00',
       color: 'white',
       textAlign: 'center',
       fontWeight: 'bold',
@@ -277,7 +277,7 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
         height: '30px',
         lineHeight: '30px',
         borderRadius: '50%',
-        backgroundColor: 'orange',
+        backgroundColor: '#FF7F00',
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
@@ -301,6 +301,11 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
                         </div>
                     </div>
                 </section>
+
+
+
+
+
                 <section className="section pt-0 mb-0 bg-faqs">
                     <div className="container">
                         <div className="row">
@@ -325,7 +330,7 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
                                     <Accordion />
                                     <div className="line-border mt-50 mb-0" />
                                     <h3 className="color-brand-2 wow animate__animated animate__fadeIn">Nead more help?</h3>
-                                    <div className="mt-20"style={{marginBottom:'0px'}}><Link className="btn btn-brand-1-big mr-20 wow animate__animated animate__fadeIn" href="Booking"style={{backgroundColor:'orange'}}>Free Estimate</Link><Link className="btn btn-link-medium wow animate__animated animate__fadeIn" href="#">Learn More
+                                    <div className="mt-20"style={{marginBottom:'0px'}}><Link className="btn btn-brand-1-big mr-20 wow animate__animated animate__fadeIn" href="Booking"style={{backgroundColor:'#FF7F00'}}>Free Estimate</Link><Link className="btn btn-link-medium wow animate__animated animate__fadeIn" href="#">Learn More
                                         <svg className="w-6 h-6 icon-16 ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                         </svg></Link></div>

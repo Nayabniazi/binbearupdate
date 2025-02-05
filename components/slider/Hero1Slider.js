@@ -38,7 +38,7 @@ export default function Hero1Slider() {
                                         </div>
                                     </div>
                                     <div className="box-button mt-30">
-                                        <Link className="btn btn-brand-1-big hover-up mr-40 wow animate__animated animate__fadeInUp" href="/Booking"style={{backgroundColor:'orange',color:'black'}}>Book Online</Link>
+                                        <Link className="btn btn-brand-1-big hover-up mr-40 wow animate__animated animate__fadeInUp" href="/Booking"style={{backgroundColor:' #ff7f00',color:'black'}}>Book Online</Link>
                                       </div>
 
                                 </div>
@@ -59,7 +59,7 @@ export default function Hero1Slider() {
                                             At BinBear, we make junk removal effortless. Whether it’s a single item or a full property cleanout, binbear is here to handle every step!</p>
                                         </div>
                                     </div>
-                                    <div className="box-button mt-30"><Link className="btn btn-brand-1-big hover-up mr-40 wow animate__animated animate__fadeInUp" href="/Booking"style={{backgroundColor:'orange',color:'black'}}>Book Online</Link>          </div>
+                                    <div className="box-button mt-30"><Link className="btn btn-brand-1-big hover-up mr-40 wow animate__animated animate__fadeInUp" href="/Booking"style={{backgroundColor:' #ff7f00',color:'black'}}>Book Online</Link>          </div>
                                 </div>
                                    </div>
                         </div>
