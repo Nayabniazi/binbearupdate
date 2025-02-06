@@ -76,13 +76,15 @@ export default function OurTeam() {
                                 </path>
                             </svg>Online Booking</Link></div>
                     </div>
+                    <div className="card-section">
                     <div className="mt-20 box-background-black" >
                         <div className="bg-under"/>
                         <div className="row">
+                        
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
                                 <div className="card-offer hover-up">
                                    
-                                    
+                              
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'black'}}>What is Recycling?</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
@@ -240,7 +242,7 @@ export default function OurTeam() {
                                 </div>
                             </div>
 
-
+                            </div>
 
 
                         </div>
@@ -249,8 +251,39 @@ export default function OurTeam() {
             </section>
 
 
+
+
+
+
+
             <style jsx>{
     `
+
+    .card-section {
+    width: 90vw; /* Full viewport width */
+    height: auto; /* Adjust height based on content */
+    background-image: url('/assets/imgs/page/workprocess/background.png'); /* Background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+    padding: 80px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     .card-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* 3 cards per row */

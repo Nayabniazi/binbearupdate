@@ -24,7 +24,7 @@ export default function Sidebar({ openClass, handleMobileMenuClose }) {
                         <Link
                             className="btn btn-brand-1 hover-up"
                             href="/Booking"
-                            style={{ backgroundColor: "orange" }}
+                            style={{ backgroundColor: "#FF7701" }}
                         >
                             <svg
                                 fill="none"
@@ -107,7 +107,7 @@ export default function Sidebar({ openClass, handleMobileMenuClose }) {
                                             className={isActive.key === 2 ? "sub-menu d-block" : "sub-menu d-none"}
                                         >
                                             <li><a href="/Residential">Residential</a></li>
-                                            <li><a href="/jk-removal-price">JK Removal Pricing</a></li>
+                                            
                                             <li><a href="/Commercial">Commercial</a></li>
                                             <li><a href="/pricing">Estimate pricing</a></li>
                                         </ul>

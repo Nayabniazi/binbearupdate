@@ -23,8 +23,15 @@ export default function WorkProcess() {
                     <div className="   banner-howitwork   ">
                         <div className="container">
                             <div className="box-info-trackyourparcel"><img className="mb-1 wow animate__animated animate__fadeIn" src="/img/bear.png.png"style={{height:'60px'}} alt="transp" />
-                                <h2 className="color-mb-5 wow animate__animated animate__fadeIn"style={{color:'black'}}>BinBear Full-Service Junk Removal: Texas’ #1 Junk Company</h2>
-                                <p className="color-grey-700 font-md wow animate__animated animate__fadeIn">At BinBear Junk Removal, we pride ourselves on being the top-rated junk removal service in in the state. We offer:</p>
+                                <h3 className="color-mb-5 wow animate__animated animate__fadeIn"style={{color:'black',marginLeft:'0px',marginTop:'10px'}}>BinBear Full-Service Junk Removal: Texas’ #1 Junk Company</h3>
+                                           
+   <p className="color-grey-700 font-md wow animate__animated animate__fadeIn"
+      style={{ marginTop: '20px',  }}>
+      At BinBear Junk Removal, we pride ourselves on being the top-rated junk removal service in the state. We offer:
+   </p>
+
+
+                            
                             </div>
                         </div>
                     </div>
@@ -219,28 +226,24 @@ export default function WorkProcess() {
 
                         <section className="section mt-0">
                     <div className="container">
-                        <div className="row align-items-center">
-                            <div className="col-lg-6 mb-0"><img className="mb-wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
-                                <h3 className="color-black mb-15 wow animate__animated animate__fadeIn"style={{marginBottom:'30px'}}>What Makes BinBear Different</h3>
-                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'0px',marginTop:'50px'}}>BinBear has earned its #1 rating by offering exceptional customer service. Our team of friendly professionals is trained, uniformed, licensed, and insured, equipped with vehicles built for efficient junk removal. You’ll notice the BinBear difference as our crew handles everything with care and courtesy</p>
+
+                    <div className="row align-items-center">
+                            <div className="col-lg-6 mb-0"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img2.png" alt="transp" /></Link></div>
+                            <div className="col-lg-6 mb-20"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/pallet.png" alt="transp" />
+                                <h3 className="color-black mb-15 wow animate__animated animate__fadeIn">What is Junk Removal? </h3>
+                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">Junk removal is an on-demand service for disposing of nearly any type of waste from your home or business. BinBear hauls away large items like furniture and appliances, handles full home cleanouts, provides light demolition in many areas, and clears construction debris from real estate cleanouts. Whether it’s an old couch or piles of post-renovation debris, BinBear can take it (just no hazardous waste)..</p>
                                
-
-
-
-
-
-
-                               <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'0px',height:'20px'}}></p>
-                               
-                               </div>
-                            <div className="col-lg-6 mb-0"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/service-detail/img4.png" alt="transp" /></Link></div>
+                         <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}>Simply make an appointment, and our team will show up on time in our recognizable trucks, ready to clear your space!</p>      
+                                
+                            </div>
                         </div>
-                        
 
 
 
-                    
-                        </div>
+
+
+</div>
+                   
                         </section>
 
 
@@ -290,14 +293,17 @@ export default function WorkProcess() {
 
 
                         <div className="row align-items-center">
-                            <div className="col-lg-6 mb-60"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img4.png" alt="transp" /></Link></div>
-                            <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/cardboard.png" alt="transp" />
-                                <h3 className="color-black mb-15 wow animate__animated animate__fadeIn"> Our Simple Junk Removal Process</h3>
-                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">From the moment you contact us, BinBear makes junk removal easy. We offer fair, upfront pricing—no hidden fees, no surprises. About 15-30 minutes before your appointment, we call to confirm our arrival. Once we’re on-site, just show us what needs to go, and our insured team will handle it all, respecting your property every step of the way.</p>
+                      
+                            <div className="col-lg-6 mb-0"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
+                           
+                                <h3 className="color-black mb-15 wow animate__animated animate__fadeIn">What Makes BinBear Different </h3>
+                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">BinBear has earned its #1 rating by offering exceptional customer service. Our team of friendly professionals is trained, uniformed, licensed, and insured, equipped with vehicles built for efficient junk removal. You’ll notice the BinBear difference as our crew handles everything with care and courtesy.</p>
                                
                          <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}></p>      
                                 
                             </div>
+                            <div className="col-lg-6 mb-0"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img1.png" alt="transp" /></Link></div>
+                   
                         </div>
 
 

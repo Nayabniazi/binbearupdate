@@ -114,13 +114,14 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
                                     <div className="col-lg-5 col-md-5 col-sm-5"><img className="mb-0 wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-1-1.png" alt="transp" /><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/blog-single/bagi.png" alt="transp" /></div>
   
 
-                                    <div className="col-lg-7 col-md-7 col-sm-7"><img className="wow animate__animated animate__fadeIn"style={{width:'100%',height:'160px'}} src="/assets/imgs/page/service-detail/img4.png"/> <img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/service-detail/img4.png"style={{width:'100%',height:'180px'}}/> 
+                                    <div className="col-lg-7 col-md-7 col-sm-7"><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/service-detail/img4.png"style={{width:'100%',height:'180px'}}/> 
                                     
                  
                                      </div>
                                      
                  
                                 </div>
+
 
 
 
