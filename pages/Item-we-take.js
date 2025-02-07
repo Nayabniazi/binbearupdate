@@ -87,7 +87,7 @@ export default function ServiceDetail() {
                 <div
                     className="card-offer hover-up"
                     style={{
-                        backgroundColor: "orange",
+                        backgroundColor: " #FF7F00",
                         borderBottom: "4px solid black",
                     }}
                 >

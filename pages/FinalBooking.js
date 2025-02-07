@@ -169,7 +169,7 @@ const CreditCardForm = () => {
         }
 
         .form-actions button {
-          background-color: orange;
+          background-color: #FF7F00 ;
           color: white;
           border: none;
           padding: 10px 20px;

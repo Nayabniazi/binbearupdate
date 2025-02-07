@@ -118,7 +118,7 @@ export default function Login() {
                                             style={{
                                                 height: "50px",
                                                 padding: "10px",
-                                                backgroundColor: "#FFA500",
+                                                backgroundColor: " #FF7F00",
                                                 color: "white",
                                                 border: "none",
                                                 borderRadius: "4px",
