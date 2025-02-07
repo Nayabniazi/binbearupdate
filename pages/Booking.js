@@ -119,7 +119,7 @@ export default function Login() {
                                                 height: "50px",
                                                 padding: "10px",
                                                 backgroundColor: " #FF7F00",
-                                                color: "white",
+                                                color: "black",
                                                 border: "none",
                                                 borderRadius: "4px",
                                                 cursor: "pointer",
