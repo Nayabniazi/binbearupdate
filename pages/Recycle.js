@@ -77,7 +77,7 @@ export default function OurTeam() {
                             </svg>Online Booking</Link></div>
                     </div>
                     <div className="card-section">
-                    <div className="mt-20 box-background-black" >
+                    <div className="mt-20 box-background-black" style={{marginLeft:'10px',marginRight:'10px'}}>
                         <div className="bg-under"/>
                         <div className="row">
                         
@@ -260,7 +260,7 @@ export default function OurTeam() {
     `
 
     .card-section {
-    width: 90vw; /* Full viewport width */
+    /* Full viewport width */
     height: auto; /* Adjust height based on content */
     background-image: url('/assets/imgs/page/workprocess/background.png'); /* Background image */
     background-size: cover;
