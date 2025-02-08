@@ -82,11 +82,18 @@ export default function OurTeam() {
                         <div className="row">
                         
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                    
                               
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>What is Recycling?</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>What is Recycling?</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
                                         
                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
@@ -101,11 +108,18 @@ export default function OurTeam() {
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>The State of Recycling</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>The State of Recycling</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
   <a className="btn btn-link font-sm color-brand-2">
@@ -117,10 +131,17 @@ export default function OurTeam() {
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
        
                                     <div className="card-info" >
-                                        <h5 className="color- mb-15"style={{color:'black'}}>How to Dispose of Your Junk Responsibly</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>How to Dispose of Your Junk Responsibly</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
                                         
                                         <div className="box-button-offer mb-40" style={{ marginTop: "3px" }}>
@@ -134,10 +155,17 @@ export default function OurTeam() {
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                    
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Recycling E-Waste</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Recycling E-Waste</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
   <a className="btn btn-link font-sm color-brand-2">
@@ -150,10 +178,17 @@ export default function OurTeam() {
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                   
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Recycling Appliances</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Recycling Appliances</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
                                 
                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
@@ -166,10 +201,17 @@ export default function OurTeam() {
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Recycling Furniture and Mattresses</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Recycling Furniture and Mattresses</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
                                     
@@ -186,10 +228,17 @@ export default function OurTeam() {
 
 
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Junk Removal Costs for Recycling</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Junk Removal Costs for Recycling</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
                                         
@@ -206,10 +255,17 @@ export default function OurTeam() {
 
 
  <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Recycling FAQs</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Recycling FAQs</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
                                        
@@ -225,10 +281,17 @@ export default function OurTeam() {
                             </div>
 
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Choosing a Junk Recycling Company</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Choosing a Junk Recycling Company</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
                                           <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
@@ -262,7 +325,7 @@ export default function OurTeam() {
     .card-section {
     /* Full viewport width */
     height: auto; /* Adjust height based on content */
-    background-image: url('/assets/imgs/page/workprocess/background.png'); /* Background image */
+    background-image: url(''); /* Background image */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -455,10 +518,17 @@ Contrary to popular belief, the U.S. isn’t the world’s top producer of waste
 
      
                         <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
        
                                     <div className="card-info" >
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Bulk Junk Hauling for oversized items.</h5>
+                                        <h5 className="color- mb-15"style={{color:'white',marginTop:'50px'}}>Bulk Junk Hauling for oversized items.</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
                                        
                                      
@@ -470,10 +540,17 @@ Contrary to popular belief, the U.S. isn’t the world’s top producer of waste
 
      
                                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"  style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }} >
        
                                     <div className="card-info" >
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Home Cleanouts for moving, seasonal cleaning, and downsizing</h5>
+                                        <h5 className="color- mb-15"style={{color:'white',marginTop:'50px'}}>Home Cleanouts for moving, seasonal cleaning, and downsizing</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
                                        
                
@@ -487,10 +564,17 @@ Contrary to popular belief, the U.S. isn’t the world’s top producer of waste
 
                                              
                                         <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
        
                                     <div className="card-info" >
-                                        <h5 className="color- mb-15"style={{color:'black'}}>  Trash Removal for yard waste, construction debris, and more.</h5>
+                                        <h5 className="color- mb-15"style={{color:'white',marginTop:'50px'}}>  Trash Removal for yard waste, construction debris, and more.</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
                                        
                                      </div>  
@@ -503,10 +587,17 @@ Contrary to popular belief, the U.S. isn’t the world’s top producer of waste
                                      
 
                                         <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
        
                                     <div className="card-info" >
-                                        <h5 className="color- mb-15"style={{color:'black'}}> Property Cleanouts for landlords, real estate agents, and more.</h5>
+                                        <h5 className="color- mb-15"style={{color:'white',marginTop:'50px'}}> Property Cleanouts for landlords, real estate agents, and more.</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
                                        
                                      </div>   
@@ -990,11 +1081,18 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                         <div className="bg-under"/>
                         <div className="row">
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                    
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Appliance Removal</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Appliance Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
                                        
                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
@@ -1007,11 +1105,18 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Furniture Removal</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Furniture Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
                                         
                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
@@ -1025,10 +1130,17 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
        
                                     <div className="card-info" >
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Yard Waste Removal</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Yard Waste Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
   <a className="btn btn-link font-sm color-brand-2">
@@ -1040,10 +1152,17 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                    
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Hot Tub Removal</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Hot Tub Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
   <a className="btn btn-link font-sm color-brand-2">
@@ -1056,10 +1175,17 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                   
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Trash Removal</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Trash Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
   <a className="btn btn-link font-sm color-brand-2">
@@ -1073,10 +1199,17 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Mattress Disposal</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Mattress Disposal</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
                                        
@@ -1093,10 +1226,17 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
 
 
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>E-Waste Recycling</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>E-Waste Recycling</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
                                           <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
@@ -1113,10 +1253,17 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
 
 
  <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Construction Waste Removal</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Construction Waste Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
                                           <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
@@ -1131,10 +1278,17 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                             </div>
 
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Property Cleanouts</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Property Cleanouts</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
                                        
@@ -1149,10 +1303,17 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                             </div>
 
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>And more!</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>And more!</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
                                           <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>

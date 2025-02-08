@@ -367,23 +367,37 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                        <div className="bg-under"/>
                        <div className="row">
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                   
                                    
                                    <div className="card-info">
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Large Item Hauling</h5>
-                                       <p className="font-sm color-grey-900 mb-35">Need help with big, bulky junk? BinBear has you covered.</p>
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Large Item Hauling</h5>
+                                       <p className="font-sm color-white-900 mb-60">Need help with big, bulky junk? BinBear has you covered.</p>
                                        
                                    </div>
                                </div>
                            </div>
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                    
                                    
                                    <div className="card-info">
-                                       <h5 className="color- mb-15"style={{color:'black'}}>House Cleanouts</h5>
-                                       <p className="font-sm color-grey-900 mb-35">Moving, spring cleaning, or clearing out a space? We’re here to help.
+                                       <h5 className="color- mb-15"style={{color:'white'}}>House Cleanouts</h5>
+                                       <p className="font-sm color-white-900 mb-35">Moving, spring cleaning, or clearing out a space? We’re here to help.
 
                                        </p>
                                       
@@ -391,21 +405,35 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                </div>
                            </div>
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
       
                                    <div className="card-info" >
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Property Cleanouts</h5>
-                                       <p className="font-sm color-grey-900 mb-35">Ideal for landlords, real estate agents, or inherited properties. </p>
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Property Cleanouts</h5>
+                                       <p className="font-sm color-white-900 mb-35">Ideal for landlords, real estate agents, or inherited properties. </p>
                                       
                                    </div>
                                </div>
                            </div>
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                   
                                    <div className="card-info">
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Yard and Construction Debris Removal</h5>
-                                       <p className="font-sm color-grey-900 mb-35">From yard waste to project cleanup, we take care of it all.
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Yard and Construction Debris Removal</h5>
+                                       <p className="font-sm color-white-900 mb-35">From yard waste to project cleanup, we take care of it all.
                                        </p>
                                       
                                    </div>
@@ -432,23 +460,37 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                        <div className="bg-under"/>
                        <div className="row">
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                   
                                    
                                    <div className="card-info">
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Air Conditioner Disposal</h5>
-                                       <p className="font-sm color-grey-900 mb-35">Old and heavy air conditioners? We handle removal and eco-friendly disposal.</p>
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Air Conditioner Disposal</h5>
+                                       <p className="font-sm color-white-900 mb-35">Old and heavy air conditioners? We handle removal and eco-friendly disposal.</p>
                                       
                                    </div>
                                </div>
                            </div>
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                    
                                    
                                    <div className="card-info">
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Appliance Removal</h5>
-                                       <p className="font-sm color-grey-900 mb-35">From dishwashers to trash compactors, BinBear recycles large appliances.
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Appliance Removal</h5>
+                                       <p className="font-sm color-white-900 mb-35">From dishwashers to trash compactors, BinBear recycles large appliances.
 
                                        </p>
                                       
@@ -456,22 +498,36 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                                </div>
                            </div>
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
       
                                    <div className="card-info" >
-                                       <h5 className="color- mb-15"style={{color:'black'}}>DIY Construction Debris</h5>
-                                       <p className="font-sm color-grey-900 mb-35">Don’t let leftover debris from your home projects clutter up your space. We’ll recycle it for you.</p>
+                                       <h5 className="color- mb-15"style={{color:'white'}}>DIY Construction Debris</h5>
+                                       <p className="font-sm color-white-900 mb-35">Don’t let leftover debris from your home projects clutter up your space. We’ll recycle it for you.</p>
                                       
                                    </div>
                                </div>
                            </div>
 
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
       
                                    <div className="card-info" >
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Yard Waste Removal</h5>
-                                       <p className="font-sm color-grey-900 mb-35"> Let us handle branches, clippings, and other yard waste from landscaping projects.</p>
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Yard Waste Removal</h5>
+                                       <p className="font-sm color-white-900 mb-35"> Let us handle branches, clippings, and other yard waste from landscaping projects.</p>
                                        
                                    </div>
                                </div>
@@ -480,75 +536,124 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
 
 
  <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
       
                                    <div className="card-info" >
-                                       <h5 className="color- mb-15"style={{color:'black'}}>E-Waste Recycling</h5>
-                                       <p className="font-sm color-grey-900 mb-35">We ensure your electronics, like computers and TVs, are responsibly recycled or donated.</p>
+                                       <h5 className="color- mb-15"style={{color:'white'}}>E-Waste Recycling</h5>
+                                       <p className="font-sm color-white-900 mb-35">We ensure your electronics, like computers and TVs, are responsibly recycled or donated.</p>
                                       
                                    </div>
                                </div>
                            </div>
 
  <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
       
                                    <div className="card-info" >
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Estate Cleanouts</h5>
-                                       <p className="font-sm color-grey-900 mb-35"> Our team respectfully clears estates, making a difficult process easier..</p>
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Estate Cleanouts</h5>
+                                       <p className="font-sm color-white-900 mb-35"> Our team respectfully clears estates, making a difficult process easier..</p>
                                        
                                    </div>
                                </div>
                            </div>
 
  <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
       
                                    <div className="card-info" >
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Refrigerator and Freezer Disposal</h5>
-                                       <p className="font-sm color-grey-900 mb-35">Save space and recycle responsibly with our appliance disposal service..</p>
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Refrigerator and Freezer Disposal</h5>
+                                       <p className="font-sm color-white-900 mb-35">Save space and recycle responsibly with our appliance disposal service..</p>
                                       
                                    </div>
                                </div>
                            </div>
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
       
                                    <div className="card-info" >
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Foreclosure Cleanouts</h5>
-                                       <p className="font-sm color-grey-900 mb-60">Property professionals rely on BinBear for fast, efficient cleanouts of foreclosed homes.</p>
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Foreclosure Cleanouts</h5>
+                                       <p className="font-sm color-white-900 mb-60">Property professionals rely on BinBear for fast, efficient cleanouts of foreclosed homes.</p>
                                       
                                    </div>
                                </div>
                            </div>
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
       
                                    <div className="card-info" >
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Furniture Removal</h5>
-                                       <p className="font-sm color-grey-900 mb-60"> Whether broken or unwanted, we handle the removal of all types of furniture..</p>
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Furniture Removal</h5>
+                                       <p className="font-sm color-white-900 mb-60"> Whether broken or unwanted, we handle the removal of all types of furniture..</p>
                                        
                                    </div>
                                </div>
                            </div>
 
  <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
       
                                    <div className="card-info" >
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Hot Tub Removal</h5>
-                                       <p className="font-sm color-grey-900 mb-60">Dismantling and removing old hot tubs is no problem for our trained team.</p>
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Hot Tub Removal</h5>
+                                       <p className="font-sm color-white-900 mb-60">Dismantling and removing old hot tubs is no problem for our trained team.</p>
                                       
                                    </div>
                                </div>
                            </div>
 
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                   
                                    <div className="card-info">
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Scrap Metal Recycling</h5>
-                                       <p className="font-sm color-grey-900 mb-60">Don’t send metal to the landfill. BinBear ensures scrap metals are recycled properly.
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Scrap Metal Recycling</h5>
+                                       <p className="font-sm color-white-900 mb-60">Don’t send metal to the landfill. BinBear ensures scrap metals are recycled properly.
                                        </p>
                                        
                                    </div>
@@ -556,11 +661,18 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
                            </div>
                          
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                   
                                    <div className="card-info">
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Stove, Oven, and Microwave Disposal</h5>
-                                       <p className="font-sm color-grey-900 mb-35">We handle all your old kitchen appliances, recycling them responsibly.
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Stove, Oven, and Microwave Disposal</h5>
+                                       <p className="font-sm color-white-900 mb-35">We handle all your old kitchen appliances, recycling them responsibly.
                                        </p>
                                        
                                    </div>
@@ -569,44 +681,72 @@ Customers love BinBear because we’re fast, professional, and eco-friendly. We 
 
 
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                   
                                    <div className="card-info">
-                                       <h5 className="color- mb-15"style={{color:'black'}}>TV Disposal</h5>
-                                       <p className="font-sm color-grey-900 mb-60"> Televisions contain harmful materials, but we ensure safe disposal.
+                                       <h5 className="color- mb-15"style={{color:'white'}}>TV Disposal</h5>
+                                       <p className="font-sm color-white-900 mb-60"> Televisions contain harmful materials, but we ensure safe disposal.
                                        </p>
                                       
                                    </div>
                                </div>
                            </div>
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                   
                                    <div className="card-info">
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Washing Machine and Dryer Disposal</h5>
-                                       <p className="font-sm color-grey-900 mb-35"> Out with the old, and in with the new! Let us handle your appliance disposal.
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Washing Machine and Dryer Disposal</h5>
+                                       <p className="font-sm color-white-900 mb-60"> Out with the old, and in with the new! Let us handle your appliance disposal.
                                        </p>
                                        
                                    </div>
                                </div>
                            </div>
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                   
                                    <div className="card-info">
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Water Heater Disposal</h5>
-                                       <p className="font-sm color-grey-900 mb-60"> Got an old water heater? BinBear handles removal and recycling.
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Water Heater Disposal</h5>
+                                       <p className="font-sm color-white-900 mb-60"> Got an old water heater? BinBear handles removal and recycling.
                                        </p>
                                       
                                    </div>
                                </div>
                            </div>
                            <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                               <div className="card-offer hover-up">
+                               <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                   
                                    <div className="card-info">
-                                       <h5 className="color- mb-15"style={{color:'black'}}>Yard Waste Disposal</h5>
-                                       <p className="font-sm color-grey-900 mb-60">Created a pile of yard debris? We’ll haul it away so you don’t have to.
+                                       <h5 className="color- mb-15"style={{color:'white'}}>Yard Waste Disposal</h5>
+                                       <p className="font-sm color-white-900 mb-60">Created a pile of yard debris? We’ll haul it away so you don’t have to.
                                        </p>
                                        
                                    </div>

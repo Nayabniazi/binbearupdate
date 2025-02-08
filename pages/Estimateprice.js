@@ -610,20 +610,32 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                         <div className="bg-under"/>
                         <div className="row">
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                    
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"></h5>
+                                        <h5 className="color- mb-50"></h5>
                                         <p className="font-sm color-900 "style={{marginBottom:'50px'}}>In fact, we are rated #1 for our customer service nationally. In addition, we also pay our highly-trained workers a fair market rate and our operators are insured.
                                         </p>
                                        </div>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     
                                     <div className="card-info">
@@ -634,8 +646,14 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
        
                                     <div className="card-info" >
                                         <h5 className="color- mb-15"></h5>
@@ -647,11 +665,17 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                    
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}></h5>
+                                        <h5 className="color- mb-55"style={{color:'black'}}></h5>
                                         <p className="font-sm color--900 mb-70">This pricing estimator provides an online estimate. The final price will be determined onsite by our staff.
                                         </p>
                                        
@@ -659,11 +683,17 @@ For low minimum amounts, free estimates, and the BEST OVERALL VALUE in the junk 
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                   
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"></h5>
+                                        <h5 className="color- mb-50"></h5>
                                         <p className="font-sm color-900 mb-50">The price for heavy material, such as dirt, gravel, roofing material, and concrete, cannot be estimated with this tool as this material is charged by the bed load. </p>
                                        
                                     </div>

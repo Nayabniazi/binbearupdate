@@ -86,15 +86,19 @@ export default function ServiceDetail() {
             >
                 <div
                     className="card-offer hover-up"
-                    style={{
-                        backgroundColor: " #FF7F00",
-                        borderBottom: "4px solid black",
+                    style={{ 
+                        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+                        backgroundSize: "cover",
+                        backgroundPosition: "center",
+                        color: "white", 
+                        padding: "20px",
+                        borderRadius: "10px"
                     }}
                 >
                     <div className="card-info">
                         <h5
                             className="color- mb-15"
-                            style={{ color: "black" }}
+                            style={{ color: "white" }}
                         >
                             {service.title}
                         </h5>
@@ -507,8 +511,14 @@ Whether you need a one-time trash removal or ongoing cleanup, BinBear provides f
                         <div className="bg-under"/>
                         <div className="row">
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                    
                                     
                                     <div className="card-info">
@@ -529,8 +539,14 @@ Whether you need a one-time trash removal or ongoing cleanup, BinBear provides f
 
 
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     
                                     <div className="card-info">
@@ -541,8 +557,14 @@ Whether you need a one-time trash removal or ongoing cleanup, BinBear provides f
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
        
                                     <div className="card-info" >
                                         <h5 className="color- mb-15"style={{color:'white'}}>Leave the Heavy Lifting to Us</h5>
@@ -554,8 +576,14 @@ Whether you need a one-time trash removal or ongoing cleanup, BinBear provides f
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                    
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'white'}}>Eco-Friendly Disposal</h5>
@@ -566,8 +594,14 @@ Whether you need a one-time trash removal or ongoing cleanup, BinBear provides f
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                   
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'white'}}>Enjoy Your Clutter-Free Space</h5>
@@ -577,8 +611,14 @@ Whether you need a one-time trash removal or ongoing cleanup, BinBear provides f
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up"style={{
-      background: "linear-gradient(to right, #FF7F00, black)",color:'white'}}>
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     <div className="card-info">
                                         <h5 className="color- mb-15"style={{color:'white'}}>Full-Service Junk Removal</h5>

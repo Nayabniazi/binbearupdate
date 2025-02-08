@@ -482,11 +482,18 @@ background-color:black;}
                            
                             
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Furniture Removal</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Furniture Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
   <a className="btn btn-link font-sm color-brand-2">
@@ -497,10 +504,17 @@ background-color:black;}
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
        
                                     <div className="card-info" >
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Yard Waste Removal</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Yard Waste Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
                                        
                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
@@ -513,10 +527,17 @@ background-color:black;}
                             </div>
 
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
        
                                     <div className="card-info" >
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Hot Tub Removal</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Hot Tub Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
   <a className="btn btn-link font-sm color-brand-2">
@@ -530,10 +551,17 @@ background-color:black;}
 
 
  <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
        
                                     <div className="card-info" >
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Trash Removal</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Trash Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
   <a className="btn btn-link font-sm color-brand-2">
@@ -546,10 +574,17 @@ background-color:black;}
                             </div>
 
  <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn" >
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
        
                                     <div className="card-info" >
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Mattress Disposal</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Mattress Disposal</h5>
                                         <p className="font-sm color-grey-900 mb-35"> </p>
                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
   <a className="btn btn-link font-sm color-brand-2">
@@ -562,11 +597,18 @@ background-color:black;}
                             </div>
 
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                    
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>Refrigerator Disposal & Recycling</h5>
-                                        <p className="font-sm color-grey-900 mb-20"></p>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>Refrigerator Disposal & Recycling</h5>
+                                        <p className="font-sm color-grey-900 mb-50"></p>
                                       
                                         <div className="box-button-offer mb-40" style={{ marginTop: "25px" }}>
   <a className="btn btn-link font-sm color-brand-2">
@@ -577,10 +619,17 @@ background-color:black;}
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn">
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                   
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>E-Waste Disposal</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>E-Waste Disposal</h5>
                                         <p className="font-sm color-grey-900 mb-35"></p>
                                        
                                         <div className="box-button-offer mb-40" style={{ marginTop: "53px" }}>
@@ -592,10 +641,17 @@ background-color:black;}
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 wow animate__animated animate__fadeIn"style={{marginBottom:'70px'}}>
-                                <div className="card-offer hover-up">
+                                <div className="card-offer hover-up"style={{ 
+        backgroundImage: "url('/assets/imgs/page/workprocess/background.png')", 
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        color: "white", 
+        padding: "20px",
+        borderRadius: "10px"
+    }}>
                                     
                                     <div className="card-info">
-                                        <h5 className="color- mb-15"style={{color:'black'}}>General Garbage Removal</h5>
+                                        <h5 className="color- mb-15"style={{color:'white'}}>General Garbage Removal</h5>
                                         <p className="font-sm color-grey-900 mb-35">
                                           </p>
                                        

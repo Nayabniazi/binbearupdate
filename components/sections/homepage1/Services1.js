@@ -20,7 +20,15 @@ export default function Services1() {
 
 <section className="section mt-100">
                 <div className="container" >
-                    <h3 className=" mb-20 wow animate__animated animate__fadeIn"style={{marginLeft:'12px'}}>3 Quick Steps to Get Started:</h3>
+                    <h3 className=" mb-20 wow animate__animated animate__fadeIn" style={{ 
+        backgroundColor: " #FF7F00", // Orange background 
+        color: "white", // White text color 
+        padding: "15px", // Add spacing 
+        borderRadius: "5px", // Rounded corners 
+        width:'500px',
+      
+        whiteSpace: "nowrap" // Prevents text from breaking into multiple lines
+    }}>3 Quick Steps to Get Started:</h3>
                     
                     <div className="row align-items-end">
                    
@@ -274,8 +282,22 @@ export default function Services1() {
 
             <section className="section mt-100">
                 <div className="container">
-                <h3 className="color-black wow animate__animated animate__fadeIn">We don't Say We are Different<br className="d-none d-lg-block" /> We Show You!</h3>
-                           
+                 <h3 
+    className="wow animate__animated animate__fadeIn"
+    style={{ 
+        backgroundColor: " #FF7F00", // Orange background 
+        color: "white", // White text color 
+        padding: "15px", // Add spacing 
+        borderRadius: "5px", // Rounded corners 
+        width:'800px',
+      
+        whiteSpace: "nowrap" // Prevents text from breaking into multiple lines
+    }}
+>
+    We don't Say We are Different, We Show You!
+</h3>
+
+
                     <div className="row align-items-end">
                         <div className="">
                             <p className="font-md color-gray-700 wow animate__animated animate__fadeIn">
