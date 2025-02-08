@@ -20,15 +20,11 @@ export default function Services1() {
 
 <section className="section mt-100">
                 <div className="container" >
-                    <h3 className=" mb-20 wow animate__animated animate__fadeIn" style={{ 
-        backgroundColor: " #FF7F00", // Orange background 
-        color: "white", // White text color 
-        padding: "15px", // Add spacing 
-        borderRadius: "5px", // Rounded corners 
-        width:'500px',
-      
-        whiteSpace: "nowrap" // Prevents text from breaking into multiple lines
-    }}>3 Quick Steps to Get Started:</h3>
+                <h3 
+    className="wow animate__animated animate__fadeIn responsive-headings"
+>
+3 Quick Steps to Get Started:
+</h3>
                     
                     <div className="row align-items-end">
                    
@@ -282,21 +278,11 @@ export default function Services1() {
 
             <section className="section mt-100">
                 <div className="container">
-                 <h3 
-    className="wow animate__animated animate__fadeIn"
-    style={{ 
-        backgroundColor: " #FF7F00", // Orange background 
-        color: "white", // White text color 
-        padding: "15px", // Add spacing 
-        borderRadius: "5px", // Rounded corners 
-        width:'800px',
-      
-        whiteSpace: "nowrap" // Prevents text from breaking into multiple lines
-    }}
+                <h3 
+    className="wow animate__animated animate__fadeIn responsive-heading"
 >
     We don't Say We are Different, We Show You!
 </h3>
-
 
                     <div className="row align-items-end">
                         <div className="">
@@ -478,6 +464,59 @@ landfills. With trusted relationship with local landfills, we work hard to recyc
               
             </section>
   
+<style jsx>{`
+    .responsive-heading {
+        background-color: #FF7F00; /* Orange background */
+        color: white; /* White text color */
+        padding: 15px;
+        border-radius: 5px;
+        width: 750px;
+        max-width: 100%; /* Makes it responsive */
+        white-space: nowrap; /* Prevents text from breaking into multiple lines */
+        text-align: center; /* Center align for better readability */
+    }
+
+    @media (max-width: 768px) {
+        .responsive-heading {
+            width: 900px; /* Adjust width for mobile */
+            font-size: 16px; /* Reduce font size for smaller screens */
+            padding: 10px; /* Adjust padding */
+        }
+    }
+
+    @media (max-width: 480px) {
+        .responsive-heading {
+            font-size: 13px; /* Even smaller font size for very small screens */
+            padding: px;
+        }
+    }
+    .responsive-headings {
+        background-color: #FF7F00; /* Orange background */
+        color: white; /* White text color */
+        padding: 15px;
+        border-radius: 5px;
+        width: 500px;
+        max-width: 100%; /* Makes it responsive */
+        white-space: nowrap; /* Prevents text from breaking into multiple lines */
+        text-align: center; /* Center align for better readability */
+    }
+
+    @media (max-width: 768px) {
+        .responsive-headings {
+            width: 900px; /* Adjust width for mobile */
+            font-size: 16px; /* Reduce font size for smaller screens */
+            padding: 10px; /* Adjust padding */
+        }
+    }
+
+    @media (max-width: 480px) {
+        .responsive-headings {
+            font-size: 14px; /* Even smaller font size for very small screens */
+            padding: px;
+        }
+    }    
+`}</style>
+
         </>
     )
 }
