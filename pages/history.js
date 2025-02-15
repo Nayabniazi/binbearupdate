@@ -80,11 +80,23 @@ const HistoryPage = () => {
 
                 <section className="section mt-100 mb-50">
                     <div className="container">
+         
                         <div className="row align-items-center">
+      
+
                             <div className="col-lg-6 mb-30">
-                               
-                                <h2 className="color-black mb-25 wow animate__animated animate__fadeIn">Why Is Junk Removal?</h2><p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn" >Junk removal is a specialized service focused on helping people declutter and remove items they can’t dispose of through standard trash pickup. Unlike regular trash services that provide bins for weekly garbage collection, junk removal services cater to larger, bulkier disposal needs.  </p>
-                               
+                           
+
+                            <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>Why Is Junk Removal?
+</h3>
+
+
+                            <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn" >Junk removal is a specialized service focused on helping people declutter and remove items they can’t dispose of through standard trash pickup. Unlike regular trash services that provide bins for weekly garbage collection, junk removal services cater to larger, bulkier disposal needs.  </p>
+                              
+
                                
                                <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn" style={{marginTop:'20px'}} >Imagine you’re cleaning out your basement and end up with far more waste than your typical bin can handle. Or maybe you have large items like old furniture or broken appliances that you want to get rid of. This is where junk removal companies, like BinBear, come in. We handle those oversized items and extensive cleanup projects, providing you with an efficient, hassle-free way to clear out your space.</p>
                                <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn" style={{marginTop:'20px'}}>Junk removal can also benefit contractors and renovators who often generate substantial debris, such as drywall pieces and old flooring. These professionals often rely on junk removal companies to keep their workspaces clean and organized.</p>
@@ -105,8 +117,14 @@ const HistoryPage = () => {
                         <div className="row align-items-center item-about-2 item-about-2-revert">
                             <div className="col-lg-6">
                                 <div className="box-info-aabout-2"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'#FF7F00'}}>History</span>
-                                    <h2 className="color-black mt-15 mb-25 wow animate__animated animate__fadeIn">The History of Junk Removal</h2>
-                                    <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn">
+                                <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center",marginTop:'10px' }}
+>
+The History of Junk Removal
+</h3>
+
+                                     <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn">
                                   Junk removal has its roots in early waste management practices, where people disposed of unwanted items by simply burning, burying, or throwing them away.
 As urbanization grew, particularly in the 20th century, waste disposal became more regulated, leading to the creation of organized systems for trash collection.
    In the 1970s, junk removal services began emerging as businesses offering specialized removal of large, bulky items like furnitures and appliances   
@@ -125,8 +143,14 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
                             <div className="col-lg-6"style={{marginTop:'0px'}}><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-2-3.png" alt="transp" /></div>
                             <div className="col-lg-6">
                                 <div className="box-info-about-2"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'#FF7F00',marginTop:'40px'}}>Our Partners</span>
-                                    <h2 className="color-black mt-15 mb-25 wow animate__animated animate__fadeIn">Landfill Stress in the United States</h2>
-                                    <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn">Landfill stress in the U.S. has grown as urban populations and waste generation increased. Over Time, landfills have become overwhelmed, leading to concerns about environmental impacts, such as soil and water contamination.
+                                <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center",marginTop:'10px' }}
+>
+Landfill Stress in the United States
+</h3>
+
+                                      <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn">Landfill stress in the U.S. has grown as urban populations and waste generation increased. Over Time, landfills have become overwhelmed, leading to concerns about environmental impacts, such as soil and water contamination.
                                     
           The Rising volumn of waste,limited landfills space, and stricter regulation have pushed for more sustainable waste management solutions,including recycling, composting                         
            and waste reduction efforts.
@@ -141,9 +165,15 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
                         <div className="row align-items-center item-about-2 item-about-2-revert">
                             <div className="col-lg-6">
                             <div className="box-info-aabout-2">
-                              
-                                     <h2 className="color-black mt-15 mb-25 wow animate__animated animate__fadeIn">Recycling and Junk</h2>
-                                    <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn">Recycling has become a critical part of waste management, with the U.S. recycling over 30% of its waste. Recycling not only reduces landfill strain but also conserves resources. BinBear supports these efforts by sorting through collected items to recycle or donate usable materials whenever possible.
+                            <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>
+Recycling and Junk
+</h3>
+   
+
+                                       <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn">Recycling has become a critical part of waste management, with the U.S. recycling over 30% of its waste. Recycling not only reduces landfill strain but also conserves resources. BinBear supports these efforts by sorting through collected items to recycle or donate usable materials whenever possible.
 
                                          We recycle a wide range of materials, including paper, cardboard, glass, metal, and certain plastics. To make a meaningful impact, we encourage clients to partner with us for eco-friendly disposal, ensuring that items don’t end up in landfills unnecessarily.
 
@@ -161,8 +191,14 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
                             <div className="col-lg-6"style={{marginTop:'10px'}}><img className="wow animate__animated animate__fadeIn" src="/assets/imgs/page/about/img-about-2-3.png" alt="transp" /></div>
                             <div className="col-lg-6">
                                 <div className="box-info-aabout-2"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'#FF7F00'}}>Our Partners</span>
-                                    <h2 className="color-black mt-15 mb-2 wow animate__animated animate__fadeIn">Hazardous Waste and Junk Removal</h2>
-                                    <p className="font-md color-grey-900 mb-0 wow animate__animated animate__fadeIn"> While BinBear can handle almost any type of junk, we can’t accept hazardous waste. Hazardous items include anything  corrosive, explosive, flammable, or poisonous, like certain chemicals, paints, automotive fluids, and batteries. These materials require special handling and disposal through dedicated facilities to ensure safety and environmental protection.
+                                <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center",marginTop:'10px' }}
+>
+Hazardous Waste and Junk Removal
+</h3>
+
+                                     <p className="font-md color-grey-900 mb-0 wow animate__animated animate__fadeIn"> While BinBear can handle almost any type of junk, we can’t accept hazardous waste. Hazardous items include anything  corrosive, explosive, flammable, or poisonous, like certain chemicals, paints, automotive fluids, and batteries. These materials require special handling and disposal through dedicated facilities to ensure safety and environmental protection.
                                     </p>
                                </div>
                             </div>
@@ -193,9 +229,14 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
                     <div className="container">
                         <div  className="row">
                             <div className="col-lg-6" ><span className="btn btn-tag wow animate__animated animate__fadeIn" style={{backgroundColor:'#FF7F00'}}>History</span>
-                           
-                                <h3 className="color-grey-900 mb-10 mt-10 wow animate__animated animate__fadeIn">The Junk Removal Process</h3>
-                                <p className="font-md color-grey-900 mb-0 wow animate__animated animate__fadeIn" style={{marginTop:'0px'}}>At BinBear, we simplify the junk removal process for you:</p>
+                            <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center",marginTop:'10px' }}
+>
+The Junk Removal Process
+</h3>
+
+                                  <p className="font-md color-grey-900 mb-0 wow animate__animated animate__fadeIn" style={{marginTop:'0px'}}>At BinBear, we simplify the junk removal process for you:</p>
                                 
 
 
@@ -281,10 +322,17 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
 
 
 
-
               <section className="section mt-20">
                 <div className="container">
-                    <h2 className=" mb-20 wow animate__animated animate__fadeIn">Choose your Junk Pickup Options</h2>
+                <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>
+Choose your Junk Pickup Options
+</h3>
+
+                    
+                  
                     
                     <div className="row align-items-end">
                    
@@ -298,9 +346,16 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
                
 
                        <div className="d-flex justify-content-between align-items-center mb-30">
-    <h3 className="color-black mt-15 mb-25 wow animate__animated animate__fadeIn">
-        Option1
-    </h3>
+                       <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>
+Option1
+</h3>
+
+
+
+    
     <div>
         <Link 
             className="btn btn-brand-1 hover-up wow animate__animated animate__fadeIn" 
@@ -412,8 +467,14 @@ As urbanization grew, particularly in the 20th century, waste disposal became mo
 <div className="row align-items-center item-about-2 item-about-2-revert">
                             <div className="col-lg-6">
                             <div className="box-info-aabout-2" >
-                              
-                                     <h3 className="color-black mt-15 mb-25 wow animate__animated animate__fadeIn">Option2</h3>
+                            <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>
+Option2
+</h3>
+
+                                 
                                     <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn">
                                     You can give us a call ,send  us a text or email us to request a quote to schedule a junk pickup! please use this options if you  are:
                                    
@@ -623,6 +684,9 @@ satisfaction by providing fast, professional services is competitive rates. Our 
   </div>
 </section>
 
+
+
+
 <style jsx>{
     `
     /* General Section Styling */
@@ -704,9 +768,163 @@ satisfaction by providing fast, professional services is competitive rates. Our 
 </style>
 
 
+<style jsx>{
+  `
+  
+ 
+    .custom-heading {
+        background-color: #FF7F00; /* Orange background */
+        color: white; /* White text color */
+        padding: 15px;
+        border-radius: 5px;
+        width: fit-content;
+        text-align: center;
+    }
+
+  
+  
+  `}
+
+</style>
+
+
+<style jsx>{`
+    .responsive-heading, .responsive-headings {
+        background-color: #FF7F00; /* Orange background */
+        color: white;
+        padding: 15px;
+        margin-bottom:20px;
+        border-radius: 5px;
+        width: 80%; /* Responsive width */
+        max-width: 750px; /* Maximum width constraint */
+        text-align: center;
+        font-size: 40px;
+        white-space: normal; /* Allow text wrapping */
+    }
+
+    /* Large screens (Laptops) */
+    @media (min-width: 1024px) {
+        .responsive-heading, .responsive-headings {
+            margin-top: 10px; /* 10% margin from top */
+            margin-left: 300px; /* 300px from the left */
+            width: 750px; /* Fixed width for large screens */
+        }
+    }
+
+    /* Tablets & Medium Screens */
+    @media (max-width: 1024px) {
+        .responsive-heading, .responsive-headings {
+            margin: 10px auto; /* Centered */
+            width: 80%; /* Adjust width */
+            font-size: 16px;
+            padding: 12px;
+        }
+    }
+
+    /* Mobile Screens */
+    @media (max-width: 480px) {
+        .responsive-heading, .responsive-headings {
+            width: 95%; /* Full width */
+            font-size: 14px;
+            padding: 10px;
+            margin: 5px auto; /* Reduce top margin */
+        }
+    }
 
 
 
+ .responsive-headingg, .responsive-headings {
+        background-color: #FF7F00; /* Orange background */
+        color: white;
+        padding: 15px;
+        margin-bottom:20px;
+        border-radius: 5px;
+        width: 80%; /* Responsive width */
+        max-width: 750px; /* Maximum width constraint */
+        text-align: center;
+        font-size: 40px;
+        white-space: normal; /* Allow text wrapping */
+    }
+
+    /* Large screens (Laptops) */
+    @media (min-width: 1024px) {
+        .responsive-headingg, .responsive-headings {
+            margin-top: 10px; /* 10% margin from top */
+            margin-left: 300px; /* 300px from the left */
+            width: 750px; /* Fixed width for large screens */
+        }
+    }
+
+    /* Tablets & Medium Screens */
+    @media (max-width: 1024px) {
+        .responsive-headingg, .responsive-headings {
+            margin: 10px auto; /* Centered */
+            width: 80%; /* Adjust width */
+            font-size: 16px;
+            padding: 12px;
+        }
+    }
+
+    /* Mobile Screens */
+    @media (max-width: 480px) {
+        .responsive-headingg, .responsive-headings {
+            width: 95%; /* Full width */
+            font-size: 14px;
+            padding: 10px;
+            margin: 5px auto; /* Reduce top margin */
+        }
+    }
+
+
+    .responsive-headingss, .responsive-headings {
+        background-color: #FF7F00; /* Orange background */
+        color: white;
+        padding: 15px;
+        margin-bottom:20px;
+        border-radius: 5px;
+        width: 80%; /* Responsive width */
+        max-width: 750px; /* Maximum width constraint */
+        text-align: center;
+        font-size: 40px;
+        white-space: normal; /* Allow text wrapping */
+    }
+
+    /* Large screens (Laptops) */
+    @media (min-width: 1024px) {
+        .responsive-headingss, .responsive-headings {
+            margin-top: 10px; /* 10% margin from top */
+            margin-left: 0px; /* 300px from the left */
+            width: 620px; /* Fixed width for large screens */
+        }
+    }
+
+    /* Tablets & Medium Screens */
+    @media (max-width: 1024px) {
+        .responsive-headingss, .responsive-headings {
+            margin: 10px auto; /* Centered */
+            width: 80%; /* Adjust width */
+            font-size: 16px;
+            padding: 12px;
+        }
+    }
+
+    /* Mobile Screens */
+    @media (max-width: 480px) {
+        .responsive-headingss, .responsive-headings {
+            width: 95%; /* Full width */
+            font-size: 14px;
+            padding: 10px;
+            margin: 5px auto; /* Reduce top margin */
+        }
+    }
+
+
+
+
+
+
+
+`}</style>
 
 
 
@@ -736,6 +954,7 @@ satisfaction by providing fast, professional services is competitive rates. Our 
     `}
 
 </style>
+
 
 
 

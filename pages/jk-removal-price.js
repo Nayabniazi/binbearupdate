@@ -77,10 +77,15 @@ export default function Faq() {
 
                 <section className="section mt-100 mb-50">
                     <div className="container">
-                        <div className="row align-items-center">
-                            <div className="col-lg-6 mb-30">
-                                <h2 className="color-black mb-25 wow animate__animated animate__fadeIn">King Sized Trucks, King Sized Value</h2>
-                                <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn">At Junk King, we guarantee to beat any written estimate. We are confident our prices are better than any comparable operator. This means a licensed, insured, junk removal company who operates a recycling-based operation to keep our landfills free of unnecessary waste materials. </p>
+                
+                    <div className="row mt-0 align-items-center"> 
+                    <div className="col-lg-6 mb-3">
+                    <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px",marginTop:'10px', borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>King Sized Trucks, King Sized Value
+</h3>   
+                                 <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn">At Junk King, we guarantee to beat any written estimate. We are confident our prices are better than any comparable operator. This means a licensed, insured, junk removal company who operates a recycling-based operation to keep our landfills free of unnecessary waste materials. </p>
                                 <p className="font-md color-grey-900 mb-20 wow animate__animated animate__fadeIn"> Image
 20% more volume for less money…
 .</p>
@@ -174,8 +179,13 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
 
                 <section className="section mt-0">
                     <div className="container position-relative">
-                        <h2 className=" mb-20 wow animate__animated animate__fadeIn"> 4 Different Ways to Get an Estimate</h2>
-                        <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"> For our full service junk hauling, we offer 4 different ways to get an estimate or firm price.</p>
+
+                    <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px",marginTop:'10px', borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+> 4 Different Ways to Get an Estimate
+</h3>   
+                           <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"> For our full service junk hauling, we offer 4 different ways to get an estimate or firm price.</p>
                         <div className="row mt-50">
                             <div className="col-lg-6">
                                 <div className="item-faqs-2 mb-30"><Link href="#">
@@ -312,7 +322,12 @@ We believe in FAIR, TRANSPARENT PRICING, and we back it up with 4 different ways
                         <div className="row">
                             <div className="col-lg-6">
                                 <div className="box-faqs-left">
-                                    <h2 className="mb-20 wow animate__animated animate__fadeIn">FAQs</h2>
+                                <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px",marginTop:'10px', borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+> FAQS
+</h3>   
+                                  
                                     <p className="font-md color-grey-700 mb-50 wow animate__animated animate__fadeIn">Feeling inquisitive? Have a read through some of our FAQs or contact our supporters for help</p>
                                     <div className="box-gallery-faqs">
                                         <div className="image-top wow animate__animated animate__fadeIn"><img src="/assets/imgs/page/blog-single/bagi.png" alt="transp"style={{width:'567px'}} /></div>

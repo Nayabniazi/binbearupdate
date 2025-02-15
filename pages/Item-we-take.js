@@ -9,9 +9,12 @@ export default function ServiceDetail() {
                 <section className="section">
                     <div className="container">
                         <div className="box-pageheader-1 box-pageheader-services text-center"><span className="btn btn-tag wow animate__animated animate__fadeIn"style={{backgroundColor:'#FF7F00',color:'black'}}>Our Services</span>
-                       
-                            <h2 className="color- mt-15 mb-10 wow animate__animated animate__fadeIn"style={{color:'black'}}> Items We Take</h2>
-                          
+                        <h2
+    className="wow animate__animated animate__fadeIn responsive-heading"
+>
+    Item We Take
+</h2>
+                            
                             <p className="font-md color-grey-900 wow animate__animated animate__fadeIn">At BinBear, we can handle just about ANYTHING and EVERYTHING—except hazardous waste Here are examples of the types of junk we haul away:<br className="d-none d-lg-block" /> </p>
                            
                             <div className="d-flex flex-wrap align-items-center justify-content-center">
@@ -147,8 +150,143 @@ margin: auto;
   `}
 </style>
 
+<style jsx>{`
+    .responsive-heading, .responsive-headings {
+        background-color: #FF7F00; /* Orange background */
+        color: white;
+        padding: 15px;
+        margin-bottom:20px;
+        border-radius: 5px;
+        width: 80%; /* Responsive width */
+        max-width: 750px; /* Maximum width constraint */
+        text-align: center;
+        font-size: 40px;
+        white-space: normal; /* Allow text wrapping */
+    }
+
+    /* Large screens (Laptops) */
+    @media (min-width: 1024px) {
+        .responsive-heading, .responsive-headings {
+            margin-top: 10px; /* 10% margin from top */
+            margin-left: 300px; /* 300px from the left */
+            width: 750px; /* Fixed width for large screens */
+        }
+    }
+
+    /* Tablets & Medium Screens */
+    @media (max-width: 1024px) {
+        .responsive-heading, .responsive-headings {
+            margin: 10px auto; /* Centered */
+            width: 80%; /* Adjust width */
+            font-size: 16px;
+            padding: 12px;
+        }
+    }
+
+    /* Mobile Screens */
+    @media (max-width: 480px) {
+        .responsive-heading, .responsive-headings {
+            width: 95%; /* Full width */
+            font-size: 14px;
+            padding: 10px;
+            margin: 5px auto; /* Reduce top margin */
+        }
+    }
 
 
+
+ .responsive-headingg, .responsive-headings {
+        background-color: #FF7F00; /* Orange background */
+        color: white;
+        padding: 15px;
+        margin-bottom:20px;
+        border-radius: 5px;
+        width: 80%; /* Responsive width */
+        max-width: 750px; /* Maximum width constraint */
+        text-align: center;
+        font-size: 40px;
+        white-space: normal; /* Allow text wrapping */
+    }
+
+    /* Large screens (Laptops) */
+    @media (min-width: 1024px) {
+        .responsive-headingg, .responsive-headings {
+            margin-top: 10px; /* 10% margin from top */
+            margin-left: 300px; /* 300px from the left */
+            width: 750px; /* Fixed width for large screens */
+        }
+    }
+
+    /* Tablets & Medium Screens */
+    @media (max-width: 1024px) {
+        .responsive-headingg, .responsive-headings {
+            margin: 10px auto; /* Centered */
+            width: 80%; /* Adjust width */
+            font-size: 16px;
+            padding: 12px;
+        }
+    }
+
+    /* Mobile Screens */
+    @media (max-width: 480px) {
+        .responsive-headingg, .responsive-headings {
+            width: 95%; /* Full width */
+            font-size: 14px;
+            padding: 10px;
+            margin: 5px auto; /* Reduce top margin */
+        }
+    }
+
+
+    .responsive-headingss, .responsive-headings {
+        background-color: #FF7F00; /* Orange background */
+        color: white;
+        padding: 15px;
+        margin-bottom:20px;
+        border-radius: 5px;
+        width: 80%; /* Responsive width */
+        max-width: 750px; /* Maximum width constraint */
+        text-align: center;
+        font-size: 40px;
+        white-space: normal; /* Allow text wrapping */
+    }
+
+    /* Large screens (Laptops) */
+    @media (min-width: 1024px) {
+        .responsive-headingss, .responsive-headings {
+            margin-top: 10px; /* 10% margin from top */
+            margin-left: 0px; /* 300px from the left */
+            width: 620px; /* Fixed width for large screens */
+        }
+    }
+
+    /* Tablets & Medium Screens */
+    @media (max-width: 1024px) {
+        .responsive-headingss, .responsive-headings {
+            margin: 10px auto; /* Centered */
+            width: 80%; /* Adjust width */
+            font-size: 16px;
+            padding: 12px;
+        }
+    }
+
+    /* Mobile Screens */
+    @media (max-width: 480px) {
+        .responsive-headingss, .responsive-headings {
+            width: 95%; /* Full width */
+            font-size: 14px;
+            padding: 10px;
+            margin: 5px auto; /* Reduce top margin */
+        }
+    }
+
+
+
+
+
+
+
+`}</style>
 
 
 <style jsx>{`
@@ -286,7 +424,15 @@ padding-right:205px;
             <div className=""><strong className="font-md-bold color-grey-900 mb-25 d-block wow animate__animated animate__fadeIn"><h3 style={{marginLeft:'80px'}}></h3></strong>
            
                     <div className="container">
-                    <h5 style={{marginTop:'20px',marginBottom:'20px',marginLeft:'30px'}}  >Enjoy a Clutter-Free Life with BinBear Junk Removal!**</h5>
+
+                    <h2
+    className="wow animate__animated animate__fadeIn responsive-heading"
+>
+Enjoy a Clutter-Free Life with BinBear Junk Removal!**
+</h2>
+
+
+              
                             <p className="font-md color-grey-900 wow animate__animated animate__fadeIn"style={{marginLeft:"10px"}}>    Is clutter piling up in your home? Want to reclaim your space? Searching for a reliable junk removal service you can trust? You're not alone! Many homeowners struggle with these same challenges, and BinBear is here to help.
                             </p>
                             
@@ -305,7 +451,13 @@ padding-right:205px;
 
                             
                             <p className="wow animate__animated animate__fadeIn"></p>
-                            <h3  >We Haul It All</h3>
+                            <h5
+    className="wow animate__animated animate__fadeIn responsive-headingg"
+>
+We Haul It All
+</h5>
+
+                           
                             <h5 style={{marginTop:'20px',marginBottom:'20px'}} >Furniture Removal, Disposal, Recycling, or Donation</h5>
                             <p className="font-md color-grey-900 wow animate__animated animate__fadeIn">Examples: Couches, sofas, beds, chairs, tables, desks, and more.
   - Need to get rid of old furniture that’s too bulky to handle on your own? BinBear can take care of it, ensuring items are disposed of responsibly, whether through recycling or donation to local charities.
@@ -382,8 +534,16 @@ Whether you need a one-time trash removal or ongoing cleanup, BinBear provides f
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
-                                <h3 className="color-black mb-15 wow animate__animated animate__fadeIn"style={{marginBottom:'30px'}}>What BinBear Can’t Take</h3>
-                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}>While we handle almost anything, we do not collect hazardous waste, including:
+                                
+                               
+                    <h3
+    className="wow animate__animated animate__fadeIn responsive-headingss"
+>
+What BinBear Can’t Take
+</h3>
+ 
+                                
+                                 <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}>While we handle almost anything, we do not collect hazardous waste, including:
                                 </p>
                                 
                                 <div className="row">
@@ -498,8 +658,13 @@ Whether you need a one-time trash removal or ongoing cleanup, BinBear provides f
                 <section className="section pb-5 pt-50 mb-80">
                     <div className="container">
                         <div className="text-center"><img className="mb-15 wow animate__animated animate__fadeIn" src="/img/bear.png.png"style={{height:'60px'}} alt="transp" />
-                            <h2 className="color-mb-15 wow animate__animated animate__fadeIn"style={{color:'black'}}>How Our Service Works</h2>
-                            <p className="font-md color-grey-700 mb-30 wow animate__animated animate__fadeIn"style={{marginTop:'30px'}}>Let me know if there’s anything specific you’d like to add or change! <br className="d-none d-lg-block" /><br className="d-none d-lg-block" /></p>
+                           
+                        <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+>
+How Our Service Works
+</h3>
+                              <p className="font-md color-grey-700 mb-30 wow animate__animated animate__fadeIn"style={{marginTop:'30px'}}>Let me know if there’s anything specific you’d like to add or change! <br className="d-none d-lg-block" /><br className="d-none d-lg-block" /></p>
                         </div>
                         <div className="">
                             <div className="container">

@@ -30,8 +30,12 @@ export default function OurTeam() {
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-lg-6 mb-30">
-                                <h3 className="color-grey-900 mb-25 mt-15 wow animate__animated animate__fadeIn">BinBear’s Junk Recycling Service</h3>
-                             
+                            <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>
+BinBear’s Junk Recycling Service
+</h3>
                     <p className="font-md color-grey-900 wow animate__animated animate__fadeIn" >With our planet facing increasing waste challenges, responsible junk recycling has never been more important. Every day, people are upgrading to new items, leaving behind outdated furniture, appliances, and electronics. For many, the easiest option is to throw these items away, but at BinBear, we believe there’s a better way.</p>
               
                                 <p className="font-md color-grey-900 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}>Our team is dedicated to recycling as much as possible. Currently, we successfully recycle about 60% of the junk we collect, making a positive impact one load at a time. Explore our recycling service to learn more about how we contribute to a cleaner, greener world.
@@ -65,7 +69,14 @@ export default function OurTeam() {
                 <div className="container">
                      <div className="row align-items-end">
                         <div className="col-lg-8 col-md-8 mb-30">
-                            <h3>Save $20 Off Your Next Service with Promo Code (#WHYWAIT)</h3>
+                        <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>
+Save $20 Off Your Next Service with Promo Code (#WHYWAIT)
+</h3>
+                           
+                            
                             <p className="font-md color-gray-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}>Terms apply. Not valid below minimum charge or combined with other offers.
                                </p>
                                <h4 style={{marginTop:'30px'}}>Learn More About Our Recycling:</h4>
@@ -449,8 +460,15 @@ export default function OurTeam() {
 
 
                            
-                            <h3 className="wow animate__animated animate__fadeIn"style={{color:'black'}}>Top 5 Waste-Producing Countries</h3>
-                            <div className="row align-items-center">
+                                    <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>
+Top 5 Waste-Producing Countries
+</h3>
+                            
+                            
+                               <div className="row align-items-center">
                                 <div className="col-lg-7 wow animate__animated animate__fadeIn">
                                     <p  className="font-md color-grey-900 wow animate__animated animate__fadeIn"> 
                                    
@@ -505,8 +523,14 @@ Contrary to popular belief, the U.S. isn’t the world’s top producer of waste
 
                 <section className="section mt-100">
                     <div className="container position-relative">
-                        <h2 className=" mb-20 wow animate__animated animate__fadeIn">How to Get Rid of Your Recyclable Junk</h2>
-                        <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">Not all junk needs to go to waste. Usable items can be repurposed, sold, or donated. Once you’ve handled what you can, binbear is here to help with the rest, offering: </p>
+                                           
+                    <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>
+How to Get Rid of Your Recyclable Junk
+</h3>
+                         <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">Not all junk needs to go to waste. Usable items can be repurposed, sold, or donated. Once you’ve handled what you can, binbear is here to help with the rest, offering: </p>
                        
                       
 
@@ -778,7 +802,15 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                     <div className="row">
                         <div className="col-lg-6">
                             <div className="box-faqs-left">
-                                <h2 className=" mb-20 wow animate__animated animate__fadeIn">Recycling FAQs</h2>
+                                                       
+                    <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>
+Recycling FAQs
+</h3>
+                               
+                              
                                 <p className="font-md color-grey-700 mb-0 wow animate__animated animate__fadeIn">
                                     </p>
                                
@@ -892,9 +924,14 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
 
             <section className="section mt-100">
                     <div className="container position-relative">
-                        <h2 className=" mb-20 wow animate__animated animate__fadeIn">Choosing a Junk Recycling Company</h2>
                         
-                          
+                    <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>
+Choosing a Junk Recycling Company
+</h3>
+                 
                         <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"> When selecting a junk recycling company, consider the following factors:</p>
                       
                         
@@ -1067,9 +1104,14 @@ With insured operators and fair pricing, BinBear delivers great value and eco-fr
                 <div className="container">
                      <div className="row align-items-end">
                         <div className="col-lg-8 col-md-8 mb-30">
-                           
+                        <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px", borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>
+BinBear specializes in:
+</h3>
                             
-                               <h4 style={{marginTop:'30px'}}>BinBear specializes in:</h4>
+                               
                         </div>
                         <div className="col-lg-4 col-md-4 mb-30 text-md-end text-start"><Link className="btn btn-brand-1 hover-up" href="Booking" style={{backgroundColor: '#FF7F00', }}>
                             <svg fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">

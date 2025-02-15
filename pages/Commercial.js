@@ -168,6 +168,7 @@ export default function Quote() {
                     <div className="box-bg-requestaquote-4" style={{height:'400px'}}/>
                     <div className="container">
                         <div className="text-center mt-100">
+                                  
                             <h2 className="color-black wow animate__animated animate__fadeIn">Commercial Junk Removal Services by BinBear<br className="d-none d-lg-block" /></h2>
                             <div className="box-button mt-30"><Link className="btn btn-brand-1-big hover-up mr-40 wow animate__animated animate__fadeIn" href="Booking"style={{backgroundColor:'#FF7F00',color:'black',marginLeft:'17px'}}>Book Now</Link>    </div>
                        </div>
@@ -183,8 +184,13 @@ export default function Quote() {
                         <div className="row mt-50 align-items-center">
                             <div className="col-lg-6 mb-30">
                                 <h6 className="color- mb-15 wow animate__animated animate__fadeIn"></h6>
-                                <h2 className="color-mb-25 wow animate__animated animate__fadeIn"style={{color:'black',marginBottom:'30PX'}}>Commercial Junk Removal Process</h2>
-                                <div className="row">
+                                <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px",marginTop:'10px', borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>Commercial Junk Removal Process
+</h3>   
+                               
+                                 <div className="row">
                                     <div className="col-lg-9">
                                         <p className="font-md color-grey-900 wow animate__animated animate__fadeIn">Every business, no matter the industry, generates junk. Over time, old office furniture, equipment, and various forms of debris tend to pile up. If your business is ready to clear out the clutter, BinBear is here to help with affordable, tailored commercial junk removal solutions.</p>
                                     </div>
@@ -194,7 +200,13 @@ export default function Quote() {
                                     </div>
 
                                 </div>
-                                <h5 style={{marginTop:'30px'}}>Why Choose BinBear for Commercial Junk Removal?</h5>
+                                <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px",marginTop:'10px', borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>Why Choose BinBear for Commercial Junk Removal?
+</h3>   
+                               
+                                
                                 <div className="row mt-50">
                                 <div className="col-lg-6 mb-30">
                                         <h6 className="chart-title font-md-bold color-grey-900 wow animate__animated animate__fadeIn">Top-Rated Service</h6>
@@ -239,9 +251,13 @@ export default function Quote() {
 
                 <section className="section mt-10">
       <div className="container">
-        <h2 className="color-black mb-20 wow animate__animated animate__fadeIn">
-          Types of Commercial Junk Removal Services
-        </h2>
+      <h2
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px",marginTop:'10px', borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>Types of Commercial Junk Removal Services
+</h2>   
+
+        
         <div className="row mt-50">
           {cards.map((card, index) => (
             <div className="col-xl-3 col-md-6 mb-50" key={index}>
@@ -310,9 +326,20 @@ background-color:black;}
                 <section className="section pt-10 bg-worldmap">
                     <div className="container">
                         <div className="text-start">
-                            <h2 className="color-black mb-20 wow animate__animated animate__fadeIn">Benefits of Outsourcing Your Commercial </h2>
-                            <h2 className="color-black mb- wow animate__animated animate__fadeIn" style={{marginBottom:'40px'}}>Junk Removal to BinBear</h2>
-                            <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"></p>
+                            
+                        <h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px",marginTop:'10px', borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>Benefits of Outsourcing Your Commercial 
+</h3>   
+      
+<h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px",marginTop:'10px', borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>Junk Removal to BinBear
+</h3>   
+
+                                  <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"></p>
                         </div>
                         <div className="row mt-50">
                             <div className="col-lg-6 mb-30">
@@ -385,8 +412,15 @@ background-color:black;}
                 <div className="row align-items-center">
                             <div className="col-lg-6 mb-0"><Link className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img2.png" alt="transp" /></Link></div>
                             <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/pallet.png" alt="transp" />
-                                <h3 className="color-black mb-15 wow animate__animated animate__fadeIn">BinBear: A Green Approach to Commercial Junk Removal </h3>
-                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"> BinBear is committed to eco-friendly practices, leading the way with recycling-based junk removal. We sort each load to separate metals, electronics, paper, and more, aiming to recycle or repurpose as much as possible. Usable items are donated to local charities, helping reduce landfill waste while benefiting the community.</p>
+                                     
+<h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px",marginTop:'10px', borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>BinBear: A Green Approach to Commercial Junk Removal
+</h3>   
+
+                                
+                                  <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"> BinBear is committed to eco-friendly practices, leading the way with recycling-based junk removal. We sort each load to separate metals, electronics, paper, and more, aiming to recycle or repurpose as much as possible. Usable items are donated to local charities, helping reduce landfill waste while benefiting the community.</p>
                               
                            
                          <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}> </p>      
@@ -402,8 +436,14 @@ background-color:black;}
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
-                                <h3 className="color-black mb-15 wow animate__animated animate__fadeIn"style={{marginBottom:'30px'}}>Ready for Commercial Junk Removal?</h3>
-                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}>Getting started with BinBear is easy. Just follow these steps:</p>
+                                                                   
+<h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px",marginTop:'10px', borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>Ready for Commercial Junk Removal?
+</h3>   
+
+                                  <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}>Getting started with BinBear is easy. Just follow these steps:</p>
                                 <ul className="list-how-works">
                                 <li className="wow animate__animated animate__fadeIn">
                                         <div className="image-how"><span className="img"><img src="/assets/imgs/page/homepage1/payment.png" alt="transp"style={{height:'40px'}} /></span></div>
@@ -463,8 +503,15 @@ background-color:black;}
 
                 <section className="section mt-10">
                 <div className="container">
-                    <h2 className=" mb-20 wow animate__animated animate__fadeIn"style={{color:'black',}} >Our Comprehensive Junk Removal Services</h2>
-                    <div className="row align-items-end">
+                                                                                     
+<h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px",marginTop:'10px', borderRadius: "5px", width: "fit-content", textAlign: "center" }}
+>Our Comprehensive Junk Removal Services
+</h3>   
+
+                   
+                         <div className="row align-items-end">
                         <div className="col-lg-8 col-md-8 mb-30">
                             <p className="font-md color-gray-700 wow animate__animated animate__fadeIn">
                                </p>

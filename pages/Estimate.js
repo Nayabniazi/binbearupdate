@@ -107,8 +107,13 @@ export default function Home2() {
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-lg-6 mb-60">
-                                <h3 className="color-black mb-15 wow animate__animated animate__fadeIn"style={{marginBottom:'30px'}}>Get an Estimate Now with BinBear’s Online Pricing Estimator!</h3>
-                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}>At BinBear, we know that transparency is essential. Our easy-to-use online pricing estimator gives you a fast, reliable estimate for your junk removal needs, so you can make informed decisions without any surprises.</p>
+                                                                                                                                                                                                                                 
+<h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px",marginTop:'10px', borderRadius: "5px",marginBottom:'10px', width: "fit-content", textAlign: "center" }}
+>Get an Estimate Now with BinBear’s Online Pricing Estimator!
+</h3> 
+                                   <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}>At BinBear, we know that transparency is essential. Our easy-to-use online pricing estimator gives you a fast, reliable estimate for your junk removal needs, so you can make informed decisions without any surprises.</p>
                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}>Our pricing is based on average item sizes and current local rates. Please note, item size can vary, which may affect your final price, but rest assured, our courteous, trained staff will provide an accurate quote on site.
                                </p>
                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginTop:'20px'}}>Our pricing estimator even allows you to estimate based on the space your junk will take up in our large removal trucks. Get an affordable estimate in just minutes!</p>
@@ -124,8 +129,17 @@ export default function Home2() {
                         <div className="row align-items-center">
                             <div className="col-lg-6 mb-60"><div className="wow animate__animated animate__fadeIn" href="#"><img src="/assets/imgs/page/workprocess/img2.png" alt="transp" /></div></div>
                             <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/pallet.png" alt="transp" />
-                                <h3 className="color-black mb-15 wow animate__animated animate__fadeIn">How to Use BinBear’s Pricing Estimator:
-                                </h3>
+                               
+                               
+                                                                                                                                                                                                                                                               
+<h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px",marginTop:'10px', borderRadius: "5px",marginBottom:'10px', width: "fit-content", textAlign: "center" }}
+>How to Use BinBear’s Pricing Estimator:
+</h3> 
+                               
+                               
+                               
                                 <p className="font-md color-grey-700 wow animate__animated animate__fadeIn">
 
 
@@ -232,8 +246,14 @@ export default function Home2() {
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-lg-6 mb-60"><img className="mb-15 wow animate__animated animate__fadeIn" src="/assets/imgs/page/workprocess/parachute.png" alt="transp" />
-                                <h3 className="color-black mb-15 wow animate__animated animate__fadeIn"style={{marginBottom:'30px'}}>BinBear Believes in Fair and Transparent Pricing</h3>
-                                <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}>At BinBear, we promise to beat any written estimate from a comparable junk removal service. With free estimates and no hidden fees, we’re committed to offering the best value in the industry. When you choose us, you get:</p>
+                                                                                                                                                                                                                                                                                            
+<h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px",marginTop:'10px', borderRadius: "5px",marginBottom:'10px', width: "fit-content", textAlign: "center" }}
+>BinBear Believes in Fair and Transparent Pricing
+</h3> 
+          
+                                 <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"style={{marginBottom:'20px'}}>At BinBear, we promise to beat any written estimate from a comparable junk removal service. With free estimates and no hidden fees, we’re committed to offering the best value in the industry. When you choose us, you get:</p>
                                 <ul className="list-how-works">
                                 <li className="wow animate__animated animate__fadeIn">
                                         <div className="image-how"><span className="img"><img src="/assets/imgs/page/homepage1/payment.png" alt="transp" /></span></div>
@@ -297,8 +317,17 @@ export default function Home2() {
 
                         <section className="section mt-100">
                     <div className="container position-relative">
-                        <h2 className="title-favicon mb-20 wow animate__animated animate__fadeIn">Four  Different Ways to Get an Estimate</h2>
-                        <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"> We make it easy to get a free estimate with four convenient options:</p>
+                        
+                        
+                                                                                                                                                                                                                                                                                                                    
+<h3
+    className="wow animate__animated animate__fadeIn responsive-heading"
+    style={{ backgroundColor: "#FF7F00", color: "white", padding: "15px",marginTop:'10px', borderRadius: "5px",marginBottom:'10px', width: "fit-content", textAlign: "center" }}
+>Four  Different Ways to Get an Estimate
+</h3> 
+       
+                        
+                            <p className="font-md color-grey-700 wow animate__animated animate__fadeIn"> We make it easy to get a free estimate with four convenient options:</p>
                         <div className="row mt-50">
                             <div className="col-lg-6">
                                 <div className="item-faqs-2 mb-30">
