@@ -162,18 +162,70 @@ export default function Quote() {
 
 
 
+<section
+  className="section"
+  style={{
+    background: "linear-gradient(to bottom, black, #FF7F00)",
+    color: "white",
+  }}
+>
+  <div
+    className="container"
+    style={{
+      background: "linear-gradient(to right, #FF7F00, black)",
+      padding: "20px",
+      borderRadius: "10px",
+    }}
+  >
+    <div
+      className="banner text-center"
+      style={{
+        background: "none", // Remove the inner background for transparency
+      }}
+    >
+      <h2 className="color-white mt-15 mb-10 wow animate__animated animate__fadeIn">
+      Commercial Junk Removal Services by BinBear
+      </h2>
+      <p className="font-md color-white wow animate__animated animate__fadeIn">
+        <br className="d-none d-lg-block" />
+      </p>
+      <form action="#">
+        <div className="form-group">
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              justifyContent: "center",
+              alignItems: "center",
+              gap: "15px",
+              marginTop: "20px",
+              width: "100%",
+            }}
+          >
+            <a
+              href="Booking"
+              style={{
+                backgroundColor: "#FF7F00",
+                color: "black",
+                border: "none",
+                padding: "15px 20px",
+                textDecoration: "none",
+                textAlign: "center",
+                width: "90%",
+                maxWidth: "250px",
+                borderRadius: "5px",
+              }}
+            >
+              Book Online
+            </a>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
 
 
-                <section className="section box-requestaquote-4"style={{marginBottom:'100px'}}>
-                    <div className="box-bg-requestaquote-4" style={{height:'400px'}}/>
-                    <div className="container">
-                        <div className="text-center mt-100">
-                                  
-                            <h2 className="color-black wow animate__animated animate__fadeIn">Commercial Junk Removal Services by BinBear<br className="d-none d-lg-block" /></h2>
-                            <div className="box-button mt-30"><Link className="btn btn-brand-1-big hover-up mr-40 wow animate__animated animate__fadeIn" href="Booking"style={{backgroundColor:'#FF7F00',color:'black',marginLeft:'17px'}}>Book Now</Link>    </div>
-                       </div>
-                    </div>
-                </section>
 
 
 

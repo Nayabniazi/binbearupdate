@@ -7,72 +7,73 @@ export default function Faq() {
     return (
         <>
             <Layout>
-                <section className="section d-block hero-faqs">
-                    <div className="container position-relative">
-                        <div className="banner-trackyourparcel" />
-                        <div className="box-info-trackyourparcel">
-                            <h2 className="color-black mb-25 wow animate__animated animate__fadeIn">Junk Removal Estimate<br className="d-none d-lg-block" /> </h2>
-                            <p className="color-grey-900 font-md wow animate__animated animate__fadeIn"> </p>
-                            <div className="form-trackparcel mb-0">
-                                
-
-                            <form action="#">
-    <div className="form-group">
-        <div
-            style={{
-                display: "flex",
-                flexDirection: "column", // Stack buttons vertically
-                justifyContent: "center", // Center horizontally
-                alignItems: "center", // Center vertically
-                gap: "15px", // Add space between buttons
-                marginTop: "20px",
-                width: "100%", // Full-width for responsiveness
-            }}
-        >
-            {/* Button: Free Estimate */}
-            <a
-                href="Booking"
-                style={{
-                    backgroundColor: "#FF7F00",
-                    color: "black",
-                    border: "none",
-                    padding: "15px 20px",
-                   
-                    textDecoration: "none", // Remove underline
-                    textAlign: "center",
-                    width: "90%", // Ensure responsiveness
-                    maxWidth: "250px", // Limit max width for larger screens
-                }}
-            >
-                Book Now
-            </a>
-
-            {/* Button: Learn More */}
-           
-        </div>
-    </div>
-</form>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                            </div>
-                        </div>
-                    </div>
-                </section>
+               
 
                
+
+<section
+  className="section"
+  style={{
+    background: "linear-gradient(to bottom, black, #FF7F00)",
+    color: "white",
+  }}
+>
+  <div
+    className="container"
+    style={{
+      background: "linear-gradient(to right, #FF7F00, black)",
+      padding: "20px",
+      borderRadius: "10px",
+    }}
+  >
+    <div
+      className="banner text-center"
+      style={{
+        background: "none", // Remove the inner background for transparency
+      }}
+    >
+      <h2 className="color-white mt-15 mb-10 wow animate__animated animate__fadeIn">
+      Junk Removal Estimate
+      </h2>
+      <p className="font-md color-white wow animate__animated animate__fadeIn">
+        <br className="d-none d-lg-block" />
+      </p>
+      <form action="#">
+        <div className="form-group">
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              justifyContent: "center",
+              alignItems: "center",
+              gap: "15px",
+              marginTop: "20px",
+              width: "100%",
+            }}
+          >
+            <a
+              href="Booking"
+              style={{
+                backgroundColor: "#FF7F00",
+                color: "black",
+                border: "none",
+                padding: "15px 20px",
+                textDecoration: "none",
+                textAlign: "center",
+                width: "90%",
+                maxWidth: "250px",
+                borderRadius: "5px",
+              }}
+            >
+              Book Online
+            </a>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+
 
 
                 <section className="section mt-100 mb-50">
